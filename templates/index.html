@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GraphRAG Q&A</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Cytoscape.js 라이브러리 추가 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.20.0/cytoscape.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>GraphRAG Question & Answer</h1>
+        <form id="question-form">
+            <textarea id="question" placeholder="Ask your question here..." required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="conversation">
+            <!-- Q&A blocks will be appended here -->
+        </div>
+    </div>
+    <div id="loading" style="display: none;">
+        Loading... Please wait.
+    </div>
+    <!-- Cytoscape 컨테이너 -->
+    <div id="cy" style="width: 80%; height: 600px; margin: 0 auto; background-color: #f0f0f0;"></div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
