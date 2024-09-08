@@ -5,8 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GraphRAG Q&A</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    <!-- Cytoscape.js 라이브러리 추가 -->
+    <!-- Include Cytoscape.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.20.0/cytoscape.min.js"></script>
+    <!-- Include the fcose layout extension -->
+    <!-- <script src="https://unpkg.com/cytoscape-fcose@3.0.0/cytoscape-fcose.js"></script> -->
+    <script src="https://unpkg.com/layout-base/layout-base.js"></script>
+    <script src="https://unpkg.com/cose-base/cose-base.js"></script>
+    <script src="https://unpkg.com/cytoscape-fcose/cytoscape-fcose.js"></script>    
 </head>
 <body>
     <div class="container">

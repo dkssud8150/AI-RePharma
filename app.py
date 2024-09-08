@@ -25,16 +25,43 @@ CORS(app)
 
 # Environment setup
 os.environ['UPSTAGE_API_KEY'] = "up_eUJl1Cy3NQq2G5QWeZm9dCKn2ruzL"
-os.environ["OPENAI_API_KEY"] = "sk-proj-wDPJKrY6fv4oWsyv6nhaT3BlbkFJAI4oUTRtVIIHQqhofrCn"
+os.environ["OPENAI_API_KEY"] = "sk-jHM43q7XKdAZLou7A8rWUd2d--Sv_-5MmNSqrTXE7sT3BlbkFJ0uY7K5f4RFR1faJgK8_jItQz-XxWlxkoY_13_a5_MA" # "sk-proj-wDPJKrY6fv4oWsyv6nhaT3BlbkFJAI4oUTRtVIIHQqhofrCn"
 
 ###################################################################
 # Neo4j 데이터베이스 연결 설정
 ###################################################################
+# class Neo4jConnection:
+#     def __init__(self, url, user, password) -> None:
+#         self.driver = GraphDatabase.driver(url, auth=(user, password))
+#     def close(self):
+#         self.driver.close()
+#     def execute_query(self, query):
+#         with self.driver.session() as session:
+#             try:
+#                 session.run(query)
+#                 print("Relationships successfully inserted into Neo4j.")
+#             except Exception as e:
+#                 print(f"Error inserting relationships into Neo4j: {e}")
+
+
+def execute_query(query):
+    with driver.session() as session:
+        try:
+            session.run(query)
+            print("Relationships successfully inserted into Neo4j.")
+        except Exception as e:
+            print(f"Error inserting relationships into Neo4j: {e}")
+
+def clear_database():
+    delete_query = "MATCH (n) DETACH DELETE n"
+    execute_query(delete_query)
+    print("데이터베이스 초기화 완료")
+
+clear_database()
+
 url = "bolt://localhost:7687"
 user = "neo4j"
 password = "12345678"
-
-# graph = Neo4jGraph(url=url, username=user, password=password)
 driver = GraphDatabase.driver(url, auth=(user, password))
 
 # Chat model setup
@@ -46,35 +73,90 @@ chat = ChatOpenAI(temperature=0, model="gpt-4o")
 ###################################################################
 # chain = load_model(openai=True)
 
-def insert_relationships_into_neo4j(relationship_script):
-    with driver.session() as session:
-        try:
-            session.run(relationship_script)
-            print("Relationships successfully inserted into Neo4j.")
-        except Exception as e:
-            print(f"Error inserting relationships into Neo4j: {e}")
+def get_graph_data():
+    """ query
+    // Create nodes
+    CREATE (NeMCO:CellType {name: 'Newborn Mouse Calvarial Osteoblasts'})
+    CREATE (RUNX2:Gene {name: 'RUNX2'})
+    CREATE (FLAG_RUNX2:Protein {name: 'FLAG-RUNX2'})
+    CREATE (Estradiol:Compound {name: 'Estradiol'})
+    CREATE (Doxycycline:Compound {name: 'Doxycycline'})
+    CREATE (Control:Condition {name: 'Control'})
+    CREATE (Runx2:Gene {name: 'Runx2'})
+    CREATE (Osteocalcin:Gene {name: 'Osteocalcin'})
+    CREATE (Osterix:Gene {name: 'Osterix'})
+    CREATE (Oc:Gene {name: 'Oc'})
+    CREATE (Osx:Gene {name: 'Osx'})
 
-def get_graph_data_from_neo4j():
-    query = """
-    MATCH (n)-[r]->(m)
-    RETURN n.name AS source, type(r) AS relationship, m.name AS target
-    LIMIT 100
+    // Create relationships
+    CREATE (NeMCO)-[:TRANSDUCED_WITH]->(RUNX2)
+    CREATE (NeMCO)-[:TREATED_WITH]->(Doxycycline)
+    CREATE (NeMCO)-[:TREATED_WITH]->(Control)
+    CREATE (NeMCO)-[:EXPRESSION_OF]->(RUNX2)
+    CREATE (NeMCO)-[:EXPRESSION_OF]->(Runx2)
+    CREATE (NeMCO)-[:EXPRESSION_OF]->(Osteocalcin)
+    CREATE (NeMCO)-[:EXPRESSION_OF]->(Osterix)
+
+    // Induction relationships
+    CREATE (Doxycycline)-[:INDUCES]->(RUNX2)
+    CREATE (Doxycycline)-[:INCREASES]->(Runx2)
+    CREATE (Doxycycline)-[:ENHANCES]->(Osteocalcin)
+    CREATE (Doxycycline)-[:INCREASES]->(Osterix)
+
+    // Inhibition relationships
+    CREATE (Estradiol)-[:INHIBITS]->(Runx2)
+    CREATE (Estradiol)-[:REDUCES]->(Osteocalcin)
+    CREATE (Estradiol)-[:REDUCES]->(Osterix)
+    CREATE (Estradiol)-[:ANTAGONIZES]->(RUNX2)
+
+    // Regulatory relationships
+    CREATE (RUNX2)-[:PROMOTES]->(Osteocalcin)
+    CREATE (RUNX2)-[:PROMOTES]->(Osterix)
+    CREATE (Estradiol)-[:INHIBITS]->(RUNX2)
     """
+
+    nodes_query = "MATCH (n) RETURN n.name AS name, id(n) AS id, labels(n) AS labels LIMIT 100"
+    relationships_query = """
+    MATCH (n)-[r]->(m) 
+    RETURN id(n) AS start_node, type(r) AS relationship, id(m) AS end_node LIMIT 100
+    """
+
+    # 노드와 관계 조회
     with driver.session() as session:
-        results = session.run(query)
-        elements = []
-        for record in results:
-            elements.append({"data": {"id": record["source"], "label": record["source"]}})
-            elements.append({"data": {"id": record["target"], "label": record["target"]}})
-            elements.append({
-                "data": {
-                    "id": f'{record["source"]}-{record["target"]}',
-                    "source": record["source"],
-                    "target": record["target"],
-                    "relationship": record["relationship"]
-                }
-            })
-        return {"elements": elements}
+        nodes = session.run(nodes_query)
+        nodes = nodes.data()
+        relationships = session.run(relationships_query)
+        relationships = relationships.data()
+    # nodes = connection.execute_query(nodes_query)
+    # relationships = connection.execute_query(relationships_query)
+
+    # 노드를 JSON 형식으로 변환
+    nodes_data = []
+    for node in nodes:
+        if not node['name']: continue
+        nodes_data.append({
+            "id": node['id'],
+            "name": node['name'],
+            "labels": node['labels']
+        })
+
+    # 관계를 JSON 형식으로 변환
+    relationships_data = []
+    for rel in relationships:
+        if not rel['start_node']: continue
+        relationships_data.append({
+            "source": rel['start_node'],
+            "target": rel['end_node'],
+            "relationship": rel['relationship']
+        })
+
+    # 그래프 데이터를 합쳐서 반환
+    graph_data = {
+        "nodes": nodes_data,
+        "links": relationships_data
+    }
+
+    return graph_data
 
 def extract_cypher_query(response_text):
     """
@@ -103,8 +185,8 @@ def ask():
     system_message = SystemMessagePromptTemplate.from_template(
         "You are an assistant that provides PageRank analysis results."
     ) 
-    human_message = HumanMessagePromptTemplate.from_template(question)
     # human_message = HumanMessagePromptTemplate.from_template("What's the pagerank result")
+    human_message = HumanMessagePromptTemplate.from_template(question)
 
     chat_prompt = ChatPromptTemplate.from_messages([system_message, human_message])
 
@@ -118,17 +200,26 @@ def ask():
     )
     answer = response
 
+    if os.path.exists("graph_data.json"):
+        with open('graph_data.json', 'r') as file:
+            graph_data = json.load(file)
+    else:
+        # Process all figures
+        raw_output = process_figures(json_output["figures"])
+        for responses in raw_output:
+            relationship = relationship_chain.invoke({"text": responses})
+        print(relationship)
 
-    # Process all figures
-    raw_output = process_figures(json_output["figures"])
-    for responses in raw_output:
-        relationship = relationship_chain.invoke({"text": responses})
-    print(relationship)
+        relationship = relationship.strip().strip("```cypher").strip("```").strip()
+        relationship = extract_cypher_query(relationship)
+        execute_query(relationship)
+        graph_data = get_graph_data()
+        
+        # JSON 파일로 저장
+        with open("graph_data.json", "w") as outfile:
+            json.dump(graph_data, outfile, indent=4)
 
-    relationship = relationship.strip().strip("```cypher").strip("```").strip()
-    relationship = extract_cypher_query(relationship)
-    insert_relationships_into_neo4j(relationship)
-    graph_data = get_graph_data_from_neo4j()
+    print(graph_data)
 
     return jsonify({'question': question, 'answer': answer, 'graphData': graph_data})
 
