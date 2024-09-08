@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 from langchain_openai import ChatOpenAI
 from langchain_upstage import ChatUpstage
 
@@ -11,52 +12,14 @@ import json
 import base64
 from langchain_core.messages import HumanMessage
 
-env_vars = {
-    "OPENAI_API_KEY": "sk-jHM43q7XKdAZLou7A8rWUd2d--Sv_-5MmNSqrTXE7sT3BlbkFJ0uY7K5f4RFR1faJgK8_jItQz-XxWlxkoY_13_a5_MA", # "sk-proj-wDPJKrY6fv4oWsyv6nhaT3BlbkFJAI4oUTRtVIIHQqhofrCn",
-    "LANGCHAIN_TRACING_V2": "true",
-    "LANGCHAIN_API_KEY": "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",
-    "LLAMA_CLOUD_API_KEY" : "llx-Fj3Mbjk18Hz9QE9z7qQd3Zy5IlrfwSbAMPAAvLUm0OUJq3LH",
-}
-
-for key, value in env_vars.items():
-    os.environ[key] = value
-
-llm = ChatOpenAI(temperature=0, model="gpt-4o-mini")
-
-file_name = "Estrogens Antagonize RUNX2-Mediated Osteoblast-Driven.pdf"
-pdf_directory = f"./Data/{file_name}"
-
 parsing_instruction = """
 You are parsing a scientific paper to extract the images and their associated metadata.
 Your task is to identify and extract each image and its associated metadata, such as page number, position, and size.
 The output should include the image file and a JSON file with the metadata for each image.
 """
 
-# Parse the document using LlamaParse in JSON mode
-parser = LlamaParse(
-    result_type="json",
-    Language="EN",
-    parsing_instruction=parsing_instruction,
-    use_vendor_multimodal_model=False,
-    vendor_multimodal_model_name="openai-gpt-4o-mini",
-    vendor_multimodal_api_key=os.environ["OPENAI_API_KEY"],
-)
-json_objs = parser.get_json_result(pdf_directory)
-
-json_path = "./Data/json_out.json"
-os.makedirs("./Data",exist_ok=True)
-with open(json_path, 'w', encoding='utf-8') as json_file:
-    json.dump(json_objs, json_file, ensure_ascii=False, indent=4)
-
-print(f"JSON data saved to {json_path}")
-
-# Extract and save images from JSON objects
-save_directory = "./Data/Images"
-os.makedirs(save_directory, exist_ok=True)
-
 # Extract images from JSON and save them
 class CustomParser():
-    from llama_index.core.constants import DEFAULT_BASE_URL
     from llama_index.core.bridge.pydantic import Field, field_validator
 
     base_url: str = "https://api.cloud.llamaindex.ai"
@@ -65,12 +28,14 @@ class CustomParser():
         with open(json_path, 'w', encoding='utf-8') as json_file:
             json.dump(json_objs, json_file, ensure_ascii=False, indent=4)
 
-    def get_images(self, json_objs, download_path):
+    def get_images(self, json_objs, download_path, api_key):
+        file_name = Path(json_objs[0]['file_path']).stem
+        download_path = download_path + f"\{file_name}"
         os.makedirs(download_path, exist_ok=True)
         
         try:
             import httpx
-            headers = {"Authorization": f"Bearer {parser.api_key}"}
+            headers = {"Authorization": f"Bearer {api_key}"}
             images = []
             for result in json_objs:
                 job_id = result["job_id"]
@@ -103,134 +68,193 @@ class CustomParser():
             print("Error while downloading images from the parsed result:", e)
             return []
 
-CParser = CustomParser("./Data", json_path, json_objs)
-image_dicts = CParser.get_images(json_objs, save_directory)
-# image_dicts = parser.get_images(json_objs, download_path=save_directory)
+class articleExtractor:
+    env_vars = {
+        "OPENAI_API_KEY": "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", # "sk-jHM43q7XKdAZLou7A8rWUd2d--Sv_-5MmNSqrTXE7sT3BlbkFJ0uY7K5f4RFR1faJgK8_jItQz-XxWlxkoY_13_a5_MA",
+        "LANGCHAIN_TRACING_V2": "true",
+        "LANGCHAIN_API_KEY": "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",
+        "LLAMA_CLOUD_API_KEY" : "llx-Fj3Mbjk18Hz9QE9z7qQd3Zy5IlrfwSbAMPAAvLUm0OUJq3LH",
+    }
 
-# Print the extracted images and their metadata
-for image_dict in image_dicts:
-    print(f"Saved image: {image_dict['name']} with metadata: {image_dict}")
+    for key, value in env_vars.items():
+        os.environ[key] = value
 
-print(f"Images and metadata saved in {save_directory}")
+    data_path = Path("./Data")
+    json_path = str(data_path / "json_out.json")
+    img_path = str(data_path / "Images")
+    
+    llm = ChatOpenAI(temperature=0, model="gpt-4o-mini")
 
-parser = StrOutputParser()
+    def __init__(self, pdf_path=None):
+        if pdf_path is not None:
+            self.file_name = pdf_path
+        else:
+            self.file_name = "Estrogens Antagonize RUNX2-Mediated Osteoblast-Driven.pdf"
+        
+        self.pdf_directory = f"./Data/{self.file_name}"
 
-abstract_system_template = """
-You are parsing a scientific paper converted to JSON format to extract the descriptions of figures, that were donwloaded as images.
-Below is a dictionary of the list of images that are present in the text.
-The dictionary tells you which page the image is present in, in "page_number": some_integer.
-From the document find the abstract text. This is typically on the first page of the document.
-"""
+    def extract_pdf_data(self, parsing_instruction):
+        # Parse the document using LlamaParse in JSON mode
+        parser = LlamaParse(
+            result_type="json",
+            Language="EN",
+            parsing_instruction=parsing_instruction,
+            use_vendor_multimodal_model=False,
+            vendor_multimodal_model_name="openai-gpt-4o-mini",
+            vendor_multimodal_api_key=os.environ["OPENAI_API_KEY"],
+        )
+        self.api_key = parser.api_key
+        json_objs = parser.get_json_result(self.pdf_directory)
 
-caption_system_template = """
-You are parsing a scientific paper converted to JSON format to extract the descriptions of figures, that were donwloaded as images.
-Below is a dictionary of the list of images that are present in the text.
-The dictionary tells you which page the image is present in, in "page_number": some_integer.
+        os.makedirs(self.data_path,exist_ok=True)
+        with open(self.json_path, 'w', encoding='utf-8') as json_file:
+            json.dump(json_objs, json_file, ensure_ascii=False, indent=4)
+        self.json_objs = json_objs
+        print(f"JSON data saved to {self.json_path}")
 
-{image_dicts}
+    def save_images(self):
+        # Extract and save images from JSON objects
+        os.makedirs(self.img_path, exist_ok=True)
 
-Figures are typically labeled with the following format: "Figure 1.", "Figure 2.", etc. 
-Each figure description often includes detailed explanations for individual panels, which are labeled as:
-(A) panel description, (B) panel description, ..., or (a) panel description, (b) panel description, ...
+        CParser = CustomParser(str(self.data_path), self.json_path, self.json_objs)
+        image_dicts = CParser.get_images(self.json_objs, self.img_path, self.api_key)
+        # image_dicts = parser.get_images(json_objs, download_path=save_directory)
 
-Your task is to:
-1. Identify and extract each figure's full description.
-2. For each figure, extract the descriptions for all individual panels, maintaining the structure (e.g., (A), (B), etc.).
-3. Ensure that the extracted descriptions include any relevant entities (such as proteins, genes, drugs), and their relationships or interactions.
-4. Return the extracted information in a structured format, with clear labels for each figure and its corresponding panels.
+        # Print the extracted images and their metadata
+        for image_dict in image_dicts:
+            print(f"Saved image: {image_dict['name']} with metadata: {image_dict}")
 
-The output should maintain the context and order of the figures and their panels as presented in the paper. 
-If a figure description spans multiple paragraphs, ensure that all relevant information is captured.
+        self.image_dicts = image_dicts
 
-For each figure caption, you must include the "path" of the PNG file, and the "page_number" of each image.
-"""
+        print(f"Images and metadata saved in {self.img_path}")
 
-jsonify_system_template = """
-You are tasked with converting structured figure descriptions into json format.
-The structure includes details such as the figure number (e.g. figure 1), image file path as "path" (e.g. ./Data/Images\\05a4a4b5-baee-442f-8a7c-b0101901bacc-img_p16_1.png)
-page number, a description of the figure as "description" (e.g. Protein levels were measured using ELISA), its panels as "panels", and any relevant abbreviations.
-Dont leave any of these components empty: add a random one letter string if you dont know what to put in it.
-Dont add any explanations to the output, other than the json file.
-Dont put in any ```json. Don't leave in any trailing commas.
-Make sure the entire output is a single, valid JSON object.
-"""
+    def set_system_template(self):
+        parser = StrOutputParser()
 
-relationship_system_template = """
-Extract all the relationships between entities from the following text in a format that is compatible with Cypher. 
+        abstract_system_template = """
+        You are parsing a scientific paper converted to JSON format to extract the descriptions of figures, that were donwloaded as images.
+        Below is a dictionary of the list of images that are present in the text.
+        The dictionary tells you which page the image is present in, in "page_number": some_integer.
+        From the document find the abstract text. This is typically on the first page of the document.
+        """
 
-Text: "{text}"
+        caption_system_template = """
+        You are parsing a scientific paper converted to JSON format to extract the descriptions of figures, that were donwloaded as images.
+        Below is a dictionary of the list of images that are present in the text.
+        The dictionary tells you which page the image is present in, in "page_number": some_integer.
 
-Relationships (in Cypher syntax):
-"""
+        {image_dicts}
 
-abstract_prompt_template = ChatPromptTemplate.from_messages(
-    [("system", abstract_system_template), ("user", "{text}")]
-)
+        Figures are typically labeled with the following format: "Figure 1.", "Figure 2.", etc. 
+        Each figure description often includes detailed explanations for individual panels, which are labeled as:
+        (A) panel description, (B) panel description, ..., or (a) panel description, (b) panel description, ...
 
-caption_prompt_template = ChatPromptTemplate.from_messages(
-    [("system", caption_system_template), ("user", "{text}")]
-)
+        Your task is to:
+        1. Identify and extract each figure's full description.
+        2. For each figure, extract the descriptions for all individual panels, maintaining the structure (e.g., (A), (B), etc.).
+        3. Ensure that the extracted descriptions include any relevant entities (such as proteins, genes, drugs), and their relationships or interactions.
+        4. Return the extracted information in a structured format, with clear labels for each figure and its corresponding panels.
 
-jsonify_prompt_template = ChatPromptTemplate.from_messages(
-    [("system", jsonify_system_template), ("user", "{text}")]
-)
-relationship_prompt_template = ChatPromptTemplate.from_messages(
-    [("system", relationship_system_template), ("user", "{text}")]
-)
+        The output should maintain the context and order of the figures and their panels as presented in the paper. 
+        If a figure description spans multiple paragraphs, ensure that all relevant information is captured.
 
-parser = StrOutputParser()
+        For each figure caption, you must include the "path" of the PNG file, and the "page_number" of each image.
+        """
 
-abstract_chain = abstract_prompt_template | llm | parser
-caption_chain = caption_prompt_template | llm | parser
-jsonify_chain = jsonify_prompt_template | llm | parser
-relationship_chain = relationship_prompt_template | llm | parser
+        jsonify_system_template = """
+        You are tasked with converting structured figure descriptions into json format.
+        The structure includes details such as the figure number (e.g. figure 1), image file path as "path" (e.g. ./Data/Images\\file path\\img_p16_1.png) must
+        page number, a description of the figure as "description" (e.g. Protein levels were measured using ELISA), its panels as "panels", and any relevant abbreviations.
+        Dont leave any of these components empty: add a random one letter string if you dont know what to put in it.
+        Dont add any explanations to the output, other than the json file.
+        Dont put in any ```json. Don't leave in any trailing commas.
+        Make sure the entire output is a single, valid JSON object.
+        """
 
-abstract = abstract_chain.invoke({"text": json_objs})
-print(abstract)
+        relationship_system_template = """
+        Extract all the relationships between entities from the following text in a format that is compatible with Cypher. 
 
-captions = caption_chain.invoke({"text":json_objs, "image_dicts":image_dicts})
-print(captions)
+        Text: "{text}"
 
-json_output = jsonify_chain.invoke({"text":captions})
-print(json_output)
+        Relationships (in Cypher syntax):
+        """
 
+        abstract_prompt_template = ChatPromptTemplate.from_messages(
+            [("system", abstract_system_template), ("user", "{text}")]
+        )
 
-json_output = json.loads(json_output)
+        caption_prompt_template = ChatPromptTemplate.from_messages(
+            [("system", caption_system_template), ("user", "{text}")]
+        )
+
+        jsonify_prompt_template = ChatPromptTemplate.from_messages(
+            [("system", jsonify_system_template), ("user", "{text}")]
+        )
+        relationship_prompt_template = ChatPromptTemplate.from_messages(
+            [("system", relationship_system_template), ("user", "{text}")]
+        )
+
+        abstract_chain = abstract_prompt_template | self.llm | parser
+        caption_chain = caption_prompt_template | self.llm | parser
+        jsonify_chain = jsonify_prompt_template | self.llm | parser
+        relationship_chain = relationship_prompt_template | self.llm | parser
+        
+        abstract = abstract_chain.invoke({"text": self.json_objs})
+        print(abstract)
+
+        captions = caption_chain.invoke({"text": self.json_objs, "image_dicts": self.image_dicts})
+        print(captions)
+
+        json_output = jsonify_chain.invoke({"text":captions})
+        print(json_output)
+
+        json_output = json.loads(json_output)
+
+        self.relationship_chain = relationship_chain
+        self.abstract = abstract
+        self.captions = captions
+        self.json_output = json_output
+
+    def process_figures(self):
+        figures = self.json_output["figures"]
+        for figure in figures:
+            image_data = image_to_base64(figure['path'])
+            
+            # # Prepare the panels as a formatted string
+            # panels_str = "\n".join([f"{key}: {value}" for key, value in figure["panels"].items()])
+            
+            # Prepare the query string using the provided template
+            query_str = (
+                f"{self.abstract}\n\n"
+                f"Given the images provided and the following description: {figure['description']}, "
+                f"answer the query.\n"
+                f"Query: Explain the relationship between entities in {figure['figure_number']}.\n"
+                # f"Panels:\n{panels_str}\n"
+                f"Answer: "
+            )
+            
+            message = HumanMessage(
+                content=[
+                    {"type": "text", "text": query_str},
+                    {
+                        "type": "image_url",
+                        "image_url": {"url": f"data:image/jpeg;base64,{image_data}"},
+                    },
+                ],
+            )
+            
+            response = self.llm.invoke([message])
+            responses = []
+            responses.append(response.content)
+        
+        relationships = []
+        for response in responses:
+            relationship = self.relationship_chain.invoke({"text": response})
+            relationships.append(relationship)
+        return relationships
 
 #multimodal-queries of image-text
 def image_to_base64(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
-
-def process_figures(figures):
-    for figure in figures:
-        image_data = image_to_base64(figure['path'])
-        
-        # # Prepare the panels as a formatted string
-        # panels_str = "\n".join([f"{key}: {value}" for key, value in figure["panels"].items()])
-        
-        # Prepare the query string using the provided template
-        query_str = (
-            f"{abstract}\n\n"
-            f"Given the images provided and the following description: {figure['description']}, "
-            f"answer the query.\n"
-            f"Query: Explain the relationship between entities in {figure['figure_number']}.\n"
-            # f"Panels:\n{panels_str}\n"
-            f"Answer: "
-        )
-        
-        message = HumanMessage(
-            content=[
-                {"type": "text", "text": query_str},
-                {
-                    "type": "image_url",
-                    "image_url": {"url": f"data:image/jpeg;base64,{image_data}"},
-                },
-            ],
-        )
-        
-        response = llm.invoke([message])
-        responses = []
-        responses.append(response.content)
-        return(responses)
 

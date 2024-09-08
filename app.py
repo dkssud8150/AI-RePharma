@@ -12,6 +12,7 @@ from flask_cors import CORS
 
 import uvicorn
 from asgiref.wsgi import WsgiToAsgi
+from werkzeug.utils import secure_filename
 
 ###################################################################
 # Custom Function
@@ -23,9 +24,22 @@ from langchain_neo4j_functioncall import *
 app = Flask(__name__)
 CORS(app)
 
+ALLOWED_EXTENSIONS = {'pdf'}
+# check extension for input file
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
 # Environment setup
 os.environ['UPSTAGE_API_KEY'] = "up_eUJl1Cy3NQq2G5QWeZm9dCKn2ruzL"
-os.environ["OPENAI_API_KEY"] = "sk-jHM43q7XKdAZLou7A8rWUd2d--Sv_-5MmNSqrTXE7sT3BlbkFJ0uY7K5f4RFR1faJgK8_jItQz-XxWlxkoY_13_a5_MA" # "sk-proj-wDPJKrY6fv4oWsyv6nhaT3BlbkFJAI4oUTRtVIIHQqhofrCn"
+
+url = "bolt://localhost:7687"
+user = "neo4j"
+password = "12345678"
+driver = GraphDatabase.driver(url, auth=(user, password))
+
+# Chat model setup
+llm = ChatOpenAI(temperature=0, model="gpt-4o")
+chat = ChatOpenAI(temperature=0, model="gpt-4o")
 
 ###################################################################
 # Neo4j 데이터베이스 연결 설정
@@ -44,10 +58,13 @@ os.environ["OPENAI_API_KEY"] = "sk-jHM43q7XKdAZLou7A8rWUd2d--Sv_-5MmNSqrTXE7sT3B
 #                 print(f"Error inserting relationships into Neo4j: {e}")
 
 
-def execute_query(query):
+def execute_query(queries):
     with driver.session() as session:
         try:
-            session.run(query)
+            if isinstance(queries, list):
+                [session.run(query) for query in queries]
+            else:
+                session.run(queries)
             print("Relationships successfully inserted into Neo4j.")
         except Exception as e:
             print(f"Error inserting relationships into Neo4j: {e}")
@@ -58,15 +75,6 @@ def clear_database():
     print("데이터베이스 초기화 완료")
 
 clear_database()
-
-url = "bolt://localhost:7687"
-user = "neo4j"
-password = "12345678"
-driver = GraphDatabase.driver(url, auth=(user, password))
-
-# Chat model setup
-llm = ChatOpenAI(temperature=0, model="gpt-4o")
-chat = ChatOpenAI(temperature=0, model="gpt-4o")
 
 ###################################################################
 # 언어 모델 설정
@@ -163,10 +171,14 @@ def extract_cypher_query(response_text):
     Extract Cypher query from LLM response by removing any explanatory text.
     Assumes that the Cypher query starts after a known phrase like "Here are the relationships..."
     """
-    cypher_query_start = response_text.find("CREATE")  # 'CREATE'는 일반적으로 Cypher 쿼리의 시작
+    if isinstance(response_text, list):
+        response_text = response_text[0]
+    cypher_query_start = response_text.lower().find("create")  # 'CREATE'는 일반적으로 Cypher 쿼리의 시작
     if cypher_query_start != -1:
         cypher_query = response_text[cypher_query_start:].strip()
-        return cypher_query
+        queries = cypher_query.lower().split("create")
+        queries = [("CREATE" + q.strip()) for q in queries if q.strip()]
+        return queries
     else:
         raise ValueError("Cypher query not found in the response")
 
@@ -176,52 +188,68 @@ def index():
 
 @app.route('/ask', methods=['POST'])
 def ask():
-    data = request.json 
-    question = data.get('question', '')  # 'question' 키로 값을 가져옴
+    if 'question' in request.form and request.form.get('question', '') != '':
+        question = request.form.get('question', '')
+        llm_with_tools = llm.bind_tools([run_pagerank_with_langchain])
 
-    llm_with_tools = llm.bind_tools([run_pagerank_with_langchain])
+        # Define the chat prompt
+        system_message = SystemMessagePromptTemplate.from_template(
+            "You are an assistant that provides PageRank analysis results."
+        ) 
+        # human_message = HumanMessagePromptTemplate.from_template("What's the pagerank result")
+        human_message = HumanMessagePromptTemplate.from_template(question)
 
-    # Define the chat prompt
-    system_message = SystemMessagePromptTemplate.from_template(
-        "You are an assistant that provides PageRank analysis results."
-    ) 
-    # human_message = HumanMessagePromptTemplate.from_template("What's the pagerank result")
-    human_message = HumanMessagePromptTemplate.from_template(question)
+        chat_prompt = ChatPromptTemplate.from_messages([system_message, human_message])
 
-    chat_prompt = ChatPromptTemplate.from_messages([system_message, human_message])
+        # Create a chain using the chat model and prompt template
+        chain = RunnableSequence(chat_prompt | llm_with_tools | run_pagerank_with_langchain)
 
-    # Create a chain using the chat model and prompt template
-    chain = RunnableSequence(chat_prompt | llm_with_tools | run_pagerank_with_langchain)
+        # Execute the chain with specific input
+        response = chain.invoke({
+            "query": "What does the pagerank result tell you?"
+            }
+        )
+        answer = response
+        return jsonify({'question': question, 'answer': answer, 'graphData': """ """})        
+    
+    if 'file' in request.files:
+        file = request.files['file']
+        if file.filename != '' and allowed_file(file.filename):
+            file_name = secure_filename(file.filename)
 
-    # Execute the chain with specific input
-    response = chain.invoke({
-        "query": "What does the pagerank result tell you?"
-        }
-    )
-    answer = response
+            upload_folder = './uploads'
+            os.makedirs(upload_folder, exist_ok=True)
+            file_path = os.path.join(upload_folder, file_name)
+            if not os.path.exists(file_path):
+                file.save(file_path)
+                print(f'File saved to {file_path}')
+            else:
+                print(f'{file_path} file is exist in uploads folder')
 
-    if os.path.exists("graph_data.json"):
-        with open('graph_data.json', 'r') as file:
-            graph_data = json.load(file)
-    else:
-        # Process all figures
-        raw_output = process_figures(json_output["figures"])
-        for responses in raw_output:
-            relationship = relationship_chain.invoke({"text": responses})
-        print(relationship)
+        if os.path.exists(f"{file_name.split('.', 1)[0]}_graph_data.json"):
+            with open(f"{file_name.split('.', 1)[0]}_graph_data.json", 'r') as file:
+                graph_data = json.load(file)
+        else:
+            article_extractor = articleExtractor()
+            article_extractor.extract_pdf_data(parsing_instruction)
+            article_extractor.save_images()
+            article_extractor.set_system_template()
+            
+            relationships = article_extractor.process_figures()
+            print(relationships)
 
-        relationship = relationship.strip().strip("```cypher").strip("```").strip()
-        relationship = extract_cypher_query(relationship)
-        execute_query(relationship)
-        graph_data = get_graph_data()
-        
-        # JSON 파일로 저장
-        with open("graph_data.json", "w") as outfile:
-            json.dump(graph_data, outfile, indent=4)
+            for relationship in relationships:
+                relationship = relationship.strip().strip("```cypher").strip("```").strip()
+                relationship = extract_cypher_query(relationship)
+                execute_query(relationship)
+            graph_data = get_graph_data()
+            
+            # JSON 파일로 저장
+            with open(f"{file_name.split('.', 1)[0]}_graph_data.json", "w") as outfile:
+                json.dump(graph_data, outfile, indent=4)
 
-    print(graph_data)
-
-    return jsonify({'question': question, 'answer': answer, 'graphData': graph_data})
+        print(graph_data)
+        return jsonify({'question': {}, 'answer': {}, 'graphData': graph_data})
 
 asgi_app = WsgiToAsgi(app)
 
