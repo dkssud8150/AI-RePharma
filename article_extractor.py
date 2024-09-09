@@ -260,38 +260,3 @@ def image_to_base64(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-<<<<<<< HEAD
-=======
-def process_figures(figures):
-    for figure in figures:
-        image_data = image_to_base64(figure['path'])
-        
-        # # Prepare the panels as a formatted string
-        # panels_str = "\n".join([f"{key}: {value}" for key, value in figure["panels"].items()])
-        
-        # Prepare the query string using the provided template
-        query_str = (
-            f"{abstract}\n\n"
-            f"Given the images provided and the following description: {figure['description']}, "
-            f"answer the query.\n"
-            f"Query: Explain the relationship between entities in {figure['figure_number']}.\n"
-            # f"Panels:\n{panels_str}\n"
-            f"Answer: "
-        )
-        
-        message = HumanMessage(
-            content=[
-                {"type": "text", "text": query_str},
-                {
-                    "type": "image_url",
-                    "image_url": {"url": f"data:image/jpeg;base64,{image_data}"},
-                },
-            ],
-        )
-        
-        response = llm.invoke([message])
-        responses = []
-        responses.append(response.content)
-        return(responses)
-
->>>>>>> 2c0d44429adb51d3c40f9a0eb5e8ab80c2fe535c
