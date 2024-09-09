@@ -1,9 +1,4 @@
 import os
-import pandas as pd
-
-import spacy
-from transformers import AutoTokenizer, AutoModelForTokenClassification
-from transformers import pipeline
 
 from neo4j import GraphDatabase
 
@@ -17,7 +12,6 @@ from werkzeug.utils import secure_filename
 ###################################################################
 # Custom Function
 ###################################################################
-from common import load_model
 from article_extractor import *
 from langchain_neo4j_functioncall import *
 
@@ -38,8 +32,8 @@ password = "12345678"
 driver = GraphDatabase.driver(url, auth=(user, password))
 
 # Chat model setup
-llm = ChatOpenAI(temperature=0, model="gpt-4o")
-chat = ChatOpenAI(temperature=0, model="gpt-4o")
+llm = ChatOpenAI(temperature=0, model="gpt-4o-mini")
+chat = ChatOpenAI(temperature=0, model="gpt-4o-mini")
 
 ###################################################################
 # Neo4j 데이터베이스 연결 설정
@@ -58,23 +52,24 @@ chat = ChatOpenAI(temperature=0, model="gpt-4o")
 #                 print(f"Error inserting relationships into Neo4j: {e}")
 
 
-def execute_query(queries):
-    with driver.session() as session:
-        try:
-            if isinstance(queries, list):
-                [session.run(query) for query in queries]
-            else:
-                session.run(queries)
-            print("Relationships successfully inserted into Neo4j.")
-        except Exception as e:
-            print(f"Error inserting relationships into Neo4j: {e}")
+def execute_query(tx, queries):
+    if isinstance(queries, list):
+        for query in queries:
+            try:
+                tx.run(query)
+                print("Relationships successfully inserted into Neo4j.")
+            except Exception as e:
+                print(f"Error inserting relationships into Neo4j: {e}")
+                continue
+    else:
+        tx.run(queries)
+    print("Relationships successfully inserted into Neo4j.")
 
 def clear_database():
     delete_query = "MATCH (n) DETACH DELETE n"
-    execute_query(delete_query)
+    with driver.session() as session:
+        session.execute_write(execute_query, delete_query)
     print("데이터베이스 초기화 완료")
-
-clear_database()
 
 ###################################################################
 # 언어 모델 설정
@@ -166,20 +161,20 @@ def get_graph_data():
 
     return graph_data
 
-def extract_cypher_query(response_text):
+def extract_cypher_query(relationship):
     """
     Extract Cypher query from LLM response by removing any explanatory text.
     Assumes that the Cypher query starts after a known phrase like "Here are the relationships..."
     """
-    if isinstance(response_text, list):
-        response_text = response_text[0]
-    cypher_query_start = response_text.lower().find("create")  # 'CREATE'는 일반적으로 Cypher 쿼리의 시작
-    if cypher_query_start != -1:
-        cypher_query = response_text[cypher_query_start:].strip()
-        queries = cypher_query.lower().split("create")
-        queries = [("CREATE" + q.strip()) for q in queries if q.strip()]
+    if isinstance(relationship, list):
+        relationship = relationship[0]
+    try:
+        cypher_query_start = relationship.find("CREATE")  # 'CREATE'는 일반적으로 Cypher 쿼리의 시작
+        queries = relationship[cypher_query_start:].strip()
+        # queries = cypher_query.lower().split("create")
+        # queries = [("MERGE " + q.strip()) for q in queries if q.strip()]
         return queries
-    else:
+    except:
         raise ValueError("Cypher query not found in the response")
 
 @app.route('/')
@@ -188,6 +183,7 @@ def index():
 
 @app.route('/ask', methods=['POST'])
 def ask():
+    clear_database()
     if 'question' in request.form and request.form.get('question', '') != '':
         question = request.form.get('question', '')
         llm_with_tools = llm.bind_tools([run_pagerank_with_langchain])
@@ -230,7 +226,7 @@ def ask():
             with open(f"{file_name.split('.', 1)[0]}_graph_data.json", 'r') as file:
                 graph_data = json.load(file)
         else:
-            article_extractor = articleExtractor()
+            article_extractor = articleExtractor(file_path)
             article_extractor.extract_pdf_data(parsing_instruction)
             article_extractor.save_images()
             article_extractor.set_system_template()
@@ -241,7 +237,8 @@ def ask():
             for relationship in relationships:
                 relationship = relationship.strip().strip("```cypher").strip("```").strip()
                 relationship = extract_cypher_query(relationship)
-                execute_query(relationship)
+                with driver.session() as session:
+                    session.execute_write(execute_query, relationship)
             graph_data = get_graph_data()
             
             # JSON 파일로 저장

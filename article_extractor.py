@@ -69,8 +69,9 @@ class CustomParser():
             return []
 
 class articleExtractor:
+    # "sk-jHM43q7XKdAZLou7A8rWUd2d--Sv_-5MmNSqrTXE7sT3BlbkFJ0uY7K5f4RFR1faJgK8_jItQz-XxWlxkoY_13_a5_MA", 
     env_vars = {
-        "OPENAI_API_KEY": "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", # "sk-jHM43q7XKdAZLou7A8rWUd2d--Sv_-5MmNSqrTXE7sT3BlbkFJ0uY7K5f4RFR1faJgK8_jItQz-XxWlxkoY_13_a5_MA",
+        "OPENAI_API_KEY": "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", 
         "LANGCHAIN_TRACING_V2": "true",
         "LANGCHAIN_API_KEY": "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",
         "LLAMA_CLOUD_API_KEY" : "llx-Fj3Mbjk18Hz9QE9z7qQd3Zy5IlrfwSbAMPAAvLUm0OUJq3LH",
@@ -163,7 +164,7 @@ class articleExtractor:
 
         jsonify_system_template = """
         You are tasked with converting structured figure descriptions into json format.
-        The structure includes details such as the figure number (e.g. figure 1), image file path as "path" (e.g. ./Data/Images\\file path\\img_p16_1.png) must
+        The structure includes details such as the figure number (e.g. figure 1), image file path as "path" (e.g. ./Data/Images\\(pdf file name)\\img_p16_1.png) must
         page number, a description of the figure as "description" (e.g. Protein levels were measured using ELISA), its panels as "panels", and any relevant abbreviations.
         Dont leave any of these components empty: add a random one letter string if you dont know what to put in it.
         Dont add any explanations to the output, other than the json file.
@@ -194,6 +195,7 @@ class articleExtractor:
             [("system", relationship_system_template), ("user", "{text}")]
         )
 
+
         abstract_chain = abstract_prompt_template | self.llm | parser
         caption_chain = caption_prompt_template | self.llm | parser
         jsonify_chain = jsonify_prompt_template | self.llm | parser
@@ -217,6 +219,7 @@ class articleExtractor:
 
     def process_figures(self):
         figures = self.json_output["figures"]
+        responses = []
         for figure in figures:
             image_data = image_to_base64(figure['path'])
             
@@ -244,7 +247,6 @@ class articleExtractor:
             )
             
             response = self.llm.invoke([message])
-            responses = []
             responses.append(response.content)
         
         relationships = []

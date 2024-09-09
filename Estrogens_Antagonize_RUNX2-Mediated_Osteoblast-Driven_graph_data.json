@@ -1,0 +1,454 @@
+{
+    "nodes": [
+        {
+            "id": 881,
+            "name": "Estradiol",
+            "labels": [
+                "Treatment"
+            ]
+        },
+        {
+            "id": 882,
+            "name": "Raloxifene",
+            "labels": [
+                "Treatment"
+            ]
+        },
+        {
+            "id": 883,
+            "name": "Tamoxifen",
+            "labels": [
+                "Treatment"
+            ]
+        },
+        {
+            "id": 884,
+            "name": "TFF1",
+            "labels": [
+                "Gene"
+            ]
+        },
+        {
+            "id": 885,
+            "name": "FasL",
+            "labels": [
+                "Gene"
+            ]
+        },
+        {
+            "id": 886,
+            "name": "Osteoclast",
+            "labels": [
+                "CellType"
+            ]
+        },
+        {
+            "id": 887,
+            "name": "Runx2",
+            "labels": [
+                "Gene"
+            ]
+        },
+        {
+            "id": 888,
+            "name": "C",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 889,
+            "name": "D",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 890,
+            "name": "E",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 891,
+            "name": "DE",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 892,
+            "name": "R",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 893,
+            "name": "DR",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 894,
+            "name": "T",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 895,
+            "name": "DT",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 896,
+            "name": "Gene Expression",
+            "labels": [
+                "Process"
+            ]
+        },
+        {
+            "id": 897,
+            "name": "Osteoclast Differentiation",
+            "labels": [
+                "Process"
+            ]
+        },
+        {
+            "id": 898,
+            "name": "Estradiol",
+            "labels": [
+                "Treatment"
+            ]
+        },
+        {
+            "id": 899,
+            "name": "Raloxifene",
+            "labels": [
+                "Treatment"
+            ]
+        },
+        {
+            "id": 900,
+            "name": "Tamoxifen",
+            "labels": [
+                "Treatment"
+            ]
+        },
+        {
+            "id": 901,
+            "name": "TFF1",
+            "labels": [
+                "Gene"
+            ]
+        },
+        {
+            "id": 902,
+            "name": "FasL",
+            "labels": [
+                "Gene"
+            ]
+        },
+        {
+            "id": 903,
+            "name": "Osteoclast",
+            "labels": [
+                "CellType"
+            ]
+        },
+        {
+            "id": 904,
+            "name": "Runx2",
+            "labels": [
+                "Gene"
+            ]
+        },
+        {
+            "id": 905,
+            "name": "C",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 906,
+            "name": "D",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 907,
+            "name": "E",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 908,
+            "name": "DE",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 909,
+            "name": "R",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 910,
+            "name": "DR",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 911,
+            "name": "T",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 912,
+            "name": "DT",
+            "labels": [
+                "Condition"
+            ]
+        },
+        {
+            "id": 913,
+            "name": "Gene Expression",
+            "labels": [
+                "Process"
+            ]
+        },
+        {
+            "id": 914,
+            "name": "Osteoclast Differentiation",
+            "labels": [
+                "Process"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": 881,
+            "target": 884,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 881,
+            "target": 885,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 882,
+            "target": 884,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 882,
+            "target": 885,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 883,
+            "target": 884,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 883,
+            "target": 885,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 881,
+            "target": 886,
+            "relationship": "ENHANCES"
+        },
+        {
+            "source": 881,
+            "target": 887,
+            "relationship": "REGULATES"
+        },
+        {
+            "source": 887,
+            "target": 886,
+            "relationship": "CRITICAL_FOR"
+        },
+        {
+            "source": 881,
+            "target": 882,
+            "relationship": "COMBINES_WITH"
+        },
+        {
+            "source": 881,
+            "target": 883,
+            "relationship": "COMBINES_WITH"
+        },
+        {
+            "source": 881,
+            "target": 882,
+            "relationship": "VARIES_EFFECTS_WITH"
+        },
+        {
+            "source": 881,
+            "target": 883,
+            "relationship": "VARIES_EFFECTS_WITH"
+        },
+        {
+            "source": 882,
+            "target": 881,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 883,
+            "target": 881,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 881,
+            "target": 896,
+            "relationship": "DOMINATES"
+        },
+        {
+            "source": 881,
+            "target": 897,
+            "relationship": "DOMINATES"
+        },
+        {
+            "source": 882,
+            "target": 896,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 883,
+            "target": 896,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 882,
+            "target": 897,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 883,
+            "target": 897,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 898,
+            "target": 901,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 898,
+            "target": 902,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 899,
+            "target": 901,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 899,
+            "target": 902,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 900,
+            "target": 901,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 900,
+            "target": 902,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 898,
+            "target": 903,
+            "relationship": "ENHANCES"
+        },
+        {
+            "source": 898,
+            "target": 904,
+            "relationship": "REGULATES"
+        },
+        {
+            "source": 904,
+            "target": 903,
+            "relationship": "CRITICAL_FOR"
+        },
+        {
+            "source": 898,
+            "target": 899,
+            "relationship": "COMBINES_WITH"
+        },
+        {
+            "source": 898,
+            "target": 900,
+            "relationship": "COMBINES_WITH"
+        },
+        {
+            "source": 898,
+            "target": 899,
+            "relationship": "VARIES_EFFECTS_WITH"
+        },
+        {
+            "source": 898,
+            "target": 900,
+            "relationship": "VARIES_EFFECTS_WITH"
+        },
+        {
+            "source": 899,
+            "target": 898,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 900,
+            "target": 898,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 898,
+            "target": 913,
+            "relationship": "DOMINATES"
+        },
+        {
+            "source": 898,
+            "target": 914,
+            "relationship": "DOMINATES"
+        },
+        {
+            "source": 899,
+            "target": 913,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 900,
+            "target": 913,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 899,
+            "target": 914,
+            "relationship": "MODULATES"
+        },
+        {
+            "source": 900,
+            "target": 914,
+            "relationship": "MODULATES"
+        }
+    ]
+}
