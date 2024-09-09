@@ -1,0 +1,237 @@
+{
+    "nodes": [
+        {
+            "id": 19,
+            "name": "RUNX2",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Control",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Dox",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Estradiol",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Dox plus Estradiol",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "RUNX2",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Control",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Dox",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Estradiol",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Dox plus Estradiol",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Osteocalcin",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Osterix",
+            "labels": [
+                "Entity"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Newborn Mouse Calvarial Osteoblasts",
+            "labels": [
+                "Entity"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": 19,
+            "target": 21,
+            "relationship": "INFLUENCED_BY"
+        },
+        {
+            "source": 19,
+            "target": 22,
+            "relationship": "INFLUENCED_BY"
+        },
+        {
+            "source": 21,
+            "target": 19,
+            "relationship": "INCREASES"
+        },
+        {
+            "source": 22,
+            "target": 19,
+            "relationship": "INHIBITS"
+        },
+        {
+            "source": 22,
+            "target": 19,
+            "relationship": "NEGATIVELY_REGULATES"
+        },
+        {
+            "source": 23,
+            "target": 19,
+            "relationship": "ANTAGONIZES"
+        },
+        {
+            "source": 23,
+            "target": 19,
+            "relationship": "REDUCES"
+        },
+        {
+            "source": 23,
+            "target": 21,
+            "relationship": "REDUCES"
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "relationship": "INCREASES"
+        },
+        {
+            "source": 22,
+            "target": 20,
+            "relationship": "REDUCES"
+        },
+        {
+            "source": 22,
+            "target": 21,
+            "relationship": "REDUCES"
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "relationship": "REDUCES"
+        },
+        {
+            "source": 26,
+            "target": 24,
+            "relationship": "INFLUENCES"
+        },
+        {
+            "source": 27,
+            "target": 24,
+            "relationship": "INFLUENCES"
+        },
+        {
+            "source": 26,
+            "target": 24,
+            "relationship": "INCREASES"
+        },
+        {
+            "source": 26,
+            "target": 29,
+            "relationship": "INCREASES"
+        },
+        {
+            "source": 26,
+            "target": 30,
+            "relationship": "INCREASES"
+        },
+        {
+            "source": 27,
+            "target": 24,
+            "relationship": "DECREASES"
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "relationship": "DECREASES"
+        },
+        {
+            "source": 27,
+            "target": 30,
+            "relationship": "DECREASES"
+        },
+        {
+            "source": 28,
+            "target": 24,
+            "relationship": "DECREASES"
+        },
+        {
+            "source": 28,
+            "target": 29,
+            "relationship": "DECREASES"
+        },
+        {
+            "source": 28,
+            "target": 30,
+            "relationship": "DECREASES"
+        },
+        {
+            "source": 24,
+            "target": 29,
+            "relationship": "REGULATES"
+        },
+        {
+            "source": 24,
+            "target": 30,
+            "relationship": "REGULATES"
+        },
+        {
+            "source": 24,
+            "target": 31,
+            "relationship": "AFFECTS"
+        },
+        {
+            "source": 27,
+            "target": 24,
+            "relationship": "NEGATIVELY_REGULATES"
+        },
+        {
+            "source": 24,
+            "target": 32,
+            "relationship": "AFFECTS"
+        }
+    ]
+}
