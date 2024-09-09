@@ -4,3 +4,4 @@ my_ner_model
 nlp
 publish
 SOLAR-10.7B-v1.0
+Data/json_out.json
