@@ -1,0 +1,4039 @@
+XID,category,NameSpace,ID,Name
+MeSH:D000038,Disease,MeSH,D000038,Abscess
+MeSH:D000152,Disease,MeSH,D000152,Acne Vulgaris
+MeSH:D000163,Disease,MeSH,D000163,Acquired Immunodeficiency Syndrome
+MeSH:D000172,Disease,MeSH,D000172,Acromegaly
+MeSH:D000224,Disease,MeSH,D000224,Addison Disease
+MeSH:D000230,Disease,MeSH,D000230,Adenocarcinoma
+MeSH:D000292,Disease,MeSH,D000292,Pelvic Inflammatory Disease
+MeSH:D000309,Disease,MeSH,D000309,Adrenal Insufficiency
+MeSH:D000312,Disease,MeSH,D000312,"Adrenal Hyperplasia, Congenital"
+MeSH:D000326,Disease,MeSH,D000326,Adrenoleukodystrophy
+MeSH:D000342,Disease,MeSH,D000342,Affective Symptoms
+MeSH:D000375,Disease,MeSH,D000375,Aging
+MeSH:D000419,Disease,MeSH,D000419,Albuminuria
+MeSH:D000437,Disease,MeSH,D000437,Alcoholism
+MeSH:D000505,Disease,MeSH,D000505,Alopecia
+MeSH:D000544,Disease,MeSH,D000544,Alzheimer Disease
+MeSH:D000562,Disease,MeSH,D000562,Amebiasis
+MeSH:D000568,Disease,MeSH,D000568,Amenorrhea
+MeSH:D000686,Disease,MeSH,D000686,Amyloidosis
+MeSH:D000690,Disease,MeSH,D000690,Amyotrophic Lateral Sclerosis
+MeSH:D000698,Disease,MeSH,D000698,Analgesia
+MeSH:D000740,Disease,MeSH,D000740,Anemia
+MeSH:D000741,Disease,MeSH,D000741,"Anemia, Aplastic"
+MeSH:D000744,Disease,MeSH,D000744,"Anemia, Hemolytic, Autoimmune"
+MeSH:D000755,Disease,MeSH,D000755,"Anemia, Sickle Cell"
+MeSH:D000758,Disease,MeSH,D000758,Anesthesia
+MeSH:D000772,Disease,MeSH,D000772,"Anesthesia, Local"
+MeSH:D000775,Disease,MeSH,D000775,"Anesthesia, Spinal"
+MeSH:D000787,Disease,MeSH,D000787,Angina Pectoris
+MeSH:D000789,Disease,MeSH,D000789,"Angina, Unstable"
+MeSH:D000795,Disease,MeSH,D000795,Fabry Disease
+MeSH:D000799,Disease,MeSH,D000799,Angioedema
+MeSH:D000855,Disease,MeSH,D000855,Anorexia
+MeSH:D000856,Disease,MeSH,D000856,Anorexia Nervosa
+MeSH:D000858,Disease,MeSH,D000858,Anovulation
+MeSH:D001007,Disease,MeSH,D001007,Anxiety
+MeSH:D001008,Disease,MeSH,D001008,Anxiety Disorders
+MeSH:D001049,Disease,MeSH,D001049,Apnea
+MeSH:D001064,Disease,MeSH,D001064,Appendicitis
+MeSH:D001068,Disease,MeSH,D001068,Eating Disorders
+MeSH:D001145,Disease,MeSH,D001145,"Arrhythmias, Cardiac"
+MeSH:D001168,Disease,MeSH,D001168,Arthritis
+MeSH:D001172,Disease,MeSH,D001172,"Arthritis, Rheumatoid"
+MeSH:D001201,Disease,MeSH,D001201,Ascites
+MeSH:D001228,Disease,MeSH,D001228,Aspergillosis
+MeSH:D001249,Disease,MeSH,D001249,Asthma
+MeSH:D001250,Disease,MeSH,D001250,"Asthma, Exercise-Induced"
+MeSH:D001254,Disease,MeSH,D001254,Astrocytoma
+MeSH:D001260,Disease,MeSH,D001260,Ataxia Telangiectasia
+MeSH:D001281,Disease,MeSH,D001281,Atrial Fibrillation
+MeSH:D001282,Disease,MeSH,D001282,Atrial Flutter
+MeSH:D001289,Disease,MeSH,D001289,Attention Deficit Disorder with Hyperactivity
+MeSH:D001321,Disease,MeSH,D001321,Autistic Disorder
+MeSH:D001327,Disease,MeSH,D001327,Autoimmune Diseases
+MeSH:D001416,Disease,MeSH,D001416,Back Pain
+MeSH:D001424,Disease,MeSH,D001424,Bacterial Infections
+MeSH:D001471,Disease,MeSH,D001471,Barrett Esophagus
+MeSH:D001523,Disease,MeSH,D001523,Mental Disorders
+MeSH:D001528,Disease,MeSH,D001528,Behcet Syndrome
+MeSH:D001661,Disease,MeSH,D001661,Biliary Tract Neoplasms
+MeSH:D001714,Disease,MeSH,D001714,Bipolar Disorder
+MeSH:D001745,Disease,MeSH,D001745,Urinary Bladder Diseases
+MeSH:D001749,Disease,MeSH,D001749,Urinary Bladder Neoplasms
+MeSH:D001750,Disease,MeSH,D001750,"Urinary Bladder, Neurogenic"
+MeSH:D001764,Disease,MeSH,D001764,Blepharospasm
+MeSH:D001778,Disease,MeSH,D001778,Blood Coagulation Disorders
+MeSH:D001794,Disease,MeSH,D001794,Blood Pressure
+MeSH:D001835,Disease,MeSH,D001835,Body Weight
+MeSH:D001847,Disease,MeSH,D001847,Bone Diseases
+MeSH:D001883,Disease,MeSH,D001883,Borderline Personality Disorder
+MeSH:D001919,Disease,MeSH,D001919,Bradycardia
+MeSH:D001929,Disease,MeSH,D001929,Brain Edema
+MeSH:D001930,Disease,MeSH,D001930,Brain Injuries
+MeSH:D001932,Disease,MeSH,D001932,Brain Neoplasms
+MeSH:D001943,Disease,MeSH,D001943,Breast Neoplasms
+MeSH:D001948,Disease,MeSH,D001948,Brenner Tumor
+MeSH:D001984,Disease,MeSH,D001984,Bronchial Neoplasms
+MeSH:D001986,Disease,MeSH,D001986,Bronchial Spasm
+MeSH:D001987,Disease,MeSH,D001987,Bronchiectasis
+MeSH:D001988,Disease,MeSH,D001988,Bronchiolitis
+MeSH:D001989,Disease,MeSH,D001989,Bronchiolitis Obliterans
+MeSH:D001997,Disease,MeSH,D001997,Bronchopulmonary Dysplasia
+MeSH:D002056,Disease,MeSH,D002056,Burns
+MeSH:D002100,Disease,MeSH,D002100,Cachexia
+MeSH:D002113,Disease,MeSH,D002113,"Calcification, Physiologic"
+MeSH:D002114,Disease,MeSH,D002114,Calcinosis
+MeSH:D002177,Disease,MeSH,D002177,Candidiasis
+MeSH:D002180,Disease,MeSH,D002180,"Candidiasis, Oral"
+MeSH:D002181,Disease,MeSH,D002181,"Candidiasis, Vulvovaginal"
+MeSH:D002189,Disease,MeSH,D002189,Marijuana Abuse
+MeSH:D002276,Disease,MeSH,D002276,Carcinoid Tumor
+MeSH:D002277,Disease,MeSH,D002277,Carcinoma
+MeSH:D002278,Disease,MeSH,D002278,Carcinoma in Situ
+MeSH:D002289,Disease,MeSH,D002289,"Carcinoma, Non-Small-Cell Lung"
+MeSH:D002292,Disease,MeSH,D002292,"Carcinoma, Renal Cell"
+MeSH:D002294,Disease,MeSH,D002294,"Carcinoma, Squamous Cell"
+MeSH:D002295,Disease,MeSH,D002295,"Carcinoma, Transitional Cell"
+MeSH:D002311,Disease,MeSH,D002311,"Cardiomyopathy, Dilated"
+MeSH:D002312,Disease,MeSH,D002312,"Cardiomyopathy, Hypertrophic"
+MeSH:D002318,Disease,MeSH,D002318,Cardiovascular Diseases
+MeSH:D002386,Disease,MeSH,D002386,Cataract
+MeSH:D002446,Disease,MeSH,D002446,Celiac Disease
+MeSH:D002481,Disease,MeSH,D002481,Cellulitis
+MeSH:D002493,Disease,MeSH,D002493,Central Nervous System Diseases
+MeSH:D002543,Disease,MeSH,D002543,Cerebral Hemorrhage
+MeSH:D002544,Disease,MeSH,D002544,Cerebral Infarction
+MeSH:D002545,Disease,MeSH,D002545,Brain Ischemia
+MeSH:D002583,Disease,MeSH,D002583,Uterine Cervical Neoplasms
+MeSH:D002780,Disease,MeSH,D002780,"Cholestasis, Intrahepatic"
+MeSH:D002813,Disease,MeSH,D002813,Chondrosarcoma
+MeSH:D002821,Disease,MeSH,D002821,Chorioamnionitis
+MeSH:D002825,Disease,MeSH,D002825,Chorioretinitis
+MeSH:D002836,Disease,MeSH,D002836,Hemophilia B
+MeSH:D002908,Disease,MeSH,D002908,Chronic Disease
+MeSH:D003027,Disease,MeSH,D003027,Cluster Headache
+MeSH:D003073,Disease,MeSH,D003073,Cognitive Dissonance
+MeSH:D003092,Disease,MeSH,D003092,Colitis
+MeSH:D003093,Disease,MeSH,D003093,"Colitis, Ulcerative"
+MeSH:D003110,Disease,MeSH,D003110,Colonic Neoplasms
+MeSH:D003139,Disease,MeSH,D003139,Common Cold
+MeSH:D003231,Disease,MeSH,D003231,Conjunctivitis
+MeSH:D003248,Disease,MeSH,D003248,Constipation
+MeSH:D003267,Disease,MeSH,D003267,Contraception
+MeSH:D003274,Disease,MeSH,D003274,"Contraceptive Devices, Female"
+MeSH:D003294,Disease,MeSH,D003294,"Seizures, Febrile"
+MeSH:D003320,Disease,MeSH,D003320,Corneal Ulcer
+MeSH:D003324,Disease,MeSH,D003324,Coronary Artery Disease
+MeSH:D003327,Disease,MeSH,D003327,Coronary Disease
+MeSH:D003329,Disease,MeSH,D003329,Coronary Vasospasm
+MeSH:D003371,Disease,MeSH,D003371,Cough
+MeSH:D003424,Disease,MeSH,D003424,Crohn Disease
+MeSH:D003480,Disease,MeSH,D003480,Cushing Syndrome
+MeSH:D003550,Disease,MeSH,D003550,Cystic Fibrosis
+MeSH:D003557,Disease,MeSH,D003557,Phyllodes Tumor
+MeSH:D003586,Disease,MeSH,D003586,Cytomegalovirus Infections
+MeSH:D003693,Disease,MeSH,D003693,Delirium
+MeSH:D003699,Disease,MeSH,D003699,Hepatitis D
+MeSH:D003702,Disease,MeSH,D003702,Delusions
+MeSH:D003704,Disease,MeSH,D003704,Dementia
+MeSH:D003731,Disease,MeSH,D003731,Dental Caries
+MeSH:D003773,Disease,MeSH,D003773,Dental Plaque
+MeSH:D003863,Disease,MeSH,D003863,Depression
+MeSH:D003865,Disease,MeSH,D003865,"Depressive Disorder, Major"
+MeSH:D003866,Disease,MeSH,D003866,Depressive Disorder
+MeSH:D003872,Disease,MeSH,D003872,Dermatitis
+MeSH:D003874,Disease,MeSH,D003874,Dermatitis Herpetiformis
+MeSH:D003876,Disease,MeSH,D003876,"Dermatitis, Atopic"
+MeSH:D003877,Disease,MeSH,D003877,"Dermatitis, Contact"
+MeSH:D003920,Disease,MeSH,D003920,Diabetes Mellitus
+MeSH:D003922,Disease,MeSH,D003922,"Diabetes Mellitus, Type 1"
+MeSH:D003924,Disease,MeSH,D003924,"Diabetes Mellitus, Type 2"
+MeSH:D003928,Disease,MeSH,D003928,Diabetic Nephropathies
+MeSH:D003929,Disease,MeSH,D003929,Diabetic Neuropathies
+MeSH:D003930,Disease,MeSH,D003930,Diabetic Retinopathy
+MeSH:D003967,Disease,MeSH,D003967,Diarrhea
+MeSH:D004211,Disease,MeSH,D004211,Disseminated Intravascular Coagulation
+MeSH:D004374,Disease,MeSH,D004374,"Ductus Arteriosus, Patent"
+MeSH:D004381,Disease,MeSH,D004381,Duodenal Ulcer
+MeSH:D004412,Disease,MeSH,D004412,Dysmenorrhea
+MeSH:D004415,Disease,MeSH,D004415,Dyspepsia
+MeSH:D004485,Disease,MeSH,D004485,Eczema
+MeSH:D004700,Disease,MeSH,D004700,Endocrine System Diseases
+MeSH:D004714,Disease,MeSH,D004714,Endometrial Hyperplasia
+MeSH:D004715,Disease,MeSH,D004715,Endometriosis
+MeSH:D004716,Disease,MeSH,D004716,Endometritis
+MeSH:D004820,Disease,MeSH,D004820,Epidermolysis Bullosa
+MeSH:D004827,Disease,MeSH,D004827,Epilepsy
+MeSH:D004938,Disease,MeSH,D004938,Esophageal Neoplasms
+MeSH:D005128,Disease,MeSH,D005128,Eye Diseases
+MeSH:D005199,Disease,MeSH,D005199,Fanconi Anemia
+MeSH:D005215,Disease,MeSH,D005215,Fasting
+MeSH:D005234,Disease,MeSH,D005234,Fatty Liver
+MeSH:D005334,Disease,MeSH,D005334,Fever
+MeSH:D005355,Disease,MeSH,D005355,Fibrosis
+MeSH:D005356,Disease,MeSH,D005356,Fibromyalgia
+MeSH:D005621,Disease,MeSH,D005621,Friedreich Ataxia
+MeSH:D005764,Disease,MeSH,D005764,Gastroesophageal Reflux
+MeSH:D005767,Disease,MeSH,D005767,Gastrointestinal Diseases
+MeSH:D005776,Disease,MeSH,D005776,Gaucher Disease
+MeSH:D005831,Disease,MeSH,D005831,"Genital Diseases, Female"
+MeSH:D005833,Disease,MeSH,D005833,"Genital Neoplasms, Female"
+MeSH:D005882,Disease,MeSH,D005882,Gingival Diseases
+MeSH:D005891,Disease,MeSH,D005891,Gingivitis
+MeSH:D005901,Disease,MeSH,D005901,Glaucoma
+MeSH:D005902,Disease,MeSH,D005902,"Glaucoma, Open-Angle"
+MeSH:D005909,Disease,MeSH,D005909,Glioblastoma
+MeSH:D005910,Disease,MeSH,D005910,Glioma
+MeSH:D005921,Disease,MeSH,D005921,Glomerulonephritis
+MeSH:D005922,Disease,MeSH,D005922,"Glomerulonephritis, IGA"
+MeSH:D006073,Disease,MeSH,D006073,Gout
+MeSH:D006086,Disease,MeSH,D006086,Graft vs Host Disease
+MeSH:D006255,Disease,MeSH,D006255,"Rhinitis, Allergic, Seasonal"
+MeSH:D006258,Disease,MeSH,D006258,Head and Neck Neoplasms
+MeSH:D006261,Disease,MeSH,D006261,Headache
+MeSH:D006323,Disease,MeSH,D006323,Heart Arrest
+MeSH:D006331,Disease,MeSH,D006331,Heart Diseases
+MeSH:D006333,Disease,MeSH,D006333,Heart Failure
+MeSH:D006339,Disease,MeSH,D006339,Heart Rate
+MeSH:D006391,Disease,MeSH,D006391,Hemangioma
+MeSH:D006402,Disease,MeSH,D006402,Hematologic Diseases
+MeSH:D006432,Disease,MeSH,D006432,Hemochromatosis
+MeSH:D006453,Disease,MeSH,D006453,Hemoglobinopathies
+MeSH:D006457,Disease,MeSH,D006457,"Hemoglobinuria, Paroxysmal"
+MeSH:D006467,Disease,MeSH,D006467,Hemophilia A
+MeSH:D006470,Disease,MeSH,D006470,Hemorrhage
+MeSH:D006473,Disease,MeSH,D006473,Postpartum Hemorrhage
+MeSH:D006501,Disease,MeSH,D006501,Hepatic Encephalopathy
+MeSH:D006505,Disease,MeSH,D006505,Hepatitis
+MeSH:D006509,Disease,MeSH,D006509,Hepatitis B
+MeSH:D006515,Disease,MeSH,D006515,Hepatitis B virus
+MeSH:D006526,Disease,MeSH,D006526,Hepatitis C
+MeSH:D006528,Disease,MeSH,D006528,"Carcinoma, Hepatocellular"
+MeSH:D006646,Disease,MeSH,D006646,"Histiocytosis, Langerhans-Cell"
+MeSH:D006678,Disease,MeSH,D006678,HIV
+MeSH:D006689,Disease,MeSH,D006689,Hodgkin Disease
+MeSH:D006816,Disease,MeSH,D006816,Huntington Disease
+MeSH:D006934,Disease,MeSH,D006934,Hypercalcemia
+MeSH:D006937,Disease,MeSH,D006937,Hypercholesterolemia
+MeSH:D006943,Disease,MeSH,D006943,Hyperglycemia
+MeSH:D006945,Disease,MeSH,D006945,Hyperhidrosis
+MeSH:D006947,Disease,MeSH,D006947,Hyperkalemia
+MeSH:D006949,Disease,MeSH,D006949,Hyperlipidemias
+MeSH:D006951,Disease,MeSH,D006951,Hyperlipoproteinemias
+MeSH:D006959,Disease,MeSH,D006959,Hyperoxaluria
+MeSH:D006961,Disease,MeSH,D006961,Hyperparathyroidism
+MeSH:D006966,Disease,MeSH,D006966,Hyperprolactinemia
+MeSH:D006967,Disease,MeSH,D006967,Hypersensitivity
+MeSH:D006973,Disease,MeSH,D006973,Hypertension
+MeSH:D006976,Disease,MeSH,D006976,"Hypertension, Pulmonary"
+MeSH:D006980,Disease,MeSH,D006980,Hyperthyroidism
+MeSH:D006996,Disease,MeSH,D006996,Hypocalcemia
+MeSH:D007006,Disease,MeSH,D007006,Hypogonadism
+MeSH:D007008,Disease,MeSH,D007008,Hypokalemia
+MeSH:D007011,Disease,MeSH,D007011,Hypoparathyroidism
+MeSH:D007018,Disease,MeSH,D007018,Hypopituitarism
+MeSH:D007022,Disease,MeSH,D007022,Hypotension
+MeSH:D007024,Disease,MeSH,D007024,"Hypotension, Orthostatic"
+MeSH:D007035,Disease,MeSH,D007035,Hypothermia
+MeSH:D007037,Disease,MeSH,D007037,Hypothyroidism
+MeSH:D007172,Disease,MeSH,D007172,Erectile Dysfunction
+MeSH:D007239,Disease,MeSH,D007239,Infection
+MeSH:D007246,Disease,MeSH,D007246,Infertility
+MeSH:D007249,Disease,MeSH,D007249,Inflammation
+MeSH:D007251,Disease,MeSH,D007251,"Influenza, Human"
+MeSH:D007319,Disease,MeSH,D007319,Sleep Initiation and Maintenance Disorders
+MeSH:D007333,Disease,MeSH,D007333,Insulin Resistance
+MeSH:D007383,Disease,MeSH,D007383,Intermittent Claudication
+MeSH:D007565,Disease,MeSH,D007565,Jaundice
+MeSH:D007640,Disease,MeSH,D007640,Keratoconus
+MeSH:D007674,Disease,MeSH,D007674,Kidney Diseases
+MeSH:D007676,Disease,MeSH,D007676,"Kidney Failure, Chronic"
+MeSH:D007680,Disease,MeSH,D007680,Kidney Neoplasms
+MeSH:D007751,Disease,MeSH,D007751,"Labor, Induced"
+MeSH:D007752,Disease,MeSH,D007752,"Obstetric Labor, Premature"
+MeSH:D007898,Disease,MeSH,D007898,"Leishmaniasis, Visceral"
+MeSH:D007918,Disease,MeSH,D007918,Leprosy
+MeSH:D007922,Disease,MeSH,D007922,Leptospirosis
+MeSH:D007938,Disease,MeSH,D007938,Leukemia
+MeSH:D007951,Disease,MeSH,D007951,"Leukemia, Myeloid"
+MeSH:D008059,Disease,MeSH,D008059,Mucopolysaccharidosis I
+MeSH:D008067,Disease,MeSH,D008067,Lipoma
+MeSH:D008103,Disease,MeSH,D008103,Liver Cirrhosis
+MeSH:D008107,Disease,MeSH,D008107,Liver Diseases
+MeSH:D008113,Disease,MeSH,D008113,Liver Neoplasms
+MeSH:D008171,Disease,MeSH,D008171,Lung Diseases
+MeSH:D008173,Disease,MeSH,D008173,"Lung Diseases, Obstructive"
+MeSH:D008175,Disease,MeSH,D008175,Lung Neoplasms
+MeSH:D008180,Disease,MeSH,D008180,"Lupus Erythematosus, Systemic"
+MeSH:D008181,Disease,MeSH,D008181,Lupus Nephritis
+MeSH:D008193,Disease,MeSH,D008193,Lyme Disease
+MeSH:D008223,Disease,MeSH,D008223,Lymphoma
+MeSH:D008224,Disease,MeSH,D008224,"Lymphoma, Follicular"
+MeSH:D008228,Disease,MeSH,D008228,"Lymphoma, Non-Hodgkin"
+MeSH:D008258,Disease,MeSH,D008258,Waldenstrom Macroglobulinemia
+MeSH:D008268,Disease,MeSH,D008268,Macular Degeneration
+MeSH:D008269,Disease,MeSH,D008269,Macular Edema
+MeSH:D008288,Disease,MeSH,D008288,Malaria
+MeSH:D008305,Disease,MeSH,D008305,Malignant Hyperthermia
+MeSH:D008382,Disease,MeSH,D008382,Marfan Syndrome
+MeSH:D008479,Disease,MeSH,D008479,Mediastinal Neoplasms
+MeSH:D008527,Disease,MeSH,D008527,Medulloblastoma
+MeSH:D008545,Disease,MeSH,D008545,Melanoma
+MeSH:D008575,Disease,MeSH,D008575,Meniere Disease
+MeSH:D008579,Disease,MeSH,D008579,Meningioma
+MeSH:D008581,Disease,MeSH,D008581,Meningitis
+MeSH:D008593,Disease,MeSH,D008593,Menopause
+MeSH:D008595,Disease,MeSH,D008595,Menorrhagia
+MeSH:D008654,Disease,MeSH,D008654,Mesothelioma
+MeSH:D008659,Disease,MeSH,D008659,Metabolic Diseases
+MeSH:D008881,Disease,MeSH,D008881,Migraine Disorders
+MeSH:D009087,Disease,MeSH,D009087,Mucopolysaccharidosis VI
+MeSH:D009101,Disease,MeSH,D009101,Multiple Myeloma
+MeSH:D009103,Disease,MeSH,D009103,Multiple Sclerosis
+MeSH:D009126,Disease,MeSH,D009126,Muscle Relaxation
+MeSH:D009134,Disease,MeSH,D009134,"Muscular Atrophy, Spinal"
+MeSH:D009136,Disease,MeSH,D009136,Muscular Dystrophies
+MeSH:D009157,Disease,MeSH,D009157,Myasthenia Gravis
+MeSH:D009181,Disease,MeSH,D009181,Mycoses
+MeSH:D009190,Disease,MeSH,D009190,Myelodysplastic Syndromes
+MeSH:D009203,Disease,MeSH,D009203,Myocardial Infarction
+MeSH:D009220,Disease,MeSH,D009220,Myositis
+MeSH:D009290,Disease,MeSH,D009290,Narcolepsy
+MeSH:D009293,Disease,MeSH,D009293,Opioid-Related Disorders
+MeSH:D009298,Disease,MeSH,D009298,Nasal Polyps
+MeSH:D009303,Disease,MeSH,D009303,Nasopharyngeal Neoplasms
+MeSH:D009325,Disease,MeSH,D009325,Nausea
+MeSH:D009336,Disease,MeSH,D009336,Necrosis
+MeSH:D009362,Disease,MeSH,D009362,Neoplasm Metastasis
+MeSH:D009369,Disease,MeSH,D009369,Neoplasms
+MeSH:D009373,Disease,MeSH,D009373,"Neoplasms, Germ Cell and Embryonal"
+MeSH:D009396,Disease,MeSH,D009396,Wilms Tumor
+MeSH:D009402,Disease,MeSH,D009402,"Nephrosis, Lipoid"
+MeSH:D009404,Disease,MeSH,D009404,Nephrotic Syndrome
+MeSH:D009437,Disease,MeSH,D009437,Neuralgia
+MeSH:D009447,Disease,MeSH,D009447,Neuroblastoma
+MeSH:D009503,Disease,MeSH,D009503,Neutropenia
+MeSH:D009748,Disease,MeSH,D009748,Nutrition Disorders
+MeSH:D009755,Disease,MeSH,D009755,Night Blindness
+MeSH:D009759,Disease,MeSH,D009759,"Nystagmus, Pathologic"
+MeSH:D009765,Disease,MeSH,D009765,Obesity
+MeSH:D009771,Disease,MeSH,D009771,Obsessive-Compulsive Disorder
+MeSH:D009798,Disease,MeSH,D009798,Ocular Hypertension
+MeSH:D009837,Disease,MeSH,D009837,Oligodendroglioma
+MeSH:D010003,Disease,MeSH,D010003,Osteoarthritis
+MeSH:D010013,Disease,MeSH,D010013,Osteogenesis Imperfecta
+MeSH:D010014,Disease,MeSH,D010014,Osteolysis
+MeSH:D010019,Disease,MeSH,D010019,Osteomyelitis
+MeSH:D010024,Disease,MeSH,D010024,Osteoporosis
+MeSH:D010033,Disease,MeSH,D010033,Otitis Media
+MeSH:D010051,Disease,MeSH,D010051,Ovarian Neoplasms
+MeSH:D010062,Disease,MeSH,D010062,Ovulation Induction
+MeSH:D010144,Disease,MeSH,D010144,"Paget's Disease, Mammary"
+MeSH:D010146,Disease,MeSH,D010146,Pain
+MeSH:D010149,Disease,MeSH,D010149,"Pain, Postoperative"
+MeSH:D010182,Disease,MeSH,D010182,Pancreatic Diseases
+MeSH:D010190,Disease,MeSH,D010190,Pancreatic Neoplasms
+MeSH:D010195,Disease,MeSH,D010195,Pancreatitis
+MeSH:D010267,Disease,MeSH,D010267,Parapsoriasis
+MeSH:D010272,Disease,MeSH,D010272,Parasitic Diseases
+MeSH:D010300,Disease,MeSH,D010300,Parkinson Disease
+MeSH:D010392,Disease,MeSH,D010392,Pemphigus
+MeSH:D010437,Disease,MeSH,D010437,Peptic Ulcer
+MeSH:D010518,Disease,MeSH,D010518,Periodontitis
+MeSH:D010523,Disease,MeSH,D010523,Peripheral Nervous System Diseases
+MeSH:D010524,Disease,MeSH,D010524,Peripheral Nervous System Neoplasms
+MeSH:D010534,Disease,MeSH,D010534,Peritoneal Neoplasms
+MeSH:D010538,Disease,MeSH,D010538,Peritonitis
+MeSH:D010580,Disease,MeSH,D010580,Peutz-Jeghers Syndrome
+MeSH:D010612,Disease,MeSH,D010612,Pharyngitis
+MeSH:D010673,Disease,MeSH,D010673,Pheochromocytoma
+MeSH:D010698,Disease,MeSH,D010698,Phobic Disorders
+MeSH:D010900,Disease,MeSH,D010900,Pituitary Diseases
+MeSH:D010973,Disease,MeSH,D010973,Platelet Adhesiveness
+MeSH:D010974,Disease,MeSH,D010974,Platelet Aggregation
+MeSH:D011014,Disease,MeSH,D011014,Pneumonia
+MeSH:D011015,Disease,MeSH,D011015,"Pneumonia, Aspiration"
+MeSH:D011020,Disease,MeSH,D011020,"Pneumonia, Pneumocystis"
+MeSH:D011041,Disease,MeSH,D011041,Poisoning
+MeSH:D011085,Disease,MeSH,D011085,Polycystic Ovary Syndrome
+MeSH:D011087,Disease,MeSH,D011087,Polycythemia Vera
+MeSH:D011125,Disease,MeSH,D011125,Adenomatous Polyposis Coli
+MeSH:D011183,Disease,MeSH,D011183,Postoperative Complications
+MeSH:D011218,Disease,MeSH,D011218,Prader-Willi Syndrome
+MeSH:D011236,Disease,MeSH,D011236,Prediabetic State
+MeSH:D011247,Disease,MeSH,D011247,Pregnancy
+MeSH:D011293,Disease,MeSH,D011293,Premenstrual Syndrome
+MeSH:D011469,Disease,MeSH,D011469,Prostatic Diseases
+MeSH:D011470,Disease,MeSH,D011470,Prostatic Hyperplasia
+MeSH:D011471,Disease,MeSH,D011471,Prostatic Neoplasms
+MeSH:D011472,Disease,MeSH,D011472,Prostatitis
+MeSH:D011507,Disease,MeSH,D011507,Proteinuria
+MeSH:D011537,Disease,MeSH,D011537,Pruritus
+MeSH:D011565,Disease,MeSH,D011565,Psoriasis
+MeSH:D011595,Disease,MeSH,D011595,Psychomotor Agitation
+MeSH:D011605,Disease,MeSH,D011605,"Psychoses, Substance-Induced"
+MeSH:D011618,Disease,MeSH,D011618,Psychotic Disorders
+MeSH:D011655,Disease,MeSH,D011655,Pulmonary Embolism
+MeSH:D011658,Disease,MeSH,D011658,Pulmonary Fibrosis
+MeSH:D011696,Disease,MeSH,D011696,"Purpura, Thrombocytopenic"
+MeSH:D011832,Disease,MeSH,D011832,Radiation Injuries
+MeSH:D011928,Disease,MeSH,D011928,Raynaud Disease
+MeSH:D012004,Disease,MeSH,D012004,Rectal Neoplasms
+MeSH:D012141,Disease,MeSH,D012141,Respiratory Tract Infections
+MeSH:D012148,Disease,MeSH,D012148,Restless Legs Syndrome
+MeSH:D012175,Disease,MeSH,D012175,Retinoblastoma
+MeSH:D012208,Disease,MeSH,D012208,Rhabdomyosarcoma
+MeSH:D012220,Disease,MeSH,D012220,Rhinitis
+MeSH:D012221,Disease,MeSH,D012221,"Rhinitis, Allergic, Perennial"
+MeSH:D012393,Disease,MeSH,D012393,Rosacea
+MeSH:D012509,Disease,MeSH,D012509,Sarcoma
+MeSH:D012514,Disease,MeSH,D012514,"Sarcoma, Kaposi"
+MeSH:D012516,Disease,MeSH,D012516,Osteosarcoma
+MeSH:D012552,Disease,MeSH,D012552,Schistosomiasis
+MeSH:D012559,Disease,MeSH,D012559,Schizophrenia
+MeSH:D012595,Disease,MeSH,D012595,"Scleroderma, Systemic"
+MeSH:D012600,Disease,MeSH,D012600,Scoliosis
+MeSH:D012640,Disease,MeSH,D012640,Seizures
+MeSH:D012735,Disease,MeSH,D012735,"Sexual Dysfunction, Physiological"
+MeSH:D012772,Disease,MeSH,D012772,"Shock, Septic"
+MeSH:D012791,Disease,MeSH,D012791,Shy-Drager Syndrome
+MeSH:D012852,Disease,MeSH,D012852,Sinusitis
+MeSH:D012859,Disease,MeSH,D012859,Sjogren's Syndrome
+MeSH:D012871,Disease,MeSH,D012871,Skin Diseases
+MeSH:D012874,Disease,MeSH,D012874,"Skin Diseases, Infectious"
+MeSH:D012878,Disease,MeSH,D012878,Skin Neoplasms
+MeSH:D012893,Disease,MeSH,D012893,Sleep Disorders
+MeSH:D012907,Disease,MeSH,D012907,Smoking
+MeSH:D012983,Disease,MeSH,D012983,Soft Tissue Neoplasms
+MeSH:D013035,Disease,MeSH,D013035,Spasm
+MeSH:D013119,Disease,MeSH,D013119,Spinal Cord Injuries
+MeSH:D013167,Disease,MeSH,D013167,"Spondylitis, Ankylosing"
+MeSH:D013203,Disease,MeSH,D013203,Staphylococcal Infections
+MeSH:D013226,Disease,MeSH,D013226,Status Epilepticus
+MeSH:D013272,Disease,MeSH,D013272,Stomach Diseases
+MeSH:D013274,Disease,MeSH,D013274,Stomach Neoplasms
+MeSH:D013276,Disease,MeSH,D013276,Stomach Ulcer
+MeSH:D013285,Disease,MeSH,D013285,Strabismus
+MeSH:D013296,Disease,MeSH,D013296,Streptococcus pneumoniae
+MeSH:D013313,Disease,MeSH,D013313,"Stress Disorders, Post-Traumatic"
+MeSH:D013585,Disease,MeSH,D013585,Synovitis
+MeSH:D013610,Disease,MeSH,D013610,Tachycardia
+MeSH:D013614,Disease,MeSH,D013614,"Tachycardia, Paroxysmal"
+MeSH:D013617,Disease,MeSH,D013617,"Tachycardia, Supraventricular"
+MeSH:D013700,Disease,MeSH,D013700,Giant Cell Arteritis
+MeSH:D013717,Disease,MeSH,D013717,Tenosynovitis
+MeSH:D013736,Disease,MeSH,D013736,Testicular Neoplasms
+MeSH:D013789,Disease,MeSH,D013789,Thalassemia
+MeSH:D013832,Disease,MeSH,D013832,Thiamine Deficiency
+MeSH:D013899,Disease,MeSH,D013899,Thoracic Neoplasms
+MeSH:D013920,Disease,MeSH,D013920,"Thrombocythemia, Essential"
+MeSH:D013921,Disease,MeSH,D013921,Thrombocytopenia
+MeSH:D013923,Disease,MeSH,D013923,Thromboembolism
+MeSH:D013927,Disease,MeSH,D013927,Thrombosis
+MeSH:D013945,Disease,MeSH,D013945,Thymoma
+MeSH:D013964,Disease,MeSH,D013964,Thyroid Neoplasms
+MeSH:D013971,Disease,MeSH,D013971,Thyrotoxicosis
+MeSH:D014009,Disease,MeSH,D014009,Onychomycosis
+MeSH:D014012,Disease,MeSH,D014012,Tinnitus
+MeSH:D014029,Disease,MeSH,D014029,Tobacco Use Disorder
+MeSH:D014069,Disease,MeSH,D014069,Tonsillitis
+MeSH:D014123,Disease,MeSH,D014123,Toxoplasmosis
+MeSH:D014141,Disease,MeSH,D014141,Trachoma
+MeSH:D014180,Disease,MeSH,D014180,Transplantation
+MeSH:D014202,Disease,MeSH,D014202,Tremor
+MeSH:D014245,Disease,MeSH,D014245,Trichomonas Infections
+MeSH:D014352,Disease,MeSH,D014352,Trypanosomiasis
+MeSH:D014353,Disease,MeSH,D014353,"Trypanosomiasis, African"
+MeSH:D014355,Disease,MeSH,D014355,Chagas Disease
+MeSH:D014376,Disease,MeSH,D014376,Tuberculosis
+MeSH:D014424,Disease,MeSH,D014424,Turner Syndrome
+MeSH:D014456,Disease,MeSH,D014456,Ulcer
+MeSH:D014517,Disease,MeSH,D014517,Ureteral Obstruction
+MeSH:D014523,Disease,MeSH,D014523,Urethral Neoplasms
+MeSH:D014549,Disease,MeSH,D014549,Urinary Incontinence
+MeSH:D014552,Disease,MeSH,D014552,Urinary Tract Infections
+MeSH:D014565,Disease,MeSH,D014565,Urogenital Neoplasms
+MeSH:D014571,Disease,MeSH,D014571,Urologic Neoplasms
+MeSH:D014581,Disease,MeSH,D014581,Urticaria
+MeSH:D014591,Disease,MeSH,D014591,Uterine Diseases
+MeSH:D014594,Disease,MeSH,D014594,Uterine Neoplasms
+MeSH:D014605,Disease,MeSH,D014605,Uveitis
+MeSH:D014627,Disease,MeSH,D014627,Vaginitis
+MeSH:D014648,Disease,MeSH,D014648,Varicose Veins
+MeSH:D014652,Disease,MeSH,D014652,Vascular Diseases
+MeSH:D014653,Disease,MeSH,D014653,Vascular Headaches
+MeSH:D014657,Disease,MeSH,D014657,Vasculitis
+MeSH:D014717,Disease,MeSH,D014717,Vertigo
+MeSH:D014802,Disease,MeSH,D014802,Vitamin A Deficiency
+MeSH:D014804,Disease,MeSH,D014804,Vitamin B Deficiency
+MeSH:D014806,Disease,MeSH,D014806,Vitamin B 12 Deficiency
+MeSH:D014808,Disease,MeSH,D014808,Vitamin D Deficiency
+MeSH:D014813,Disease,MeSH,D014813,Vitamin K Deficiency
+MeSH:D014820,Disease,MeSH,D014820,Vitiligo
+MeSH:D014839,Disease,MeSH,D014839,Vomiting
+MeSH:D014842,Disease,MeSH,D014842,von Willebrand Diseases
+MeSH:D014848,Disease,MeSH,D014848,Vulvovaginitis
+MeSH:D014860,Disease,MeSH,D014860,Warts
+MeSH:D015043,Disease,MeSH,D015043,Zollinger-Ellison Syndrome
+MeSH:D015179,Disease,MeSH,D015179,Colorectal Neoplasms
+MeSH:D015210,Disease,MeSH,D015210,"Arthritis, Gouty"
+MeSH:D015212,Disease,MeSH,D015212,Inflammatory Bowel Diseases
+MeSH:D015228,Disease,MeSH,D015228,Hypertriglyceridemia
+MeSH:D015267,Disease,MeSH,D015267,Churg-Strauss Syndrome
+MeSH:D015352,Disease,MeSH,D015352,Dry Eye Syndromes
+MeSH:D015355,Disease,MeSH,D015355,"Glaucoma, Neovascular"
+MeSH:D015408,Disease,MeSH,D015408,Gastrinoma
+MeSH:D015427,Disease,MeSH,D015427,Reperfusion Injury
+MeSH:D015430,Disease,MeSH,D015430,Weight Gain
+MeSH:D015431,Disease,MeSH,D015431,Weight Loss
+MeSH:D015448,Disease,MeSH,D015448,"Leukemia, B-Cell"
+MeSH:D015451,Disease,MeSH,D015451,"Leukemia, Lymphocytic, Chronic, B-Cell"
+MeSH:D015452,Disease,MeSH,D015452,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+MeSH:D015458,Disease,MeSH,D015458,"Leukemia, T-Cell"
+MeSH:D015464,Disease,MeSH,D015464,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+MeSH:D015466,Disease,MeSH,D015466,"Leukemia, Myeloid, Chronic-Phase"
+MeSH:D015470,Disease,MeSH,D015470,"Leukemia, Myeloid, Acute"
+MeSH:D015477,Disease,MeSH,D015477,"Leukemia, Myelomonocytic, Chronic"
+MeSH:D015497,Disease,MeSH,D015497,HIV-1
+MeSH:D015519,Disease,MeSH,D015519,Bone Density
+MeSH:D015535,Disease,MeSH,D015535,"Arthritis, Psoriatic"
+MeSH:D015658,Disease,MeSH,D015658,HIV Infections
+MeSH:D015663,Disease,MeSH,D015663,"Osteoporosis, Postmenopausal"
+MeSH:D015746,Disease,MeSH,D015746,Abdominal Pain
+MeSH:D015812,Disease,MeSH,D015812,"Glaucoma, Angle-Closure"
+MeSH:D015822,Disease,MeSH,D015822,"Eye Infections, Parasitic"
+MeSH:D016026,Disease,MeSH,D016026,Bone Marrow Transplantation
+MeSH:D016027,Disease,MeSH,D016027,Heart Transplantation
+MeSH:D016030,Disease,MeSH,D016030,Kidney Transplantation
+MeSH:D016031,Disease,MeSH,D016031,Liver Transplantation
+MeSH:D016055,Disease,MeSH,D016055,Urinary Retention
+MeSH:D016084,Disease,MeSH,D016084,Bronchoconstriction
+MeSH:D016111,Disease,MeSH,D016111,Sjogren-Larsson Syndrome
+MeSH:D016262,Disease,MeSH,D016262,Postpoliomyelitis Syndrome
+MeSH:D016292,Disease,MeSH,D016292,Conscious Sedation
+MeSH:D016377,Disease,MeSH,D016377,Organ Transplantation
+MeSH:D016393,Disease,MeSH,D016393,"Lymphoma, B-Cell"
+MeSH:D016399,Disease,MeSH,D016399,"Lymphoma, T-Cell"
+MeSH:D016403,Disease,MeSH,D016403,"Lymphoma, Large B-Cell, Diffuse"
+MeSH:D016410,Disease,MeSH,D016410,"Lymphoma, T-Cell, Cutaneous"
+MeSH:D016411,Disease,MeSH,D016411,"Lymphoma, T-Cell, Peripheral"
+MeSH:D016470,Disease,MeSH,D016470,Bacteremia
+MeSH:D016471,Disease,MeSH,D016471,Ovarian Hyperstimulation Syndrome
+MeSH:D016472,Disease,MeSH,D016472,Motor Neuron Disease
+MeSH:D016480,Disease,MeSH,D016480,Helicobacter pylori
+MeSH:D016481,Disease,MeSH,D016481,Helicobacter Infections
+MeSH:D016489,Disease,MeSH,D016489,"Head Injuries, Closed"
+MeSH:D016491,Disease,MeSH,D016491,Peripheral Vascular Diseases
+MeSH:D016523,Disease,MeSH,D016523,Foot Ulcer
+MeSH:D016535,Disease,MeSH,D016535,Bronchial Hyperreactivity
+MeSH:D016540,Disease,MeSH,D016540,Smoking Cessation
+MeSH:D016553,Disease,MeSH,D016553,"Purpura, Thrombocytopenic, Idiopathic"
+MeSH:D016584,Disease,MeSH,D016584,Panic Disorder
+MeSH:D016585,Disease,MeSH,D016585,"Vaginosis, Bacterial"
+MeSH:D016638,Disease,MeSH,D016638,Critical Illness
+MeSH:D016736,Disease,MeSH,D016736,Antiphospholipid Syndrome
+MeSH:D016750,Disease,MeSH,D016750,Stiff-Person Syndrome
+MeSH:D016757,Disease,MeSH,D016757,"Death, Sudden, Cardiac"
+MeSH:D016769,Disease,MeSH,D016769,Embolism and Thrombosis
+MeSH:D016773,Disease,MeSH,D016773,"Leishmaniasis, Cutaneous"
+MeSH:D016778,Disease,MeSH,D016778,"Malaria, Falciparum"
+MeSH:D016829,Disease,MeSH,D016829,Giardia lamblia
+MeSH:D016889,Disease,MeSH,D016889,Endometrial Neoplasms
+MeSH:D016905,Disease,MeSH,D016905,Gram-Negative Bacterial Infections
+MeSH:D016908,Disease,MeSH,D016908,Gram-Positive Bacterial Infections
+MeSH:D016918,Disease,MeSH,D016918,"Arthritis, Reactive"
+MeSH:D017029,Disease,MeSH,D017029,"Epilepsy, Complex Partial"
+MeSH:D017034,Disease,MeSH,D017034,"Epilepsy, Frontal Lobe"
+MeSH:D017086,Disease,MeSH,D017086,beta-Thalassemia
+MeSH:D017088,Disease,MeSH,D017088,AIDS-Related Opportunistic Infections
+MeSH:D017102,Disease,MeSH,D017102,Fracture Healing
+MeSH:D017116,Disease,MeSH,D017116,Low Back Pain
+MeSH:D017180,Disease,MeSH,D017180,"Tachycardia, Ventricular"
+MeSH:D017202,Disease,MeSH,D017202,Myocardial Ischemia
+MeSH:D017204,Disease,MeSH,D017204,Angelman Syndrome
+MeSH:D017379,Disease,MeSH,D017379,"Hypertrophy, Left Ventricular"
+MeSH:D017380,Disease,MeSH,D017380,"Hypertrophy, Right Ventricular"
+MeSH:D017497,Disease,MeSH,D017497,Hidradenitis Suppurativa
+MeSH:D017573,Disease,MeSH,D017573,Focal Epithelial Hyperplasia
+MeSH:D017681,Disease,MeSH,D017681,Hypereosinophilic Syndrome
+MeSH:D017682,Disease,MeSH,D017682,Myocardial Stunning
+MeSH:D017695,Disease,MeSH,D017695,Soft Tissue Injuries
+MeSH:D017698,Disease,MeSH,D017698,Postmenopause
+MeSH:D017726,Disease,MeSH,D017726,Cytomegalovirus Retinitis
+MeSH:D017728,Disease,MeSH,D017728,"Lymphoma, Large-Cell, Anaplastic"
+MeSH:D018200,Disease,MeSH,D018200,"Mixed Tumor, Mullerian"
+MeSH:D018225,Disease,MeSH,D018225,"Neoplasms, Fibroepithelial"
+MeSH:D018239,Disease,MeSH,D018239,Seminoma
+MeSH:D018256,Disease,MeSH,D018256,Adenomatous Polyps
+MeSH:D018268,Disease,MeSH,D018268,Adrenocortical Carcinoma
+MeSH:D018270,Disease,MeSH,D018270,"Carcinoma, Ductal, Breast"
+MeSH:D018281,Disease,MeSH,D018281,Cholangiocarcinoma
+MeSH:D018287,Disease,MeSH,D018287,"Carcinoma, Large Cell"
+MeSH:D018288,Disease,MeSH,D018288,"Carcinoma, Small Cell"
+MeSH:D018295,Disease,MeSH,D018295,"Neoplasms, Basal Cell"
+MeSH:D018307,Disease,MeSH,D018307,"Neoplasms, Squamous Cell"
+MeSH:D018316,Disease,MeSH,D018316,Gliosarcoma
+MeSH:D018357,Disease,MeSH,D018357,Respiratory Syncytial Virus Infections
+MeSH:D018358,Disease,MeSH,D018358,Neuroendocrine Tumors
+MeSH:D018382,Disease,MeSH,D018382,Thyroid Hormone Resistance Syndrome
+MeSH:D018410,Disease,MeSH,D018410,"Pneumonia, Bacterial"
+MeSH:D018500,Disease,MeSH,D018500,"Diabetes Insipidus, Nephrogenic"
+MeSH:D018589,Disease,MeSH,D018589,Gastroparesis
+MeSH:D018630,Disease,MeSH,D018630,"Vitreoretinopathy, Proliferative"
+MeSH:D018798,Disease,MeSH,D018798,"Anemia, Iron-Deficiency"
+MeSH:D018805,Disease,MeSH,D018805,Sepsis
+MeSH:D018856,Disease,MeSH,D018856,"Cystitis, Interstitial"
+MeSH:D019008,Disease,MeSH,D019008,"Drug Resistance, Neoplasm"
+MeSH:D019337,Disease,MeSH,D019337,Hematologic Neoplasms
+MeSH:D019595,Disease,MeSH,D019595,Severe Dengue
+MeSH:D019694,Disease,MeSH,D019694,"Hepatitis B, Chronic"
+MeSH:D019698,Disease,MeSH,D019698,"Hepatitis C, Chronic"
+MeSH:D019871,Disease,MeSH,D019871,Dyskeratosis Congenita
+MeSH:D019896,Disease,MeSH,D019896,alpha 1-Antitrypsin Deficiency
+MeSH:D019964,Disease,MeSH,D019964,Mood Disorders
+MeSH:D019965,Disease,MeSH,D019965,"Delirium, Dementia, Amnestic, Cognitive Disorders"
+MeSH:D019966,Disease,MeSH,D019966,Substance-Related Disorders
+MeSH:D019967,Disease,MeSH,D019967,Schizophrenia and Disorders with Psychotic Features
+MeSH:D019970,Disease,MeSH,D019970,Cocaine-Related Disorders
+MeSH:D019973,Disease,MeSH,D019973,Alcohol-Related Disorders
+MeSH:D020018,Disease,MeSH,D020018,"Sexual Dysfunctions, Psychological"
+MeSH:D020019,Disease,MeSH,D020019,Neurocysticercosis
+MeSH:D020069,Disease,MeSH,D020069,Shoulder Pain
+MeSH:D020143,Disease,MeSH,D020143,"Gangliosidoses, GM2"
+MeSH:D020176,Disease,MeSH,D020176,Tyrosinemias
+MeSH:D020178,Disease,MeSH,D020178,"Sleep Disorders, Circadian Rhythm"
+MeSH:D020181,Disease,MeSH,D020181,"Sleep Apnea, Obstructive"
+MeSH:D020201,Disease,MeSH,D020201,"Brain Hemorrhage, Traumatic"
+MeSH:D020246,Disease,MeSH,D020246,Venous Thrombosis
+MeSH:D020250,Disease,MeSH,D020250,Postoperative Nausea and Vomiting
+MeSH:D020256,Disease,MeSH,D020256,Choroidal Neovascularization
+MeSH:D020301,Disease,MeSH,D020301,"Vasospasm, Intracranial"
+MeSH:D020325,Disease,MeSH,D020325,Migraine with Aura
+MeSH:D020326,Disease,MeSH,D020326,Migraine without Aura
+MeSH:D020370,Disease,MeSH,D020370,"Osteoarthritis, Knee"
+MeSH:D020520,Disease,MeSH,D020520,Brain Infarction
+MeSH:D020521,Disease,MeSH,D020521,Stroke
+MeSH:D020522,Disease,MeSH,D020522,"Lymphoma, Mantle-Cell"
+MeSH:D020529,Disease,MeSH,D020529,"Multiple Sclerosis, Relapsing-Remitting"
+MeSH:D020734,Disease,MeSH,D020734,Parkinsonian Disorders
+MeSH:D020773,Disease,MeSH,D020773,Headache Disorders
+MeSH:D020820,Disease,MeSH,D020820,Dyskinesias
+MeSH:D020925,Disease,MeSH,D020925,"Hypoxia-Ischemia, Brain"
+MeSH:D020938,Disease,MeSH,D020938,"Epilepsy, Partial, Motor"
+MeSH:D020966,Disease,MeSH,D020966,"Muscular Disorders, Atrophic"
+MeSH:D021081,Disease,MeSH,D021081,Chronobiology Disorders
+MeSH:D021441,Disease,MeSH,D021441,"Carcinoma, Pancreatic Ductal"
+MeSH:D022124,Disease,MeSH,D022124,Hyperammonemia
+MeSH:D023903,Disease,MeSH,D023903,Coronary Restenosis
+MeSH:D023921,Disease,MeSH,D023921,Coronary Stenosis
+MeSH:D024821,Disease,MeSH,D024821,Metabolic Syndrome X
+MeSH:D026681,Disease,MeSH,D026681,Vitamin B 6 Deficiency
+MeSH:D028226,Disease,MeSH,D028226,"Amyloidosis, Familial"
+MeSH:D029424,Disease,MeSH,D029424,"Pulmonary Disease, Chronic Obstructive"
+MeSH:D029481,Disease,MeSH,D029481,"Bronchitis, Chronic"
+MeSH:D030361,Disease,MeSH,D030361,Papillomavirus Infections
+MeSH:D031901,Disease,MeSH,D031901,Gestational Trophoblastic Disease
+MeSH:D033461,Disease,MeSH,D033461,Hyperuricemia
+MeSH:D034062,Disease,MeSH,D034062,"Insomnia, Fatal Familial"
+MeSH:D034381,Disease,MeSH,D034381,Hearing Loss
+MeSH:D039682,Disease,MeSH,D039682,HIV-Associated Lipodystrophy Syndrome
+MeSH:D040701,Disease,MeSH,D040701,"Stress Disorders, Traumatic, Acute"
+MeSH:D040921,Disease,MeSH,D040921,"Stress Disorders, Traumatic"
+MeSH:D043183,Disease,MeSH,D043183,Irritable Bowel Syndrome
+MeSH:D045169,Disease,MeSH,D045169,Severe Acute Respiratory Syndrome
+MeSH:D045363,Disease,MeSH,D045363,Pneumocystis carinii
+MeSH:D045743,Disease,MeSH,D045743,"Scleroderma, Diffuse"
+MeSH:D045745,Disease,MeSH,D045745,"Scleroderma, Limited"
+MeSH:D045823,Disease,MeSH,D045823,Ileus
+MeSH:D046110,Disease,MeSH,D046110,"Hypertension, Pregnancy-Induced"
+MeSH:D046152,Disease,MeSH,D046152,Gastrointestinal Stromal Tumors
+MeSH:D048909,Disease,MeSH,D048909,Diabetes Complications
+MeSH:D048949,Disease,MeSH,D048949,Labor Pain
+MeSH:D049950,Disease,MeSH,D049950,"Hyperparathyroidism, Primary"
+MeSH:D049970,Disease,MeSH,D049970,Graves Ophthalmopathy
+MeSH:D050171,Disease,MeSH,D050171,Dyslipidemias
+MeSH:D050177,Disease,MeSH,D050177,Overweight
+MeSH:D050197,Disease,MeSH,D050197,Atherosclerosis
+MeSH:D050500,Disease,MeSH,D050500,"Pancreatitis, Chronic"
+MeSH:D051436,Disease,MeSH,D051436,"Renal Insufficiency, Chronic"
+MeSH:D051437,Disease,MeSH,D051437,Renal Insufficiency
+MeSH:D051474,Disease,MeSH,D051474,"Neuralgia, Postherpetic"
+MeSH:D051556,Disease,MeSH,D051556,"Hyperbilirubinemia, Neonatal"
+MeSH:D051799,Disease,MeSH,D051799,Delayed Graft Function
+MeSH:D052016,Disease,MeSH,D052016,Mucositis
+MeSH:D052018,Disease,MeSH,D052018,Bulimia Nervosa
+MeSH:D052120,Disease,MeSH,D052120,Glycogen Storage Disease Type IIb
+MeSH:D052439,Disease,MeSH,D052439,Lipid Metabolism Disorders
+MeSH:D052878,Disease,MeSH,D052878,Urolithiasis
+MeSH:D053040,Disease,MeSH,D053040,Nephrolithiasis
+MeSH:D053201,Disease,MeSH,D053201,"Urinary Bladder, Overactive"
+MeSH:D053202,Disease,MeSH,D053202,"Urinary Incontinence, Urge"
+MeSH:D053206,Disease,MeSH,D053206,Nocturnal Enuresis
+MeSH:D054058,Disease,MeSH,D054058,Acute Coronary Syndrome
+MeSH:D054082,Disease,MeSH,D054082,Lissencephaly
+MeSH:D054144,Disease,MeSH,D054144,"Heart Failure, Diastolic"
+MeSH:D054179,Disease,MeSH,D054179,"Angioedemas, Hereditary"
+MeSH:D054198,Disease,MeSH,D054198,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+MeSH:D054437,Disease,MeSH,D054437,Myelodysplastic-Myeloproliferative Diseases
+MeSH:D054537,Disease,MeSH,D054537,Atrioventricular Block
+MeSH:D054556,Disease,MeSH,D054556,Venous Thromboembolism
+MeSH:D054810,Disease,MeSH,D054810,Deep Sedation
+MeSH:D054990,Disease,MeSH,D054990,Idiopathic Pulmonary Fibrosis
+MeSH:D055113,Disease,MeSH,D055113,Chronic Periodontitis
+MeSH:D055370,Disease,MeSH,D055370,Lung Injury
+MeSH:D055371,Disease,MeSH,D055371,Acute Lung Injury
+MeSH:D055728,Disease,MeSH,D055728,Primary Myelofibrosis
+MeSH:D055752,Disease,MeSH,D055752,Small Cell Lung Carcinoma
+MeSH:D056587,Disease,MeSH,D056587,Cryopyrin-Associated Periodic Syndromes
+MeSH:D056806,Disease,MeSH,D056806,"Urea Cycle Disorders, Inborn"
+MeSH:D056829,Disease,MeSH,D056829,Hereditary Angioedema Types I and II
+MeSH:D056844,Disease,MeSH,D056844,Renal Colic
+MeSH:D057135,Disease,MeSH,D057135,Wet Macular Degeneration
+MeSH:D057765,Disease,MeSH,D057765,Eosinophilic Esophagitis
+MeSH:D058065,Disease,MeSH,D058065,Diabetic Cardiomyopathies
+MeSH:D058186,Disease,MeSH,D058186,Acute Kidney Injury
+MeSH:D058365,Disease,MeSH,D058365,"Candidiasis, Invasive"
+MeSH:D058405,Disease,MeSH,D058405,Desmoplastic Small Round Cell Tumor
+MeSH:D058729,Disease,MeSH,D058729,Peripheral Arterial Disease
+MeSH:D058922,Disease,MeSH,D058922,Inflammatory Breast Neoplasms
+PubChemCID:10071196,Drug,PubChemCID,10071196,Pimavanserin
+PubChemCID:10077130,Drug,PubChemCID,10077130,vorapaxar
+PubChemCID:10096344,Drug,PubChemCID,10096344,Linagliptin
+PubChemCID:10100,Drug,PubChemCID,10100,Dextropropoxyphene
+PubChemCID:10113978,Drug,PubChemCID,10113978,pazopanib
+PubChemCID:10117987,Drug,PubChemCID,10117987,preladenant
+PubChemCID:10127622,Drug,PubChemCID,10127622,AZD 6244
+PubChemCID:10133,Drug,PubChemCID,10133,Chenodeoxycholic Acid
+PubChemCID:10138259,Drug,PubChemCID,10138259,UNII-ZZ6VH5MZ17
+PubChemCID:10152654,Drug,PubChemCID,10152654,odanacatib
+PubChemCID:10180,Drug,PubChemCID,10180,Lucanthone
+PubChemCID:10182969,Drug,PubChemCID,10182969,apixaban
+PubChemCID:10184653,Drug,PubChemCID,10184653,BIBW 2992
+PubChemCID:10201696,Drug,PubChemCID,10201696,balicatib
+PubChemCID:10260031,Drug,PubChemCID,10260031,cangrelor
+PubChemCID:10274777,Drug,PubChemCID,10274777,aleglitazar
+PubChemCID:1031,Drug,PubChemCID,1031,1-Propanol
+PubChemCID:10324367,Drug,PubChemCID,10324367,Boceprevir
+PubChemCID:10341154,Drug,PubChemCID,10341154,VX 702
+PubChemCID:10343641,Drug,PubChemCID,10343641,tarazepide
+PubChemCID:1046,Drug,PubChemCID,1046,Pyrazinamide
+PubChemCID:10461508,Drug,PubChemCID,10461508,BI 6727
+PubChemCID:104741,Drug,PubChemCID,104741,fulvestrant
+PubChemCID:104758,Drug,PubChemCID,104758,raltitrexed
+PubChemCID:104762,Drug,PubChemCID,104762,bredinin
+PubChemCID:104826,Drug,PubChemCID,104826,resiniferatoxin
+PubChemCID:104838,Drug,PubChemCID,104838,Imipenem
+PubChemCID:104850,Drug,PubChemCID,104850,rimonabant
+PubChemCID:104865,Drug,PubChemCID,104865,bosentan
+PubChemCID:104974,Drug,PubChemCID,104974,SR 48968
+PubChemCID:105075,Drug,PubChemCID,105075,Iron-Dextran Complex
+PubChemCID:1051,Drug,PubChemCID,1051,Pyridoxal Phosphate
+PubChemCID:105105,Drug,PubChemCID,105105,quinagolide
+PubChemCID:10517,Drug,PubChemCID,10517,Methadyl Acetate
+PubChemCID:10518,Drug,PubChemCID,10518,heptabarbital
+PubChemCID:10531,Drug,PubChemCID,10531,Dihydroergotamine
+PubChemCID:1054,Drug,PubChemCID,1054,Pyridoxine
+PubChemCID:10547,Drug,PubChemCID,10547,Echothiophate Iodide
+PubChemCID:1060,Drug,PubChemCID,1060,Pyruvic Acid
+PubChemCID:10631,Drug,PubChemCID,10631,Medroxyprogesterone
+PubChemCID:10770,Drug,PubChemCID,10770,hexylcaine
+PubChemCID:107770,Drug,PubChemCID,107770,Artenimol
+PubChemCID:107778,Drug,PubChemCID,107778,HU 211
+PubChemCID:107807,Drug,PubChemCID,107807,Perindopril
+PubChemCID:107969,Drug,PubChemCID,107969,fingolimod
+PubChemCID:107970,Drug,PubChemCID,107970,fingolimod
+PubChemCID:108143,Drug,PubChemCID,108143,tamibarotene
+PubChemCID:108150,Drug,PubChemCID,108150,trabectedin
+PubChemCID:10836,Drug,PubChemCID,10836,Methamphetamine
+PubChemCID:10917,Drug,PubChemCID,10917,Carnitine
+PubChemCID:110634,Drug,PubChemCID,110634,vardenafil
+PubChemCID:110635,Drug,PubChemCID,110635,tadalafil
+PubChemCID:1110,Drug,PubChemCID,1110,Succinic Acid
+PubChemCID:11167602,Drug,PubChemCID,11167602,regorafenib
+PubChemCID:11226090,Drug,PubChemCID,11226090,Taranabant
+PubChemCID:11243969,Drug,PubChemCID,11243969,saxagliptin
+PubChemCID:1125,Drug,PubChemCID,1125,"5,6,7,8-tetrahydrobiopterin"
+PubChemCID:11289,Drug,PubChemCID,11289,Chlorotrianisene
+PubChemCID:1130,Drug,PubChemCID,1130,Thiamine
+PubChemCID:11319053,Drug,PubChemCID,11319053,telcagepant
+PubChemCID:11333,Drug,PubChemCID,11333,Lactulose
+PubChemCID:11338033,Drug,PubChemCID,11338033,AT7519
+PubChemCID:11364421,Drug,PubChemCID,11364421,BI 2536
+PubChemCID:11450633,Drug,PubChemCID,11450633,alogliptin
+PubChemCID:114709,Drug,PubChemCID,114709,"10,11-dihydro-10-hydroxy-5H-dibenz(b,f)azepine-5-carboxamide"
+PubChemCID:11479259,Drug,PubChemCID,11479259,tasidotin
+PubChemCID:115100,Drug,PubChemCID,115100,pranlukast
+PubChemCID:11519741,Drug,PubChemCID,11519741,aclidinium bromide
+PubChemCID:11520894,Drug,PubChemCID,11520894,ridaforolimus
+PubChemCID:115237,Drug,PubChemCID,115237,9-hydroxy-risperidone
+PubChemCID:11527330,Drug,PubChemCID,11527330,apilimod mesylate
+PubChemCID:115355,Drug,PubChemCID,115355,nitisinone
+PubChemCID:115358,Drug,PubChemCID,115358,tafenoquine
+PubChemCID:11556427,Drug,PubChemCID,11556427,anacetrapib
+PubChemCID:11556711,Drug,PubChemCID,11556711,carfilzomib
+PubChemCID:11561674,Drug,PubChemCID,11561674,apremilast
+PubChemCID:11597698,Drug,PubChemCID,11597698,lisdexamfetamine dimesylate
+PubChemCID:11626560,Drug,PubChemCID,11626560,crizotinib
+PubChemCID:11634458,Drug,PubChemCID,11634458,eribaxaban
+PubChemCID:11658860,Drug,PubChemCID,11658860,lorcaserin
+PubChemCID:11667832,Drug,PubChemCID,11667832,SAMIDORPHAN
+PubChemCID:11667893,Drug,PubChemCID,11667893,imetelstat
+PubChemCID:11693,Drug,PubChemCID,11693,Glycopyrrolate
+PubChemCID:11704019,Drug,PubChemCID,11704019,SureCN442638
+PubChemCID:11707110,Drug,PubChemCID,11707110,trametinib
+PubChemCID:11712649,Drug,PubChemCID,11712649,MLN8054
+PubChemCID:1174,Drug,PubChemCID,1174,Uracil
+PubChemCID:1188,Drug,PubChemCID,1188,Xanthine
+PubChemCID:119031,Drug,PubChemCID,119031,marimastat
+PubChemCID:119032,Drug,PubChemCID,119032,nitroaspirin
+PubChemCID:119182,Drug,PubChemCID,119182,clofarabine
+PubChemCID:11953884,Drug,PubChemCID,11953884,Nystop
+PubChemCID:11953898,Drug,PubChemCID,11953898,Cyanokit (TN)
+PubChemCID:11954293,Drug,PubChemCID,11954293,Sycrest
+PubChemCID:119570,Drug,PubChemCID,119570,pramipexole
+PubChemCID:119607,Drug,PubChemCID,119607,valdecoxib
+PubChemCID:11963622,Drug,PubChemCID,11963622,Nitroprusside
+PubChemCID:119828,Drug,PubChemCID,119828,parecoxib
+PubChemCID:12035,Drug,PubChemCID,12035,Acetylcysteine
+PubChemCID:12127,Drug,PubChemCID,12127,isovanillin
+PubChemCID:121892,Drug,PubChemCID,121892,ezogabine
+PubChemCID:122077,Drug,PubChemCID,122077,SR 27897
+PubChemCID:122186,Drug,PubChemCID,122186,BRL 35135
+PubChemCID:122262,Drug,PubChemCID,122262,piperaquine
+PubChemCID:122724,Drug,PubChemCID,122724,tripterine
+PubChemCID:123606,Drug,PubChemCID,123606,almotriptan
+PubChemCID:123610,Drug,PubChemCID,123610,eptifibatide
+PubChemCID:123619,Drug,PubChemCID,123619,etoricoxib
+PubChemCID:123628,Drug,PubChemCID,123628,beta-D-glucosylisophosphoramide mustard
+PubChemCID:123630,Drug,PubChemCID,123630,tazobactam
+PubChemCID:123631,Drug,PubChemCID,123631,gefitinib
+PubChemCID:123879,Drug,PubChemCID,123879,ramatroban
+PubChemCID:123974,Drug,PubChemCID,123974,AGN-PC-0JLONW
+PubChemCID:124087,Drug,PubChemCID,124087,desloratadine
+PubChemCID:124088,Drug,PubChemCID,124088,amdoxovir
+PubChemCID:12460,Drug,PubChemCID,12460,phendimetrazine
+PubChemCID:124886,Drug,PubChemCID,124886,Glutathione
+PubChemCID:125017,Drug,PubChemCID,125017,O-desmethylvenlafaxine
+PubChemCID:125564,Drug,PubChemCID,125564,blonanserin
+PubChemCID:12560,Drug,PubChemCID,12560,Erythromycin
+PubChemCID:12597,Drug,PubChemCID,12597,Isosorbide
+PubChemCID:126046,Drug,PubChemCID,126046,omapatrilat
+PubChemCID:126565,Drug,PubChemCID,126565,lestaurtinib
+PubChemCID:126941,Drug,PubChemCID,126941,Methotrexate
+PubChemCID:127894,Drug,PubChemCID,127894,tezampanel
+PubChemCID:127912,Drug,PubChemCID,127912,1192U90
+PubChemCID:129211,Drug,PubChemCID,129211,tamsulosin
+PubChemCID:129869,Drug,PubChemCID,129869,azaspirane
+PubChemCID:130881,Drug,PubChemCID,130881,olmesartan medoxomil
+PubChemCID:130918,Drug,PubChemCID,130918,WY 50324
+PubChemCID:13109,Drug,PubChemCID,13109,Levonorgestrel
+PubChemCID:13126,Drug,PubChemCID,13126,deoxycortone pivalate
+PubChemCID:131536,Drug,PubChemCID,131536,fosamprenavir
+PubChemCID:131682,Drug,PubChemCID,131682,safinamide
+PubChemCID:132706,Drug,PubChemCID,132706,forasartan
+PubChemCID:132969,Drug,PubChemCID,132969,FPL 14294
+PubChemCID:132999,Drug,PubChemCID,132999,ivabradine
+PubChemCID:133021,Drug,PubChemCID,133021,licofelone
+PubChemCID:133090,Drug,PubChemCID,133090,SB 223412
+PubChemCID:133985,Drug,PubChemCID,133985,CID 133985
+PubChemCID:134018,Drug,PubChemCID,134018,febuxostat
+PubChemCID:134780,Drug,PubChemCID,134780,3-aminophthalimidoglutarimide
+PubChemCID:1349907,Drug,PubChemCID,1349907,Methimazole
+PubChemCID:13505,Drug,PubChemCID,13505,Diphenoxylate
+PubChemCID:137,Drug,PubChemCID,137,Aminolevulinic Acid
+PubChemCID:13752005,Drug,PubChemCID,13752005,norelgestromin
+PubChemCID:13769,Drug,PubChemCID,13769,Testolactone
+PubChemCID:145068,Drug,PubChemCID,145068,Nitric Oxide
+PubChemCID:146570,Drug,PubChemCID,146570,Citalopram
+PubChemCID:14677,Drug,PubChemCID,14677,methdilazine
+PubChemCID:147912,Drug,PubChemCID,147912,posaconazole
+PubChemCID:148124,Drug,PubChemCID,148124,docetaxel
+PubChemCID:148184,Drug,PubChemCID,148184,1-(quinoxalin-6-ylcarbonyl)piperidine
+PubChemCID:148192,Drug,PubChemCID,148192,atazanavir
+PubChemCID:148195,Drug,PubChemCID,148195,lonafarnib
+PubChemCID:148197,Drug,PubChemCID,148197,diquafosol
+PubChemCID:148201,Drug,PubChemCID,148201,tariquidar
+PubChemCID:148203,Drug,PubChemCID,148203,AC1L3WNB
+PubChemCID:148211,Drug,PubChemCID,148211,palonosetron
+PubChemCID:149096,Drug,PubChemCID,149096,Levofloxacin
+PubChemCID:14969,Drug,PubChemCID,14969,Vancomycin
+PubChemCID:14985,Drug,PubChemCID,14985,alpha-Tocopherol
+PubChemCID:150311,Drug,PubChemCID,150311,ezetimibe
+PubChemCID:150610,Drug,PubChemCID,150610,ertapenem
+PubChemCID:151165,Drug,PubChemCID,151165,aprepitant
+PubChemCID:151166,Drug,PubChemCID,151166,lumiracoxib
+PubChemCID:151170,Drug,PubChemCID,151170,Cilomilast
+PubChemCID:151171,Drug,PubChemCID,151171,conivaptan
+PubChemCID:151194,Drug,PubChemCID,151194,vatalanib
+PubChemCID:15130,Drug,PubChemCID,15130,Methadyl Acetate
+PubChemCID:15209,Drug,PubChemCID,15209,Flurandrenolone
+PubChemCID:152946,Drug,PubChemCID,152946,moxifloxacin
+PubChemCID:152951,Drug,PubChemCID,152951,argatroban
+PubChemCID:153941,Drug,PubChemCID,153941,entecavir
+PubChemCID:153970,Drug,PubChemCID,153970,sapacitabine
+PubChemCID:153997,Drug,PubChemCID,153997,zosuquidar trihydrochloride
+PubChemCID:154656,Drug,PubChemCID,154656,amediplase
+PubChemCID:1547484,Drug,PubChemCID,1547484,Cinnarizine
+PubChemCID:1548887,Drug,PubChemCID,1548887,Sulindac
+PubChemCID:1548943,Drug,PubChemCID,1548943,Capsaicin
+PubChemCID:1548955,Drug,PubChemCID,1548955,Zuclomiphene
+PubChemCID:1548972,Drug,PubChemCID,1548972,fluvastatin
+PubChemCID:1549008,Drug,PubChemCID,1549008,terbinafine
+PubChemCID:1549120,Drug,PubChemCID,1549120,epalrestat
+PubChemCID:156328,Drug,PubChemCID,156328,besonprodil
+PubChemCID:156333,Drug,PubChemCID,156333,nemonapride
+PubChemCID:156391,Drug,PubChemCID,156391,Naproxen
+PubChemCID:156414,Drug,PubChemCID,156414,Canertinib
+PubChemCID:156419,Drug,PubChemCID,156419,cinacalcet
+PubChemCID:156422,Drug,PubChemCID,156422,BIRB 796
+PubChemCID:158385,Drug,PubChemCID,158385,motexafin gadolinium
+PubChemCID:158540,Drug,PubChemCID,158540,"1,3-dipropyl-8-(2-(5,6-epoxy)norbornyl)xanthine"
+PubChemCID:158795,Drug,PubChemCID,158795,tecadenoson
+PubChemCID:159269,Drug,PubChemCID,159269,telbivudine
+PubChemCID:159324,Drug,PubChemCID,159324,tipifarnib
+PubChemCID:159325,Drug,PubChemCID,159325,torcetrapib
+PubChemCID:160051,Drug,PubChemCID,160051,colesevelam
+PubChemCID:160355,Drug,PubChemCID,160355,roscovitine
+PubChemCID:16051924,Drug,PubChemCID,16051924,NSC-259242
+PubChemCID:16078,Drug,PubChemCID,16078,Dronabinol
+PubChemCID:16129616,Drug,PubChemCID,16129616,salmon calcitonin
+PubChemCID:16129617,Drug,PubChemCID,16129617,Cosyntropin
+PubChemCID:16129629,Drug,PubChemCID,16129629,Daptomycin
+PubChemCID:16129632,Drug,PubChemCID,16129632,oritavancin
+PubChemCID:16129672,Drug,PubChemCID,16129672,Velosiline HM
+PubChemCID:16129675,Drug,PubChemCID,16129675,Ceruletide
+PubChemCID:16129690,Drug,PubChemCID,16129690,ziconotide
+PubChemCID:16129703,Drug,PubChemCID,16129703,desirudin
+PubChemCID:16129704,Drug,PubChemCID,16129704,bivalirudin
+PubChemCID:16129712,Drug,PubChemCID,16129712,Teicoplanin A2-5
+PubChemCID:16130140,Drug,PubChemCID,16130140,Gramicidin
+PubChemCID:16130199,Drug,PubChemCID,16130199,enfuvirtide
+PubChemCID:16130571,Drug,PubChemCID,16130571,thymalfasin
+PubChemCID:16130966,Drug,PubChemCID,16130966,ganirelix
+PubChemCID:16131215,Drug,PubChemCID,16131215,abarelix
+PubChemCID:16131447,Drug,PubChemCID,16131447,AOD 9604
+PubChemCID:16132438,Drug,PubChemCID,16132438,Insulin Lispro
+PubChemCID:16132446,Drug,PubChemCID,16132446,pramlintide
+PubChemCID:16133850,Drug,PubChemCID,16133850,Teriparatide
+PubChemCID:1615,Drug,PubChemCID,1615,"N-Methyl-3,4-methylenedioxyamphetamine"
+PubChemCID:16157882,Drug,PubChemCID,16157882,exenatide
+PubChemCID:16158208,Drug,PubChemCID,16158208,linaclotide
+PubChemCID:16197725,Drug,PubChemCID,16197725,alicaforsen
+PubChemCID:16231,Drug,PubChemCID,16231,Amiloride
+PubChemCID:16362,Drug,PubChemCID,16362,Pimozide
+PubChemCID:165580,Drug,PubChemCID,165580,Paromomycin
+PubChemCID:166548,Drug,PubChemCID,166548,anidulafungin
+PubChemCID:166553,Drug,PubChemCID,166553,Arofyllin
+PubChemCID:16666,Drug,PubChemCID,16666,Menthol
+PubChemCID:16682734,Drug,PubChemCID,16682734,bismuth subsalicylate
+PubChemCID:16685683,Drug,PubChemCID,16685683,Lenocta
+PubChemCID:1676,Drug,PubChemCID,1676,enprofylline
+PubChemCID:16960,Drug,PubChemCID,16960,dexbrompheniramine
+PubChemCID:17134,Drug,PubChemCID,17134,Sulfadoxine
+PubChemCID:1727,Drug,PubChemCID,1727,4-Aminopyridine
+PubChemCID:174174,Drug,PubChemCID,174174,Atropine
+PubChemCID:175805,Drug,PubChemCID,175805,ropivacaine
+PubChemCID:176167,Drug,PubChemCID,176167,enzastaurin
+PubChemCID:17676,Drug,PubChemCID,17676,acetophenazine
+PubChemCID:176870,Drug,PubChemCID,176870,erlotinib
+PubChemCID:176873,Drug,PubChemCID,176873,Cilengitide
+PubChemCID:177236,Drug,PubChemCID,177236,LU 135252
+PubChemCID:177287,Drug,PubChemCID,177287,DA 5018
+PubChemCID:1775,Drug,PubChemCID,1775,Phenytoin
+PubChemCID:17753757,Drug,PubChemCID,17753757,pimecrolimus
+PubChemCID:177941,Drug,PubChemCID,177941,LY 293111
+PubChemCID:178052,Drug,PubChemCID,178052,pozanicline
+PubChemCID:178149,Drug,PubChemCID,178149,Amrubicin
+PubChemCID:179340,Drug,PubChemCID,179340,asimadoline
+PubChemCID:18104,Drug,PubChemCID,18104,Carphenazine
+PubChemCID:18283,Drug,PubChemCID,18283,Stavudine
+PubChemCID:184841,Drug,PubChemCID,184841,LU 111995
+PubChemCID:187,Drug,PubChemCID,187,Acetylcholine
+PubChemCID:188927,Drug,PubChemCID,188927,ezlopitant
+PubChemCID:19090,Drug,PubChemCID,19090,Megestrol
+PubChemCID:1935,Drug,PubChemCID,1935,Tacrine
+PubChemCID:193962,Drug,PubChemCID,193962,etravirine
+PubChemCID:19649,Drug,PubChemCID,19649,Streptomycin
+PubChemCID:1978,Drug,PubChemCID,1978,Acebutolol
+PubChemCID:1983,Drug,PubChemCID,1983,Acetaminophen
+PubChemCID:1986,Drug,PubChemCID,1986,Acetazolamide
+PubChemCID:19861,Drug,PubChemCID,19861,azatadine
+PubChemCID:1989,Drug,PubChemCID,1989,Acetohexamide
+PubChemCID:1990,Drug,PubChemCID,1990,acetohydroxamic acid
+PubChemCID:19973,Drug,PubChemCID,19973,mitomycin A
+PubChemCID:2019,Drug,PubChemCID,2019,Dactinomycin
+PubChemCID:2022,Drug,PubChemCID,2022,Acyclovir
+PubChemCID:20279,Drug,PubChemCID,20279,Cladribine
+PubChemCID:20299,Drug,PubChemCID,20299,tridihexethyl
+PubChemCID:204105,Drug,PubChemCID,204105,tofisopam
+PubChemCID:20469,Drug,PubChemCID,20469,Beclomethasone
+PubChemCID:2082,Drug,PubChemCID,2082,Albendazole
+PubChemCID:2083,Drug,PubChemCID,2083,Albuterol
+PubChemCID:2088,Drug,PubChemCID,2088,Alendronate
+PubChemCID:208820,Drug,PubChemCID,208820,dexefaroxan
+PubChemCID:208898,Drug,PubChemCID,208898,dronedarone
+PubChemCID:208902,Drug,PubChemCID,208902,ramelteon
+PubChemCID:208908,Drug,PubChemCID,208908,lapatinib
+PubChemCID:208925,Drug,PubChemCID,208925,ONO2506
+PubChemCID:2092,Drug,PubChemCID,2092,alfuzosin
+PubChemCID:2094,Drug,PubChemCID,2094,Allopurinol
+PubChemCID:2099,Drug,PubChemCID,2099,alosetron
+PubChemCID:2118,Drug,PubChemCID,2118,Alprazolam
+PubChemCID:2119,Drug,PubChemCID,2119,Alprenolol
+PubChemCID:2123,Drug,PubChemCID,2123,Altretamine
+PubChemCID:21233,Drug,PubChemCID,21233,metocurine
+PubChemCID:2130,Drug,PubChemCID,2130,Amantadine
+PubChemCID:213022,Drug,PubChemCID,213022,ZD 9331
+PubChemCID:213039,Drug,PubChemCID,213039,darunavir
+PubChemCID:213046,Drug,PubChemCID,213046,lurasidone
+PubChemCID:213050,Drug,PubChemCID,213050,NK3201
+PubChemCID:213056,Drug,PubChemCID,213056,eglumetad
+PubChemCID:2131,Drug,PubChemCID,2131,Ambenonium Chloride
+PubChemCID:21319,Drug,PubChemCID,21319,Floxacillin
+PubChemCID:2141,Drug,PubChemCID,2141,Amifostine
+PubChemCID:214347,Drug,PubChemCID,214347,TMC120-R147681
+PubChemCID:214351,Drug,PubChemCID,214351,ilaprazole
+PubChemCID:2145,Drug,PubChemCID,2145,Aminoglutethimide
+PubChemCID:2153,Drug,PubChemCID,2153,Theophylline
+PubChemCID:2154,Drug,PubChemCID,2154,Aminopterin
+PubChemCID:2157,Drug,PubChemCID,2157,Amiodarone
+PubChemCID:2159,Drug,PubChemCID,2159,sultopride
+PubChemCID:2160,Drug,PubChemCID,2160,Amitriptyline
+PubChemCID:2162,Drug,PubChemCID,2162,Amlodipine
+PubChemCID:216235,Drug,PubChemCID,216235,sitaxsentan
+PubChemCID:216239,Drug,PubChemCID,216239,sorafenib
+PubChemCID:216326,Drug,PubChemCID,216326,lenalidomide
+PubChemCID:216327,Drug,PubChemCID,216327,senicapoc
+PubChemCID:2164,Drug,PubChemCID,2164,Amobarbital
+PubChemCID:216416,Drug,PubChemCID,216416,Lasofoxifene
+PubChemCID:216456,Drug,PubChemCID,216456,ocinaplon
+PubChemCID:216457,Drug,PubChemCID,216457,solifenacin
+PubChemCID:216470,Drug,PubChemCID,216470,GW 3333
+PubChemCID:2165,Drug,PubChemCID,2165,Amodiaquine
+PubChemCID:2170,Drug,PubChemCID,2170,Amoxapine
+PubChemCID:2179,Drug,PubChemCID,2179,Amsacrine
+PubChemCID:2182,Drug,PubChemCID,2182,anagrelide
+PubChemCID:21855,Drug,PubChemCID,21855,Dimethindene
+PubChemCID:2187,Drug,PubChemCID,2187,anastrozole
+PubChemCID:219018,Drug,PubChemCID,219018,LY 156735
+PubChemCID:219021,Drug,PubChemCID,219021,allotrap
+PubChemCID:219024,Drug,PubChemCID,219024,regadenoson
+PubChemCID:219077,Drug,PubChemCID,219077,SR 142801
+PubChemCID:219078,Drug,PubChemCID,219078,"2-(acetylamino)-3-methoxy-N-(phenylmethyl)-, (2R)-"
+PubChemCID:219090,Drug,PubChemCID,219090,fosaprepitant
+PubChemCID:219100,Drug,PubChemCID,219100,phenoxodiol
+PubChemCID:219104,Drug,PubChemCID,219104,IV 2 compound
+PubChemCID:2197,Drug,PubChemCID,2197,anisindione
+PubChemCID:2200,Drug,PubChemCID,2200,Antazoline
+PubChemCID:2218,Drug,PubChemCID,2218,Aprindine
+PubChemCID:2244,Drug,PubChemCID,2244,Aspirin
+PubChemCID:2247,Drug,PubChemCID,2247,Astemizole
+PubChemCID:2249,Drug,PubChemCID,2249,Atenolol
+PubChemCID:2265,Drug,PubChemCID,2265,Azathioprine
+PubChemCID:2266,Drug,PubChemCID,2266,azelaic acid
+PubChemCID:2267,Drug,PubChemCID,2267,azelastine
+PubChemCID:2284,Drug,PubChemCID,2284,Baclofen
+PubChemCID:2294,Drug,PubChemCID,2294,Barbital
+PubChemCID:229455,Drug,PubChemCID,229455,nandrolone phenpropionate
+PubChemCID:2315,Drug,PubChemCID,2315,Bendroflumethiazide
+PubChemCID:23305354,Drug,PubChemCID,23305354,Aza-epothilone B
+PubChemCID:2333,Drug,PubChemCID,2333,Benzbromarone
+PubChemCID:2337,Drug,PubChemCID,2337,Benzocaine
+PubChemCID:2341,Drug,PubChemCID,2341,Benzphetamine
+PubChemCID:2342,Drug,PubChemCID,2342,benzquinamide
+PubChemCID:2343,Drug,PubChemCID,2343,benzothiazide
+PubChemCID:2351,Drug,PubChemCID,2351,Bepridil
+PubChemCID:2353,Drug,PubChemCID,2353,Berberine
+PubChemCID:23576,Drug,PubChemCID,23576,Trimethaphan
+PubChemCID:235905,Drug,PubChemCID,235905,Allylestrenol
+PubChemCID:23663870,Drug,PubChemCID,23663870,Sodium Oxybate
+PubChemCID:23663956,Drug,PubChemCID,23663956,Valproic Acid
+PubChemCID:23663964,Drug,PubChemCID,23663964,brequinar
+PubChemCID:23667301,Drug,PubChemCID,23667301,"Estrogens, Conjugated (USP)"
+PubChemCID:2368,Drug,PubChemCID,2368,Bethanidine
+PubChemCID:2369,Drug,PubChemCID,2369,Betaxolol
+PubChemCID:237,Drug,PubChemCID,237,Quinacrine
+PubChemCID:2370,Drug,PubChemCID,2370,Bethanechol
+PubChemCID:2372,Drug,PubChemCID,2372,bevantolol
+PubChemCID:23724530,Drug,PubChemCID,23724530,temsirolimus
+PubChemCID:23724781,Drug,PubChemCID,23724781,N-Methylscopolamine
+PubChemCID:23725028,Drug,PubChemCID,23725028,tin mesoporphyrin
+PubChemCID:23725625,Drug,PubChemCID,23725625,AZD 2281
+PubChemCID:2375,Drug,PubChemCID,2375,bicalutamide
+PubChemCID:2381,Drug,PubChemCID,2381,Biperiden
+PubChemCID:23897,Drug,PubChemCID,23897,Molindone
+PubChemCID:23925,Drug,PubChemCID,23925,Iron
+PubChemCID:23994,Drug,PubChemCID,23994,Zinc
+PubChemCID:2405,Drug,PubChemCID,2405,Bisoprolol
+PubChemCID:24066,Drug,PubChemCID,24066,Zalcitabine
+PubChemCID:24083,Drug,PubChemCID,24083,Magnesium Sulfate
+PubChemCID:241903,Drug,PubChemCID,241903,Vinblastine
+PubChemCID:24244,Drug,PubChemCID,24244,metocurine
+PubChemCID:2431,Drug,PubChemCID,2431,bretylium
+PubChemCID:2435,Drug,PubChemCID,2435,brimonidine
+PubChemCID:2441,Drug,PubChemCID,2441,Bromazepam
+PubChemCID:2444,Drug,PubChemCID,2444,bromodiphenhydramine
+PubChemCID:24466,Drug,PubChemCID,24466,metoprine
+PubChemCID:2449,Drug,PubChemCID,2449,seratrodast
+PubChemCID:2471,Drug,PubChemCID,2471,Bumetanide
+PubChemCID:2474,Drug,PubChemCID,2474,Bupivacaine
+PubChemCID:24757945,Drug,PubChemCID,24757945,CID 24757945
+PubChemCID:2477,Drug,PubChemCID,2477,Buspirone
+PubChemCID:24774,Drug,PubChemCID,24774,Vasopressins
+PubChemCID:2478,Drug,PubChemCID,2478,Busulfan
+PubChemCID:2479,Drug,PubChemCID,2479,secbutabarbital
+PubChemCID:2481,Drug,PubChemCID,2481,butalbital
+PubChemCID:24812758,Drug,PubChemCID,24812758,canagliflozin
+PubChemCID:24847878,Drug,PubChemCID,24847878,Veramyst
+PubChemCID:24995524,Drug,PubChemCID,24995524,Kinome_3712
+PubChemCID:25014653,Drug,PubChemCID,25014653,vintafolide
+PubChemCID:25022378,Drug,PubChemCID,25022378,Edoxaban tosylate monohydrate
+PubChemCID:25074470,Drug,PubChemCID,25074470,Triptorelin Pamoate
+PubChemCID:25074887,Drug,PubChemCID,25074887,cetrorelix
+PubChemCID:25077649,Drug,PubChemCID,25077649,Nafarelin
+PubChemCID:25102847,Drug,PubChemCID,25102847,cabozantinib
+PubChemCID:2519,Drug,PubChemCID,2519,Caffeine
+PubChemCID:25195354,Drug,PubChemCID,25195354,LY 2140023
+PubChemCID:2520,Drug,PubChemCID,2520,Verapamil
+PubChemCID:2540,Drug,PubChemCID,2540,candesartan cilexetil
+PubChemCID:2541,Drug,PubChemCID,2541,candesartan
+PubChemCID:25419,Drug,PubChemCID,25419,Clodronic Acid
+PubChemCID:2554,Drug,PubChemCID,2554,Carbamazepine
+PubChemCID:2564,Drug,PubChemCID,2564,carbinoxamine
+PubChemCID:2576,Drug,PubChemCID,2576,Carisoprodol
+PubChemCID:2578,Drug,PubChemCID,2578,Carmustine
+PubChemCID:2581,Drug,PubChemCID,2581,carprofen
+PubChemCID:2583,Drug,PubChemCID,2583,Carteolol
+PubChemCID:2585,Drug,PubChemCID,2585,carvedilol
+PubChemCID:259331,Drug,PubChemCID,259331,Estramustine
+PubChemCID:26035,Drug,PubChemCID,26035,aceprometazine
+PubChemCID:2662,Drug,PubChemCID,2662,celecoxib
+PubChemCID:26757,Drug,PubChemCID,26757,Selegiline
+PubChemCID:2678,Drug,PubChemCID,2678,Cetirizine
+PubChemCID:26879,Drug,PubChemCID,26879,Levamisole
+PubChemCID:26934,Drug,PubChemCID,26934,Phenylpropanolamine
+PubChemCID:26987,Drug,PubChemCID,26987,Clemastine
+PubChemCID:2708,Drug,PubChemCID,2708,Chlorambucil
+PubChemCID:2712,Drug,PubChemCID,2712,Chlordiazepoxide
+PubChemCID:2717,Drug,PubChemCID,2717,Chlormezanone
+PubChemCID:2719,Drug,PubChemCID,2719,Chloroquine
+PubChemCID:2720,Drug,PubChemCID,2720,Chlorothiazide
+PubChemCID:2723601,Drug,PubChemCID,2723601,Thioguanine
+PubChemCID:2724385,Drug,PubChemCID,2724385,Digoxin
+PubChemCID:2725,Drug,PubChemCID,2725,Chlorpheniramine
+PubChemCID:2726,Drug,PubChemCID,2726,Chlorpromazine
+PubChemCID:2727,Drug,PubChemCID,2727,Chlorpropamide
+PubChemCID:2732,Drug,PubChemCID,2732,Chlorthalidone
+PubChemCID:2733,Drug,PubChemCID,2733,Chlorzoxazone
+PubChemCID:2733526,Drug,PubChemCID,2733526,Tamoxifen
+PubChemCID:2733848,Drug,PubChemCID,2733848,ethyl (R)-2-hydroxy-4-phenylbutyrate
+PubChemCID:27447,Drug,PubChemCID,27447,Cephalexin
+PubChemCID:2749,Drug,PubChemCID,2749,ciclopirox
+PubChemCID:27503,Drug,PubChemCID,27503,Cromolyn Sodium
+PubChemCID:2754,Drug,PubChemCID,2754,cilostazol
+PubChemCID:2756,Drug,PubChemCID,2756,Cimetidine
+PubChemCID:2761171,Drug,PubChemCID,2761171,Ethionamide
+PubChemCID:2762,Drug,PubChemCID,2762,Cinoxacin
+PubChemCID:2763,Drug,PubChemCID,2763,ciprofibrate
+PubChemCID:2764,Drug,PubChemCID,2764,Ciprofloxacin
+PubChemCID:27661,Drug,PubChemCID,27661,isosorbide-5-mononitrate
+PubChemCID:2769,Drug,PubChemCID,2769,Cisapride
+PubChemCID:2771,Drug,PubChemCID,2771,Citalopram
+PubChemCID:2783,Drug,PubChemCID,2783,Clenbuterol
+PubChemCID:2784,Drug,PubChemCID,2784,clidinium
+PubChemCID:2788,Drug,PubChemCID,2788,Clioquinol
+PubChemCID:2789,Drug,PubChemCID,2789,clobazam
+PubChemCID:2794,Drug,PubChemCID,2794,Clofazimine
+PubChemCID:2795,Drug,PubChemCID,2795,clofedanol
+PubChemCID:2796,Drug,PubChemCID,2796,Clofibrate
+PubChemCID:27991,Drug,PubChemCID,27991,Deamino Arginine Vasopressin
+PubChemCID:2801,Drug,PubChemCID,2801,Clomipramine
+PubChemCID:2802,Drug,PubChemCID,2802,Clonazepam
+PubChemCID:2803,Drug,PubChemCID,2803,Clonidine
+PubChemCID:2809,Drug,PubChemCID,2809,Clorazepate Dipotassium
+PubChemCID:2811,Drug,PubChemCID,2811,clotiazepam
+PubChemCID:2812,Drug,PubChemCID,2812,Clotrimazole
+PubChemCID:2818,Drug,PubChemCID,2818,Clozapine
+PubChemCID:2826718,Drug,PubChemCID,2826718,caspofungin
+PubChemCID:28417,Drug,PubChemCID,28417,Danazol
+PubChemCID:28486,Drug,PubChemCID,28486,lithium ion
+PubChemCID:28620,Drug,PubChemCID,28620,Deslanoside
+PubChemCID:28864,Drug,PubChemCID,28864,Lisuride
+PubChemCID:2895,Drug,PubChemCID,2895,cyclobenzaprine
+PubChemCID:29029,Drug,PubChemCID,29029,Clindamycin
+PubChemCID:2905,Drug,PubChemCID,2905,Cyclopentolate
+PubChemCID:2907,Drug,PubChemCID,2907,Cyclophosphamide
+PubChemCID:2910,Drug,PubChemCID,2910,cyclothiazide
+PubChemCID:2911,Drug,PubChemCID,2911,cycrimine
+PubChemCID:2913,Drug,PubChemCID,2913,Cyproheptadine
+PubChemCID:29327,Drug,PubChemCID,29327,Streptozocin
+PubChemCID:2952,Drug,PubChemCID,2952,Spectrum_001537
+PubChemCID:2955,Drug,PubChemCID,2955,Dapsone
+PubChemCID:2966,Drug,PubChemCID,2966,Debrisoquin
+PubChemCID:2968,Drug,PubChemCID,2968,decamethonium
+PubChemCID:2972,Drug,PubChemCID,2972,deferiprone
+PubChemCID:2973,Drug,PubChemCID,2973,Deferoxamine
+PubChemCID:2995,Drug,PubChemCID,2995,Desipramine
+PubChemCID:3000226,Drug,PubChemCID,3000226,Fusidic Acid
+PubChemCID:3000715,Drug,PubChemCID,3000715,Thiopental
+PubChemCID:3001055,Drug,PubChemCID,3001055,Ranitidine
+PubChemCID:3002977,Drug,PubChemCID,3002977,maraviroc
+PubChemCID:300471,Drug,PubChemCID,300471,elesclomol
+PubChemCID:3005573,Drug,PubChemCID,3005573,Toremifene
+PubChemCID:3007,Drug,PubChemCID,3007,Amphetamine
+PubChemCID:3009,Drug,PubChemCID,3009,Eflornithine
+PubChemCID:3009355,Drug,PubChemCID,3009355,vicriviroc
+PubChemCID:3010818,Drug,PubChemCID,3010818,telaprevir
+PubChemCID:3011155,Drug,PubChemCID,3011155,nelarabine
+PubChemCID:3016,Drug,PubChemCID,3016,Diazepam
+PubChemCID:3019,Drug,PubChemCID,3019,Diazoxide
+PubChemCID:3025,Drug,PubChemCID,3025,Dibucaine
+PubChemCID:3025957,Drug,PubChemCID,3025957,AC1MHGAP
+PubChemCID:3032285,Drug,PubChemCID,3032285,Thiamylal
+PubChemCID:30323,Drug,PubChemCID,30323,Daunorubicin
+PubChemCID:3033,Drug,PubChemCID,3033,Diclofenac
+PubChemCID:3033053,Drug,PubChemCID,3033053,dezocine
+PubChemCID:3033521,Drug,PubChemCID,3033521,pirarubicin
+PubChemCID:3033538,Drug,PubChemCID,3033538,dapiprazole
+PubChemCID:3033621,Drug,PubChemCID,3033621,cinolazepam
+PubChemCID:3033637,Drug,PubChemCID,3033637,Nizatidine
+PubChemCID:3033769,Drug,PubChemCID,3033769,Raclopride
+PubChemCID:3033825,Drug,PubChemCID,3033825,simendan
+PubChemCID:3033968,Drug,PubChemCID,3033968,Gestodene
+PubChemCID:3034010,Drug,PubChemCID,3034010,orlistat
+PubChemCID:3035055,Drug,PubChemCID,3035055,ICI 154129
+PubChemCID:3035442,Drug,PubChemCID,3035442,amibegron
+PubChemCID:3037032,Drug,PubChemCID,3037032,Sodium Oxybate
+PubChemCID:3037308,Drug,PubChemCID,3037308,abaperidone
+PubChemCID:3038497,Drug,PubChemCID,3038497,fospropofol
+PubChemCID:3038522,Drug,PubChemCID,3038522,tandutinib
+PubChemCID:3042,Drug,PubChemCID,3042,Dicyclomine
+PubChemCID:3047758,Drug,PubChemCID,3047758,145375-43-5
+PubChemCID:3052,Drug,PubChemCID,3052,Diethylcarbamazine
+PubChemCID:3052776,Drug,PubChemCID,3052776,rasagiline
+PubChemCID:3052778,Drug,PubChemCID,3052778,88721-77-1
+PubChemCID:3055,Drug,PubChemCID,3055,diphenidol
+PubChemCID:3059,Drug,PubChemCID,3059,Diflunisal
+PubChemCID:3062316,Drug,PubChemCID,3062316,dasatinib
+PubChemCID:30668,Drug,PubChemCID,30668,lofexidine
+PubChemCID:30751,Drug,PubChemCID,30751,fludarabine phosphate
+PubChemCID:3081185,Drug,PubChemCID,3081185,nerispirdine
+PubChemCID:3081361,Drug,PubChemCID,3081361,Vandetanib
+PubChemCID:3081362,Drug,PubChemCID,3081362,telavancin
+PubChemCID:3081884,Drug,PubChemCID,3081884,copolymer 1
+PubChemCID:3083445,Drug,PubChemCID,3083445,SANORG 34006
+PubChemCID:3083544,Drug,PubChemCID,3083544,formoterol
+PubChemCID:3084049,Drug,PubChemCID,3084049,Hyaluronic Acid
+PubChemCID:3085017,Drug,PubChemCID,3085017,sevelamer
+PubChemCID:3086654,Drug,PubChemCID,3086654,AM84367
+PubChemCID:3100,Drug,PubChemCID,3100,Diphenhydramine
+PubChemCID:3103,Drug,PubChemCID,3103,diphenylpyraline
+PubChemCID:3105,Drug,PubChemCID,3105,dipivefrin
+PubChemCID:31072,Drug,PubChemCID,31072,Carbimazole
+PubChemCID:3108,Drug,PubChemCID,3108,Dipyridamole
+PubChemCID:311,Drug,PubChemCID,311,Citric Acid
+PubChemCID:31100,Drug,PubChemCID,31100,Bromocriptine
+PubChemCID:31101,Drug,PubChemCID,31101,Bromocriptine
+PubChemCID:3114,Drug,PubChemCID,3114,Disopyramide
+PubChemCID:3117,Drug,PubChemCID,3117,Disulfiram
+PubChemCID:3121,Drug,PubChemCID,3121,Valproic Acid
+PubChemCID:31304,Drug,PubChemCID,31304,Picrotoxin
+PubChemCID:31307,Drug,PubChemCID,31307,Triamcinolone
+PubChemCID:31378,Drug,PubChemCID,31378,Fludrocortisone
+PubChemCID:31401,Drug,PubChemCID,31401,Ursodeoxycholic Acid
+PubChemCID:31477,Drug,PubChemCID,31477,Metipranolol
+PubChemCID:3151,Drug,PubChemCID,3151,Domperidone
+PubChemCID:3152,Drug,PubChemCID,3152,donepezil
+PubChemCID:3157,Drug,PubChemCID,3157,Doxazosin
+PubChemCID:3162,Drug,PubChemCID,3162,Doxylamine
+PubChemCID:31640,Drug,PubChemCID,31640,halazepam
+PubChemCID:3168,Drug,PubChemCID,3168,Droperidol
+PubChemCID:31703,Drug,PubChemCID,31703,Doxorubicin
+PubChemCID:3180,Drug,PubChemCID,3180,dyclonine
+PubChemCID:3182,Drug,PubChemCID,3182,Dyphylline
+PubChemCID:3194,Drug,PubChemCID,3194,ebselen
+PubChemCID:3202,Drug,PubChemCID,3202,Edrophonium
+PubChemCID:3219,Drug,PubChemCID,3219,emedastine
+PubChemCID:3226,Drug,PubChemCID,3226,Enflurane
+PubChemCID:3229,Drug,PubChemCID,3229,Enoxacin
+PubChemCID:3241,Drug,PubChemCID,3241,epinastine
+PubChemCID:3261,Drug,PubChemCID,3261,Estazolam
+PubChemCID:32778,Drug,PubChemCID,32778,glisoxepide
+PubChemCID:3278,Drug,PubChemCID,3278,Ethacrynic Acid
+PubChemCID:3279,Drug,PubChemCID,3279,Tibutol
+PubChemCID:32798,Drug,PubChemCID,32798,Clobetasol
+PubChemCID:3284,Drug,PubChemCID,3284,ethinamate
+PubChemCID:3290,Drug,PubChemCID,3290,profenamine
+PubChemCID:3291,Drug,PubChemCID,3291,Ethosuximide
+PubChemCID:3295,Drug,PubChemCID,3295,Ethoxzolamide
+PubChemCID:33032,Drug,PubChemCID,33032,Glutamic Acid
+PubChemCID:3308,Drug,PubChemCID,3308,Etodolac
+PubChemCID:33255,Drug,PubChemCID,33255,Cefazolin
+PubChemCID:3333,Drug,PubChemCID,3333,Felodipine
+PubChemCID:3337,Drug,PubChemCID,3337,Fenfluramine
+PubChemCID:3339,Drug,PubChemCID,3339,Fenofibrate
+PubChemCID:3341,Drug,PubChemCID,3341,Fenoldopam
+PubChemCID:3343,Drug,PubChemCID,3343,Fenoterol
+PubChemCID:3345,Drug,PubChemCID,3345,Fentanyl
+PubChemCID:3348,Drug,PubChemCID,3348,fexofenadine
+PubChemCID:3354,Drug,PubChemCID,3354,Flavoxate
+PubChemCID:3356,Drug,PubChemCID,3356,Flecainide
+PubChemCID:3357,Drug,PubChemCID,3357,Fleroxacin
+PubChemCID:33572,Drug,PubChemCID,33572,Ritodrine
+PubChemCID:33613,Drug,PubChemCID,33613,Amoxicillin
+PubChemCID:33624,Drug,PubChemCID,33624,Timolol
+PubChemCID:3365,Drug,PubChemCID,3365,Fluconazole
+PubChemCID:3366,Drug,PubChemCID,3366,Flucytosine
+PubChemCID:3369,Drug,PubChemCID,3369,fludiazepam
+PubChemCID:3372,Drug,PubChemCID,3372,Fluphenazine
+PubChemCID:3373,Drug,PubChemCID,3373,Flumazenil
+PubChemCID:337359,Drug,PubChemCID,337359,sorbinil
+PubChemCID:33741,Drug,PubChemCID,33741,Tramadol
+PubChemCID:338,Drug,PubChemCID,338,Salicylic Acid
+PubChemCID:3380,Drug,PubChemCID,3380,Flunitrazepam
+PubChemCID:3385,Drug,PubChemCID,3385,Fluorouracil
+PubChemCID:3386,Drug,PubChemCID,3386,Fluoxetine
+PubChemCID:3388,Drug,PubChemCID,3388,fluphenazine depot
+PubChemCID:33887,Drug,PubChemCID,33887,Almitrine
+PubChemCID:3393,Drug,PubChemCID,3393,Flurazepam
+PubChemCID:3394,Drug,PubChemCID,3394,Flurbiprofen
+PubChemCID:3396,Drug,PubChemCID,3396,Fluspirilene
+PubChemCID:3397,Drug,PubChemCID,3397,Flutamide
+PubChemCID:34040,Drug,PubChemCID,34040,Nicergoline
+PubChemCID:3406,Drug,PubChemCID,3406,fomepizole
+PubChemCID:3410,Drug,PubChemCID,3410,formoterol
+PubChemCID:34312,Drug,PubChemCID,34312,oxcarbazepine
+PubChemCID:34359,Drug,PubChemCID,34359,Carbidopa
+PubChemCID:3440,Drug,PubChemCID,3440,Furosemide
+PubChemCID:3446,Drug,PubChemCID,3446,gabapentin
+PubChemCID:3448,Drug,PubChemCID,3448,gaboxadol
+PubChemCID:3454,Drug,PubChemCID,3454,Ganciclovir
+PubChemCID:3463,Drug,PubChemCID,3463,Gemfibrozil
+PubChemCID:34633,Drug,PubChemCID,34633,Moricizine
+PubChemCID:3467,Drug,PubChemCID,3467,Gentamicins
+PubChemCID:34698,Drug,PubChemCID,34698,Teniposide
+PubChemCID:3475,Drug,PubChemCID,3475,Gliclazide
+PubChemCID:34756,Drug,PubChemCID,34756,S-Adenosylmethionine
+PubChemCID:3476,Drug,PubChemCID,3476,glimepiride
+PubChemCID:3478,Drug,PubChemCID,3478,Glipizide
+PubChemCID:34869,Drug,PubChemCID,34869,amineptin
+PubChemCID:3487,Drug,PubChemCID,3487,Glutethimide
+PubChemCID:3488,Drug,PubChemCID,3488,Glyburide
+PubChemCID:3494,Drug,PubChemCID,3494,Glycopyrrolate
+PubChemCID:3510,Drug,PubChemCID,3510,Granisetron
+PubChemCID:3516,Drug,PubChemCID,3516,Guaifenesin
+PubChemCID:3518,Drug,PubChemCID,3518,Guanethidine
+PubChemCID:3519,Drug,PubChemCID,3519,Guanfacine
+PubChemCID:35370,Drug,PubChemCID,35370,Zidovudine
+PubChemCID:3559,Drug,PubChemCID,3559,Haloperidol
+PubChemCID:3562,Drug,PubChemCID,3562,Halothane
+PubChemCID:3599,Drug,PubChemCID,3599,miltefosine
+PubChemCID:3608,Drug,PubChemCID,3608,Hexobarbital
+PubChemCID:36294,Drug,PubChemCID,36294,Tobramycin
+PubChemCID:36314,Drug,PubChemCID,36314,Paclitaxel
+PubChemCID:36339,Drug,PubChemCID,36339,Etomidate
+PubChemCID:3637,Drug,PubChemCID,3637,Hydralazine
+PubChemCID:3639,Drug,PubChemCID,3639,Hydrochlorothiazide
+PubChemCID:36462,Drug,PubChemCID,36462,Etoposide
+PubChemCID:3652,Drug,PubChemCID,3652,Hydroxychloroquine
+PubChemCID:36523,Drug,PubChemCID,36523,Gonadotropin-Releasing Hormone
+PubChemCID:3657,Drug,PubChemCID,3657,Hydroxyurea
+PubChemCID:3658,Drug,PubChemCID,3658,Hydroxyzine
+PubChemCID:3671,Drug,PubChemCID,3671,ibudilast
+PubChemCID:3672,Drug,PubChemCID,3672,Ibuprofen
+PubChemCID:3675,Drug,PubChemCID,3675,Phenelzine
+PubChemCID:3676,Drug,PubChemCID,3676,Lidocaine
+PubChemCID:3677,Drug,PubChemCID,3677,Mephentermine
+PubChemCID:3678,Drug,PubChemCID,3678,alverine
+PubChemCID:36811,Drug,PubChemCID,36811,Dobutamine
+PubChemCID:3690,Drug,PubChemCID,3690,Ifosfamide
+PubChemCID:36921,Drug,PubChemCID,36921,Ticarcillin
+PubChemCID:3696,Drug,PubChemCID,3696,Imipramine
+PubChemCID:3702,Drug,PubChemCID,3702,Indapamide
+PubChemCID:3715,Drug,PubChemCID,3715,Indomethacin
+PubChemCID:37393,Drug,PubChemCID,37393,halofantrine
+PubChemCID:37464,Drug,PubChemCID,37464,Penbutolol
+PubChemCID:3749,Drug,PubChemCID,3749,irbesartan
+PubChemCID:37542,Drug,PubChemCID,37542,Ribavirin
+PubChemCID:3759,Drug,PubChemCID,3759,Isocarboxazid
+PubChemCID:3762,Drug,PubChemCID,3762,Isoetharine
+PubChemCID:3763,Drug,PubChemCID,3763,Isoflurane
+PubChemCID:37632,Drug,PubChemCID,37632,adinazolam
+PubChemCID:3767,Drug,PubChemCID,3767,Isoniazid
+PubChemCID:37720,Drug,PubChemCID,37720,Pentosan Sulfuric Polyester
+PubChemCID:37768,Drug,PubChemCID,37768,Amikacin
+PubChemCID:3779,Drug,PubChemCID,3779,Isoproterenol
+PubChemCID:3784,Drug,PubChemCID,3784,Isradipine
+PubChemCID:38022,Drug,PubChemCID,38022,ganaxolone
+PubChemCID:3821,Drug,PubChemCID,3821,Ketamine
+PubChemCID:3822,Drug,PubChemCID,3822,Ketanserin
+PubChemCID:3825,Drug,PubChemCID,3825,Ketoprofen
+PubChemCID:3826,Drug,PubChemCID,3826,Ketorolac
+PubChemCID:3827,Drug,PubChemCID,3827,Ketotifen
+PubChemCID:383414,Drug,PubChemCID,383414,Octreotide
+PubChemCID:38521,Drug,PubChemCID,38521,guanadrel
+PubChemCID:3869,Drug,PubChemCID,3869,Labetalol
+PubChemCID:387447,Drug,PubChemCID,387447,bortezomib
+PubChemCID:3878,Drug,PubChemCID,3878,lamotrigine
+PubChemCID:3883,Drug,PubChemCID,3883,Lansoprazole
+PubChemCID:38853,Drug,PubChemCID,38853,Methyldopa
+PubChemCID:38904,Drug,PubChemCID,38904,Carboplatin
+PubChemCID:38945,Drug,PubChemCID,38945,Tocainide
+PubChemCID:3899,Drug,PubChemCID,3899,leflunomide
+PubChemCID:3902,Drug,PubChemCID,3902,letrozole
+PubChemCID:39042,Drug,PubChemCID,39042,Bezafibrate
+PubChemCID:3911,Drug,PubChemCID,3911,Enantone (TN)
+PubChemCID:39147,Drug,PubChemCID,39147,Nadolol
+PubChemCID:39186,Drug,PubChemCID,39186,Diltiazem
+PubChemCID:3922,Drug,PubChemCID,3922,LG 100268
+PubChemCID:392622,Drug,PubChemCID,392622,Ritonavir
+PubChemCID:39468,Drug,PubChemCID,39468,Levobunolol
+PubChemCID:3948,Drug,PubChemCID,3948,lomefloxacin
+PubChemCID:3950,Drug,PubChemCID,3950,Lomustine
+PubChemCID:39507,Drug,PubChemCID,39507,rimexolone
+PubChemCID:3955,Drug,PubChemCID,3955,Loperamide
+PubChemCID:39562,Drug,PubChemCID,39562,lonidamine
+PubChemCID:3957,Drug,PubChemCID,3957,Loratadine
+PubChemCID:3958,Drug,PubChemCID,3958,Lorazepam
+PubChemCID:3961,Drug,PubChemCID,3961,Losartan
+PubChemCID:3964,Drug,PubChemCID,3964,Loxapine
+PubChemCID:3973,Drug,PubChemCID,3973,2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one
+PubChemCID:39765,Drug,PubChemCID,39765,Vecuronium Bromide
+PubChemCID:39836,Drug,PubChemCID,39836,NG-Nitroarginine Methyl Ester
+PubChemCID:39941,Drug,PubChemCID,39941,benoxaprofen
+PubChemCID:4004,Drug,PubChemCID,4004,Malathion
+PubChemCID:4011,Drug,PubChemCID,4011,Maprotiline
+PubChemCID:4020,Drug,PubChemCID,4020,Mazindol
+PubChemCID:4021,Drug,PubChemCID,4021,phenylmethylpyrazolone
+PubChemCID:4030,Drug,PubChemCID,4030,Mebendazole
+PubChemCID:4031,Drug,PubChemCID,4031,mebeverine
+PubChemCID:4032,Drug,PubChemCID,4032,Mecamylamine
+PubChemCID:40326,Drug,PubChemCID,40326,Permethrin
+PubChemCID:4033,Drug,PubChemCID,4033,Mechlorethamine
+PubChemCID:4034,Drug,PubChemCID,4034,Meclizine
+PubChemCID:4037,Drug,PubChemCID,4037,Meclofenamic Acid
+PubChemCID:40400,Drug,PubChemCID,40400,AC1L23NL
+PubChemCID:4044,Drug,PubChemCID,4044,Mefenamic Acid
+PubChemCID:4046,Drug,PubChemCID,4046,Mefloquine
+PubChemCID:4053,Drug,PubChemCID,4053,Melphalan
+PubChemCID:4054,Drug,PubChemCID,4054,Memantine
+PubChemCID:4055,Drug,PubChemCID,4055,Vitamin K 3
+PubChemCID:4057,Drug,PubChemCID,4057,mepenzolic acid
+PubChemCID:4058,Drug,PubChemCID,4058,Meperidine
+PubChemCID:4060,Drug,PubChemCID,4060,Mephenytoin
+PubChemCID:4062,Drug,PubChemCID,4062,Mepivacaine
+PubChemCID:40632,Drug,PubChemCID,40632,pirfenidone
+PubChemCID:4064,Drug,PubChemCID,4064,Meprobamate
+PubChemCID:4066,Drug,PubChemCID,4066,mequitazine
+PubChemCID:40703,Drug,PubChemCID,40703,pinaverium
+PubChemCID:4075,Drug,PubChemCID,4075,Mesalamine
+PubChemCID:4078,Drug,PubChemCID,4078,Mesoridazine
+PubChemCID:40839,Drug,PubChemCID,40839,Vindesine
+PubChemCID:4086,Drug,PubChemCID,4086,Metaproterenol
+PubChemCID:4091,Drug,PubChemCID,4091,Metformin
+PubChemCID:4095,Drug,PubChemCID,4095,Methadone
+PubChemCID:4097,Drug,PubChemCID,4097,methantheline
+PubChemCID:40973,Drug,PubChemCID,40973,Desogestrel
+PubChemCID:40976,Drug,PubChemCID,40976,3-keto-desogestrel
+PubChemCID:4100,Drug,PubChemCID,4100,Methazolamide
+PubChemCID:4107,Drug,PubChemCID,4107,Methocarbamol
+PubChemCID:4114,Drug,PubChemCID,4114,Methoxsalen
+PubChemCID:4116,Drug,PubChemCID,4116,Methoxyflurane
+PubChemCID:4118151,Drug,PubChemCID,4118151,1-(benzofurazan-5-ylcarbonyl)piperidine
+PubChemCID:4121,Drug,PubChemCID,4121,Methyclothiazide
+PubChemCID:4158,Drug,PubChemCID,4158,Methylphenidate
+PubChemCID:4162,Drug,PubChemCID,4162,methyprylon
+PubChemCID:4167,Drug,PubChemCID,4167,methixene
+PubChemCID:4168,Drug,PubChemCID,4168,Metoclopramide
+PubChemCID:41684,Drug,PubChemCID,41684,nitazoxanide
+PubChemCID:41693,Drug,PubChemCID,41693,Sufentanil
+PubChemCID:4170,Drug,PubChemCID,4170,Metolazone
+PubChemCID:4171,Drug,PubChemCID,4171,Metoprolol
+PubChemCID:4173,Drug,PubChemCID,4173,Metronidazole
+PubChemCID:4174,Drug,PubChemCID,4174,Metyrapone
+PubChemCID:41744,Drug,PubChemCID,41744,valrubicin
+PubChemCID:4178,Drug,PubChemCID,4178,Mexiletine
+PubChemCID:41781,Drug,PubChemCID,41781,torsemide
+PubChemCID:4184,Drug,PubChemCID,4184,Mianserin
+PubChemCID:41867,Drug,PubChemCID,41867,Epirubicin
+PubChemCID:4189,Drug,PubChemCID,4189,Miconazole
+PubChemCID:4192,Drug,PubChemCID,4192,Midazolam
+PubChemCID:4195,Drug,PubChemCID,4195,Midodrine
+PubChemCID:4197,Drug,PubChemCID,4197,Milrinone
+PubChemCID:4199,Drug,PubChemCID,4199,minaprine
+PubChemCID:4201,Drug,PubChemCID,4201,Minoxidil
+PubChemCID:4205,Drug,PubChemCID,4205,mirtazapine
+PubChemCID:4211,Drug,PubChemCID,4211,Mitotane
+PubChemCID:42113,Drug,PubChemCID,42113,desflurane
+PubChemCID:4212,Drug,PubChemCID,4212,Mitoxantrone
+PubChemCID:4235,Drug,PubChemCID,4235,Moclobemide
+PubChemCID:4236,Drug,PubChemCID,4236,modafinil
+PubChemCID:4261,Drug,PubChemCID,4261,entinostat
+PubChemCID:42611257,Drug,PubChemCID,42611257,PLX4032
+PubChemCID:42890,Drug,PubChemCID,42890,Idarubicin
+PubChemCID:43157,Drug,PubChemCID,43157,5-ethynyluracil
+PubChemCID:4350931,Drug,PubChemCID,4350931,LE 300
+PubChemCID:43672,Drug,PubChemCID,43672,Piperacillin
+PubChemCID:4369359,Drug,PubChemCID,4369359,sitagliptin
+PubChemCID:4369524,Drug,PubChemCID,4369524,tanaproget
+PubChemCID:4380,Drug,PubChemCID,4380,Clorgyline
+PubChemCID:43815,Drug,PubChemCID,43815,Paroxetine
+PubChemCID:439153,Drug,PubChemCID,439153,NAD
+PubChemCID:439174,Drug,PubChemCID,439174,Acetylglucosamine
+PubChemCID:439201,Drug,PubChemCID,439201,Bradykinin
+PubChemCID:439213,Drug,PubChemCID,439213,Glucosamine
+PubChemCID:439260,Drug,PubChemCID,439260,Norepinephrine
+PubChemCID:439302,Drug,PubChemCID,439302,Oxytocin
+PubChemCID:439501,Drug,PubChemCID,439501,Ouabain
+PubChemCID:439542,Drug,PubChemCID,439542,bacitracins
+PubChemCID:439693,Drug,PubChemCID,439693,Pentostatin
+PubChemCID:4409,Drug,PubChemCID,4409,nabumetone
+PubChemCID:44093,Drug,PubChemCID,44093,Captopril
+PubChemCID:441074,Drug,PubChemCID,441074,Quinidine
+PubChemCID:441130,Drug,PubChemCID,441130,meropenem
+PubChemCID:441203,Drug,PubChemCID,441203,Cisplatin
+PubChemCID:441233,Drug,PubChemCID,441233,Tranylcypromine
+PubChemCID:441278,Drug,PubChemCID,441278,Pentazocine
+PubChemCID:441281,Drug,PubChemCID,441281,Prestwick_892
+PubChemCID:441289,Drug,PubChemCID,441289,Pancuronium
+PubChemCID:441290,Drug,PubChemCID,441290,rocuronium
+PubChemCID:441300,Drug,PubChemCID,441300,abacavir
+PubChemCID:441306,Drug,PubChemCID,441306,Netilmicin
+PubChemCID:441314,Drug,PubChemCID,441314,miglitol
+PubChemCID:441335,Drug,PubChemCID,441335,mometasone furoate
+PubChemCID:441341,Drug,PubChemCID,441341,etiracetam
+PubChemCID:441350,Drug,PubChemCID,441350,alpha-Methyltyrosine
+PubChemCID:441401,Drug,PubChemCID,441401,linezolid
+PubChemCID:44146714,Drug,PubChemCID,44146714,glargine
+PubChemCID:44148156,Drug,PubChemCID,44148156,tanespimycin
+PubChemCID:44148935,Drug,PubChemCID,44148935,UNII-9KCW39P2EI
+PubChemCID:44176380,Drug,PubChemCID,44176380,Vitamin B 12
+PubChemCID:44185,Drug,PubChemCID,44185,Cefoperazone
+PubChemCID:4421,Drug,PubChemCID,4421,Nalidixic Acid
+PubChemCID:443368,Drug,PubChemCID,443368,Tetrodotoxin
+PubChemCID:4436,Drug,PubChemCID,4436,Naphazoline
+PubChemCID:443872,Drug,PubChemCID,443872,eplerenone
+PubChemCID:443879,Drug,PubChemCID,443879,tolterodine
+PubChemCID:443884,Drug,PubChemCID,443884,Ergonovine
+PubChemCID:443894,Drug,PubChemCID,443894,tolvaptan
+PubChemCID:443940,Drug,PubChemCID,443940,Droxidopa
+PubChemCID:443955,Drug,PubChemCID,443955,vinpocetine
+PubChemCID:443958,Drug,PubChemCID,443958,amcinonide
+PubChemCID:443980,Drug,PubChemCID,443980,flumethasone pivalate
+PubChemCID:444,Drug,PubChemCID,444,Bupropion
+PubChemCID:4440,Drug,PubChemCID,4440,naratriptan
+PubChemCID:444007,Drug,PubChemCID,444007,Pentagastrin
+PubChemCID:444008,Drug,PubChemCID,444008,tibolone
+PubChemCID:444020,Drug,PubChemCID,444020,voglibose
+PubChemCID:444025,Drug,PubChemCID,444025,loteprednol etabonate
+PubChemCID:444031,Drug,PubChemCID,444031,darifenacin
+PubChemCID:444033,Drug,PubChemCID,444033,ciclesonide
+PubChemCID:444036,Drug,PubChemCID,444036,fluticasone
+PubChemCID:444254,Drug,PubChemCID,444254,Acarbose
+PubChemCID:444412,Drug,PubChemCID,444412,5-methyltetrahydrofolate
+PubChemCID:444499,Drug,PubChemCID,444499,forodesine
+PubChemCID:444732,Drug,PubChemCID,444732,trichostatin A
+PubChemCID:444795,Drug,PubChemCID,444795,Tretinoin
+PubChemCID:4449,Drug,PubChemCID,4449,nefazodone
+PubChemCID:445354,Drug,PubChemCID,445354,Vitamin A
+PubChemCID:4456,Drug,PubChemCID,4456,Neostigmine
+PubChemCID:445647,Drug,PubChemCID,445647,MolPort-027-950-906
+PubChemCID:446156,Drug,PubChemCID,446156,cerivastatin
+PubChemCID:446157,Drug,PubChemCID,446157,rosuvastatin
+PubChemCID:4463,Drug,PubChemCID,4463,Nevirapine
+PubChemCID:446541,Drug,PubChemCID,446541,Mycophenolic Acid
+PubChemCID:446596,Drug,PubChemCID,446596,Mupirocin
+PubChemCID:446987,Drug,PubChemCID,446987,Fosfomycin
+PubChemCID:4474,Drug,PubChemCID,4474,Nicardipine
+PubChemCID:447451,Drug,PubChemCID,447451,cethromycin
+PubChemCID:4485,Drug,PubChemCID,4485,Nifedipine
+PubChemCID:448537,Drug,PubChemCID,448537,Diethylstilbestrol
+PubChemCID:4488,Drug,PubChemCID,4488,Niflumic Acid
+PubChemCID:449156,Drug,PubChemCID,449156,FIDARESTAT(STEREOISOMER)
+PubChemCID:449171,Drug,PubChemCID,449171,alitretinoin
+PubChemCID:449193,Drug,PubChemCID,449193,Roflumilast
+PubChemCID:4493,Drug,PubChemCID,4493,nilutamide
+PubChemCID:4495,Drug,PubChemCID,4495,nimesulide
+PubChemCID:4497,Drug,PubChemCID,4497,Nimodipine
+PubChemCID:4499,Drug,PubChemCID,4499,Nisoldipine
+PubChemCID:4506,Drug,PubChemCID,4506,Nitrazepam
+PubChemCID:4507,Drug,PubChemCID,4507,Nitrendipine
+PubChemCID:4510,Drug,PubChemCID,4510,Nitroglycerin
+PubChemCID:451415,Drug,PubChemCID,451415,Aclarubicin
+PubChemCID:451668,Drug,PubChemCID,451668,decitabine
+PubChemCID:4528,Drug,PubChemCID,4528,Nomifensine
+PubChemCID:4539,Drug,PubChemCID,4539,Norfloxacin
+PubChemCID:4543,Drug,PubChemCID,4543,Nortriptyline
+PubChemCID:456199,Drug,PubChemCID,456199,PA-824
+PubChemCID:456201,Drug,PubChemCID,456201,Ketoconazole
+PubChemCID:456256,Drug,PubChemCID,456256,Cefotaxime
+PubChemCID:457954,Drug,PubChemCID,457954,tiazofurin
+PubChemCID:4583,Drug,PubChemCID,4583,Ofloxacin
+PubChemCID:4585,Drug,PubChemCID,4585,olanzapine
+PubChemCID:4594,Drug,PubChemCID,4594,Omeprazole
+PubChemCID:4595,Drug,PubChemCID,4595,Ondansetron
+PubChemCID:4601,Drug,PubChemCID,4601,Orphenadrine
+PubChemCID:4612,Drug,PubChemCID,4612,Oxamniquine
+PubChemCID:4615,Drug,PubChemCID,4615,oxatomide
+PubChemCID:4616,Drug,PubChemCID,4616,Oxazepam
+PubChemCID:4631,Drug,PubChemCID,4631,Oxprenolol
+PubChemCID:4633,Drug,PubChemCID,4633,benoxinate
+PubChemCID:4634,Drug,PubChemCID,4634,oxybutynin
+PubChemCID:4636,Drug,PubChemCID,4636,Oxymetazoline
+PubChemCID:464205,Drug,PubChemCID,464205,tenofovir
+PubChemCID:4659569,Drug,PubChemCID,4659569,tolcapone
+PubChemCID:4674,Drug,PubChemCID,4674,pamidronate
+PubChemCID:4679,Drug,PubChemCID,4679,pantoprazole
+PubChemCID:4680,Drug,PubChemCID,4680,Papaverine
+PubChemCID:46861544,Drug,PubChemCID,46861544,GYKI 47261
+PubChemCID:4688,Drug,PubChemCID,4688,Pargyline
+PubChemCID:46936176,Drug,PubChemCID,46936176,Ivermectine
+PubChemCID:46936242,Drug,PubChemCID,46936242,1973-04-01
+PubChemCID:46936262,Drug,PubChemCID,46936262,SureCN259162
+PubChemCID:46936377,Drug,PubChemCID,46936377,geldanamycin
+PubChemCID:46936484,Drug,PubChemCID,46936484,Sucrose
+PubChemCID:46936510,Drug,PubChemCID,46936510,calyculin A
+PubChemCID:46936553,Drug,PubChemCID,46936553,EPO 906
+PubChemCID:46936889,Drug,PubChemCID,46936889,Fotemustina
+PubChemCID:47319,Drug,PubChemCID,47319,Atracurium
+PubChemCID:4735,Drug,PubChemCID,4735,Pentamidine
+PubChemCID:4737,Drug,PubChemCID,4737,Pentobarbital
+PubChemCID:4740,Drug,PubChemCID,4740,Pentoxifylline
+PubChemCID:4746,Drug,PubChemCID,4746,Perhexiline
+PubChemCID:4747,Drug,PubChemCID,4747,periciazine
+PubChemCID:47472,Drug,PubChemCID,47472,butoconazole
+PubChemCID:4748,Drug,PubChemCID,4748,Perphenazine
+PubChemCID:47528,Drug,PubChemCID,47528,Nicorandil
+PubChemCID:4753,Drug,PubChemCID,4753,phenacemide
+PubChemCID:4760,Drug,PubChemCID,4760,Phenindione
+PubChemCID:4761,Drug,PubChemCID,4761,Pheniramine
+PubChemCID:4762,Drug,PubChemCID,4762,Phenmetrazine
+PubChemCID:4763,Drug,PubChemCID,4763,Phenobarbital
+PubChemCID:4768,Drug,PubChemCID,4768,Phenoxybenzamine
+PubChemCID:4771,Drug,PubChemCID,4771,Phentermine
+PubChemCID:477468,Drug,PubChemCID,477468,micafungin
+PubChemCID:4781,Drug,PubChemCID,4781,Phenylbutazone
+PubChemCID:47811,Drug,PubChemCID,47811,Pergolide
+PubChemCID:47938,Drug,PubChemCID,47938,fenoxaprop ethyl
+PubChemCID:48041,Drug,PubChemCID,48041,Encainide
+PubChemCID:4812,Drug,PubChemCID,4812,Vitamin K 1
+PubChemCID:4826,Drug,PubChemCID,4826,Pinacidil
+PubChemCID:4828,Drug,PubChemCID,4828,Pindolol
+PubChemCID:4829,Drug,PubChemCID,4829,pioglitazone
+PubChemCID:4842,Drug,PubChemCID,4842,Pipobroman
+PubChemCID:4845,Drug,PubChemCID,4845,pirbuterol
+PubChemCID:4848,Drug,PubChemCID,4848,Pirenzepine
+PubChemCID:4868,Drug,PubChemCID,4868,Polymyxin B
+PubChemCID:4870,Drug,PubChemCID,4870,Polythiazide
+PubChemCID:4873,Drug,PubChemCID,4873,Potassium Chloride
+PubChemCID:4875,Drug,PubChemCID,4875,Potassium Iodide
+PubChemCID:4883,Drug,PubChemCID,4883,Practolol
+PubChemCID:4890,Drug,PubChemCID,4890,Prazepam
+PubChemCID:4891,Drug,PubChemCID,4891,Praziquantel
+PubChemCID:4893,Drug,PubChemCID,4893,Prazosin
+PubChemCID:4906,Drug,PubChemCID,4906,Prilocaine
+PubChemCID:4908,Drug,PubChemCID,4908,Primaquine
+PubChemCID:4909,Drug,PubChemCID,4909,Primidone
+PubChemCID:4911,Drug,PubChemCID,4911,Probenecid
+PubChemCID:4912,Drug,PubChemCID,4912,Probucol
+PubChemCID:4913,Drug,PubChemCID,4913,Procainamide
+PubChemCID:4914,Drug,PubChemCID,4914,Procaine
+PubChemCID:4915,Drug,PubChemCID,4915,Procarbazine
+PubChemCID:4917,Drug,PubChemCID,4917,Prochlorperazine
+PubChemCID:4919,Drug,PubChemCID,4919,Procyclidine
+PubChemCID:4926,Drug,PubChemCID,4926,Promazine
+PubChemCID:4927,Drug,PubChemCID,4927,Promethazine
+PubChemCID:4932,Drug,PubChemCID,4932,Propafenone
+PubChemCID:4934,Drug,PubChemCID,4934,Propantheline
+PubChemCID:4935,Drug,PubChemCID,4935,proxymetacaine
+PubChemCID:493570,Drug,PubChemCID,493570,Riboflavin
+PubChemCID:4940,Drug,PubChemCID,4940,propiomazine
+PubChemCID:4943,Drug,PubChemCID,4943,Propofol
+PubChemCID:4946,Drug,PubChemCID,4946,Propranolol
+PubChemCID:4976,Drug,PubChemCID,4976,Protriptyline
+PubChemCID:4991,Drug,PubChemCID,4991,Pyridostigmine Bromide
+PubChemCID:4992,Drug,PubChemCID,4992,Pyrilamine
+PubChemCID:4993,Drug,PubChemCID,4993,Pyrimethamine
+PubChemCID:4999,Drug,PubChemCID,4999,quazepam
+PubChemCID:5002,Drug,PubChemCID,5002,quetiapine
+PubChemCID:50192,Drug,PubChemCID,50192,Pipecuronium
+PubChemCID:5029,Drug,PubChemCID,5029,Rabeprazole
+PubChemCID:5035,Drug,PubChemCID,5035,Raloxifene
+PubChemCID:5042,Drug,PubChemCID,5042,rebamipide
+PubChemCID:50599,Drug,PubChemCID,50599,Didanosine
+PubChemCID:5070,Drug,PubChemCID,5070,Riluzole
+PubChemCID:5071,Drug,PubChemCID,5071,Rimantadine
+PubChemCID:5073,Drug,PubChemCID,5073,Risperidone
+PubChemCID:5078,Drug,PubChemCID,5078,rizatriptan
+PubChemCID:5090,Drug,PubChemCID,5090,rofecoxib
+PubChemCID:50942,Drug,PubChemCID,50942,doxofylline
+PubChemCID:5095,Drug,PubChemCID,5095,ropinirole
+PubChemCID:51081,Drug,PubChemCID,51081,Pefloxacin
+PubChemCID:51151,Drug,PubChemCID,51151,Mitoxantrone
+PubChemCID:51263,Drug,PubChemCID,51263,Alfentanil
+PubChemCID:5152,Drug,PubChemCID,5152,salmeterol
+PubChemCID:5160,Drug,PubChemCID,5160,sarpogrelate
+PubChemCID:5161,Drug,PubChemCID,5161,salicylsalicylic acid
+PubChemCID:51634,Drug,PubChemCID,51634,miglustat
+PubChemCID:516892,Drug,PubChemCID,516892,Sodium Bicarbonate
+PubChemCID:5184,Drug,PubChemCID,5184,Scopolamine Hydrobromide
+PubChemCID:5186,Drug,PubChemCID,5186,scriptaid
+PubChemCID:518740,Drug,PubChemCID,518740,arsenic trioxide
+PubChemCID:5193,Drug,PubChemCID,5193,Secobarbital
+PubChemCID:5206,Drug,PubChemCID,5206,sevoflurane
+PubChemCID:5210,Drug,PubChemCID,5210,sibutramine
+PubChemCID:5212,Drug,PubChemCID,5212,sildenafil
+PubChemCID:5215,Drug,PubChemCID,5215,Sulfadiazine
+PubChemCID:52195,Drug,PubChemCID,52195,indecainide
+PubChemCID:522325,Drug,PubChemCID,522325,Dipyrone
+PubChemCID:52421,Drug,PubChemCID,52421,prednicarbate
+PubChemCID:5245,Drug,PubChemCID,5245,risedronic acid
+PubChemCID:5248,Drug,PubChemCID,5248,Sodium Tetradecyl Sulfate
+PubChemCID:5253,Drug,PubChemCID,5253,Sotalol
+PubChemCID:5277135,Drug,PubChemCID,5277135,JTK 303
+PubChemCID:5280343,Drug,PubChemCID,5280343,Quercetin
+PubChemCID:5280360,Drug,PubChemCID,5280360,Dinoprostone
+PubChemCID:5280452,Drug,PubChemCID,5280452,CID 5280452
+PubChemCID:5280453,Drug,PubChemCID,5280453,Calcitriol
+PubChemCID:5280483,Drug,PubChemCID,5280483,Vitamin K 1
+PubChemCID:5280581,Drug,PubChemCID,5280581,"8,11,14-Eicosatrienoic Acid"
+PubChemCID:5280723,Drug,PubChemCID,5280723,Alprostadil
+PubChemCID:5280793,Drug,PubChemCID,5280793,Ergocalciferols
+PubChemCID:5280934,Drug,PubChemCID,5280934,alpha-Linolenic Acid
+PubChemCID:5280954,Drug,PubChemCID,5280954,rescinnamine
+PubChemCID:5280961,Drug,PubChemCID,5280961,Genistein
+PubChemCID:5280962,Drug,PubChemCID,5280962,CID 5280962
+PubChemCID:5280965,Drug,PubChemCID,5280965,Amphotericin B
+PubChemCID:5280972,Drug,PubChemCID,5280972,CID 5280972
+PubChemCID:5280980,Drug,PubChemCID,5280980,Clavulanic Acid
+PubChemCID:5281010,Drug,PubChemCID,5281010,Dihydrotachysterol
+PubChemCID:5281011,Drug,PubChemCID,5281011,CID 5281011
+PubChemCID:5281021,Drug,PubChemCID,5281021,CID 5281021
+PubChemCID:5281037,Drug,PubChemCID,5281037,eprosartan
+PubChemCID:5281040,Drug,PubChemCID,5281040,montelukast
+PubChemCID:5281042,Drug,PubChemCID,5281042,mivacurium
+PubChemCID:5281071,Drug,PubChemCID,5281071,olopatadine
+PubChemCID:5281077,Drug,PubChemCID,5281077,Ethchlorvynol
+PubChemCID:5281078,Drug,PubChemCID,5281078,mycophenolate mofetil
+PubChemCID:5281081,Drug,PubChemCID,5281081,entacapone
+PubChemCID:5281086,Drug,PubChemCID,5281086,oxantel pamoate
+PubChemCID:5281104,Drug,PubChemCID,5281104,paricalcitol
+PubChemCID:5281106,Drug,PubChemCID,5281106,CID 5281106
+PubChemCID:5281107,Drug,PubChemCID,5281107,1 alpha-hydroxyergocalciferol
+PubChemCID:5281847,Drug,PubChemCID,5281847,rottlerin
+PubChemCID:5281881,Drug,PubChemCID,5281881,Flupenthixol
+PubChemCID:5281884,Drug,PubChemCID,5281884,valspodar
+PubChemCID:5282044,Drug,PubChemCID,5282044,CID 5282044
+PubChemCID:5282054,Drug,PubChemCID,5282054,Cerulenin
+PubChemCID:5282136,Drug,PubChemCID,5282136,lafutidine
+PubChemCID:5282138,Drug,PubChemCID,5282138,cilnidipine
+PubChemCID:5282181,Drug,PubChemCID,5282181,alfacalcidol
+PubChemCID:5282226,Drug,PubChemCID,5282226,travoprost
+PubChemCID:5282230,Drug,PubChemCID,5282230,tranilast
+PubChemCID:5282379,Drug,PubChemCID,5282379,Isotretinoin
+PubChemCID:5282381,Drug,PubChemCID,5282381,Misoprostol
+PubChemCID:5282411,Drug,PubChemCID,5282411,Epoprostenol
+PubChemCID:5282414,Drug,PubChemCID,5282414,Dimethindene
+PubChemCID:5282415,Drug,PubChemCID,5282415,dinoprost tromethamine
+PubChemCID:5282443,Drug,PubChemCID,5282443,Triprolidine
+PubChemCID:5282452,Drug,PubChemCID,5282452,pitavastatin
+PubChemCID:5282474,Drug,PubChemCID,5282474,eprosartan
+PubChemCID:5284371,Drug,PubChemCID,5284371,Codeine
+PubChemCID:5284513,Drug,PubChemCID,5284513,Acitretin
+PubChemCID:5284514,Drug,PubChemCID,5284514,acrivastine
+PubChemCID:5284537,Drug,PubChemCID,5284537,Cyproterone
+PubChemCID:5284543,Drug,PubChemCID,5284543,dihydrocodeine
+PubChemCID:5284549,Drug,PubChemCID,5284549,dorzolamide
+PubChemCID:5284551,Drug,PubChemCID,5284551,doxacurium
+PubChemCID:5284569,Drug,PubChemCID,5284569,Hydrocodone
+PubChemCID:5284570,Drug,PubChemCID,5284570,Hydromorphone
+PubChemCID:5284596,Drug,PubChemCID,5284596,Naloxone
+PubChemCID:5284603,Drug,PubChemCID,5284603,Oxycodone
+PubChemCID:5284604,Drug,PubChemCID,5284604,Oxymorphone
+PubChemCID:5284627,Drug,PubChemCID,5284627,topiramate
+PubChemCID:5287969,Drug,PubChemCID,5287969,alvocidib
+PubChemCID:5288209,Drug,PubChemCID,5288209,Fenretinide
+PubChemCID:5288783,Drug,PubChemCID,5288783,calcipotriene
+PubChemCID:5288826,Drug,PubChemCID,5288826,Morphine
+PubChemCID:5291,Drug,PubChemCID,5291,imatinib
+PubChemCID:5310966,Drug,PubChemCID,5310966,varenicline
+PubChemCID:5311,Drug,PubChemCID,5311,vorinostat
+PubChemCID:5311027,Drug,PubChemCID,5311027,bimatoprost
+PubChemCID:5311037,Drug,PubChemCID,5311037,istradefylline
+PubChemCID:5311054,Drug,PubChemCID,5311054,Colistin
+PubChemCID:5311066,Drug,PubChemCID,5311066,Desonide
+PubChemCID:5311067,Drug,PubChemCID,5311067,Desoximetasone
+PubChemCID:5311101,Drug,PubChemCID,5311101,fluticasone
+PubChemCID:5311128,Drug,PubChemCID,5311128,Goserelin
+PubChemCID:5311221,Drug,PubChemCID,5311221,latanoprost
+PubChemCID:5311304,Drug,PubChemCID,5311304,Nalbuphine
+PubChemCID:5311447,Drug,PubChemCID,5311447,spirapril
+PubChemCID:5311497,Drug,PubChemCID,5311497,vinorelbine
+PubChemCID:5311507,Drug,PubChemCID,5311507,Clopenthixol
+PubChemCID:5314,Drug,PubChemCID,5314,Succinylcholine
+PubChemCID:5322,Drug,PubChemCID,5322,sulfacytine
+PubChemCID:53232,Drug,PubChemCID,53232,Lovastatin
+PubChemCID:5323714,Drug,PubChemCID,5323714,Furazolidone
+PubChemCID:5324346,Drug,PubChemCID,5324346,Fluvoxamine
+PubChemCID:53249654,Drug,PubChemCID,53249654,dimethyl fumarate
+PubChemCID:5328,Drug,PubChemCID,5328,Sulfamethizole
+PubChemCID:5328940,Drug,PubChemCID,5328940,bosutinib
+PubChemCID:5329,Drug,PubChemCID,5329,Sulfamethoxazole
+PubChemCID:5329098,Drug,PubChemCID,5329098,Semaxinib
+PubChemCID:5329102,Drug,PubChemCID,5329102,sunitinib
+PubChemCID:5330286,Drug,PubChemCID,5330286,2euf
+PubChemCID:5336,Drug,PubChemCID,5336,Sulfapyridine
+PubChemCID:53389,Drug,PubChemCID,53389,rimcazole
+PubChemCID:5342,Drug,PubChemCID,5342,Sulfinpyrazone
+PubChemCID:5344,Drug,PubChemCID,5344,Sulfisoxazole
+PubChemCID:5352062,Drug,PubChemCID,5352062,romidepsin
+PubChemCID:5352624,Drug,PubChemCID,5352624,sulindac sulfide
+PubChemCID:5353562,Drug,PubChemCID,5353562,Dacarbazine
+PubChemCID:5353830,Drug,PubChemCID,5353830,Nitrofurantoin
+PubChemCID:5353894,Drug,PubChemCID,5353894,pralidoxime
+PubChemCID:5355,Drug,PubChemCID,5355,Sulpiride
+PubChemCID:5358,Drug,PubChemCID,5358,Sumatriptan
+PubChemCID:5359,Drug,PubChemCID,5359,Suprofen
+PubChemCID:5359268,Drug,PubChemCID,5359268,Aluminum
+PubChemCID:5359272,Drug,PubChemCID,5359272,Levorphanol
+PubChemCID:5359371,Drug,PubChemCID,5359371,Levallorphan
+PubChemCID:5359476,Drug,PubChemCID,5359476,Sulfasalazine
+PubChemCID:5360373,Drug,PubChemCID,5360373,Bleomycin
+PubChemCID:5360515,Drug,PubChemCID,5360515,Naltrexone
+PubChemCID:5360696,Drug,PubChemCID,5360696,Dextromethorphan
+PubChemCID:5361,Drug,PubChemCID,5361,Suramin
+PubChemCID:5361022,Drug,PubChemCID,5361022,AC1NSEXU
+PubChemCID:5361202,Drug,PubChemCID,5361202,Cefuroxime
+PubChemCID:5361323,Drug,PubChemCID,5361323,progabide
+PubChemCID:5362065,Drug,PubChemCID,5362065,Cefixime
+PubChemCID:5362116,Drug,PubChemCID,5362116,delapril
+PubChemCID:5362119,Drug,PubChemCID,5362119,Lisinopril
+PubChemCID:5362124,Drug,PubChemCID,5362124,benazepril
+PubChemCID:5362129,Drug,PubChemCID,5362129,Ramipril
+PubChemCID:5362259,Drug,PubChemCID,5362259,elsamicin A
+PubChemCID:5362417,Drug,PubChemCID,5362417,candoxatril
+PubChemCID:5362420,Drug,PubChemCID,5362420,verteporfin
+PubChemCID:5362422,Drug,PubChemCID,5362422,batimastat
+PubChemCID:5362440,Drug,PubChemCID,5362440,Indinavir
+PubChemCID:5379,Drug,PubChemCID,5379,gatifloxacin
+PubChemCID:5381,Drug,PubChemCID,5381,tazarotene
+PubChemCID:5381226,Drug,PubChemCID,5381226,Rifampin
+PubChemCID:5388962,Drug,PubChemCID,5388962,Enalapril
+PubChemCID:5391,Drug,PubChemCID,5391,Temazepam
+PubChemCID:5394,Drug,PubChemCID,5394,temozolomide
+PubChemCID:5401,Drug,PubChemCID,5401,Terazosin
+PubChemCID:5403,Drug,PubChemCID,5403,Terbutaline
+PubChemCID:5405,Drug,PubChemCID,5405,Terfenadine
+PubChemCID:5411,Drug,PubChemCID,5411,Tetracaine
+PubChemCID:5426,Drug,PubChemCID,5426,Thalidomide
+PubChemCID:54385,Drug,PubChemCID,54385,levocabastine
+PubChemCID:5440,Drug,PubChemCID,5440,Thiethylperazine
+PubChemCID:54454,Drug,PubChemCID,54454,Simvastatin
+PubChemCID:54477,Drug,PubChemCID,54477,Remoxipride
+PubChemCID:5452,Drug,PubChemCID,5452,Thioridazine
+PubChemCID:54575,Drug,PubChemCID,54575,Leucovorin
+PubChemCID:5459174,Drug,PubChemCID,5459174,aplidine
+PubChemCID:5460307,Drug,PubChemCID,5460307,fumarate
+PubChemCID:5462328,Drug,PubChemCID,5462328,Heroin
+PubChemCID:5462340,Drug,PubChemCID,5462340,remikiren
+PubChemCID:5462501,Drug,PubChemCID,5462501,Enalaprilat
+PubChemCID:5464098,Drug,PubChemCID,5464098,artesunate
+PubChemCID:5464467,Drug,PubChemCID,5464467,"3,4,5-trihydroxybenzamidoxime"
+PubChemCID:5468,Drug,PubChemCID,5468,tiaprofenic acid
+PubChemCID:54687,Drug,PubChemCID,54687,Pravastatin
+PubChemCID:5472,Drug,PubChemCID,5472,Ticlopidine
+PubChemCID:54746,Drug,PubChemCID,54746,cabergoline
+PubChemCID:54766,Drug,PubChemCID,54766,bambuterol
+PubChemCID:54786,Drug,PubChemCID,54786,U 62840
+PubChemCID:5479,Drug,PubChemCID,5479,Tinidazole
+PubChemCID:5479530,Drug,PubChemCID,5479530,Ceftriaxone
+PubChemCID:5479537,Drug,PubChemCID,5479537,cefepime
+PubChemCID:5481173,Drug,PubChemCID,5481173,Ceftazidime
+PubChemCID:5481350,Drug,PubChemCID,5481350,tenofovir disoproxil
+PubChemCID:54841,Drug,PubChemCID,54841,atomoxetine
+PubChemCID:5484727,Drug,PubChemCID,5484727,trandolapril
+PubChemCID:5485198,Drug,PubChemCID,5485198,pyronaridine
+PubChemCID:5486971,Drug,PubChemCID,5486971,pregabalin
+PubChemCID:5487,Drug,PubChemCID,5487,tizanidine
+PubChemCID:5488548,Drug,PubChemCID,5488548,alvimopan
+PubChemCID:54892,Drug,PubChemCID,54892,quinapril
+PubChemCID:5493381,Drug,PubChemCID,5493381,deferasirox
+PubChemCID:5493444,Drug,PubChemCID,5493444,aliskiren
+PubChemCID:5496659,Drug,PubChemCID,5496659,Otamixaban
+PubChemCID:5503,Drug,PubChemCID,5503,Tolazamide
+PubChemCID:5504,Drug,PubChemCID,5504,Tolazoline
+PubChemCID:5505,Drug,PubChemCID,5505,Tolbutamide
+PubChemCID:5509,Drug,PubChemCID,5509,Tolmetin
+PubChemCID:5510,Drug,PubChemCID,5510,Tolnaftate
+PubChemCID:55185,Drug,PubChemCID,55185,Azithromycin
+PubChemCID:55191,Drug,PubChemCID,55191,gepirone
+PubChemCID:55245,Drug,PubChemCID,55245,Mifepristone
+PubChemCID:5526,Drug,PubChemCID,5526,Tranexamic Acid
+PubChemCID:55283,Drug,PubChemCID,55283,Itraconazole
+PubChemCID:5533,Drug,PubChemCID,5533,Trazodone
+PubChemCID:5546,Drug,PubChemCID,5546,Triamterene
+PubChemCID:55483,Drug,PubChemCID,55483,dopexamine
+PubChemCID:5556,Drug,PubChemCID,5556,Triazolam
+PubChemCID:5560,Drug,PubChemCID,5560,Trichlormethiazide
+PubChemCID:5564,Drug,PubChemCID,5564,Triclosan
+PubChemCID:5566,Drug,PubChemCID,5566,Trifluoperazine
+PubChemCID:5568,Drug,PubChemCID,5568,Triflupromazine
+PubChemCID:5572,Drug,PubChemCID,5572,Trihexyphenidyl
+PubChemCID:5574,Drug,PubChemCID,5574,Trimeprazine
+PubChemCID:5576,Drug,PubChemCID,5576,Trimethadione
+PubChemCID:5577,Drug,PubChemCID,5577,trimethobenzamide
+PubChemCID:5578,Drug,PubChemCID,5578,Trimethoprim
+PubChemCID:5583,Drug,PubChemCID,5583,Trimetrexate
+PubChemCID:5584,Drug,PubChemCID,5584,Trimipramine
+PubChemCID:5587,Drug,PubChemCID,5587,Tripelennamine
+PubChemCID:55891,Drug,PubChemCID,55891,Fosinopril
+PubChemCID:5591,Drug,PubChemCID,5591,troglitazone
+PubChemCID:5593,Drug,PubChemCID,5593,Tropicamide
+PubChemCID:5596,Drug,PubChemCID,5596,Trospium
+PubChemCID:56237,Drug,PubChemCID,56237,RS 43179
+PubChemCID:5625,Drug,PubChemCID,5625,Delavirdine
+PubChemCID:56330,Drug,PubChemCID,56330,Cilazapril
+PubChemCID:56339,Drug,PubChemCID,56339,fosphenytoin
+PubChemCID:564,Drug,PubChemCID,564,Aminocaproic Acid
+PubChemCID:5656,Drug,PubChemCID,5656,venlafaxine
+PubChemCID:5665,Drug,PubChemCID,5665,Vigabatrin
+PubChemCID:56801,Drug,PubChemCID,56801,salmeterol
+PubChemCID:56959,Drug,PubChemCID,56959,ranolazine
+PubChemCID:5702063,Drug,PubChemCID,5702063,Guanabenz
+PubChemCID:5702160,Drug,PubChemCID,5702160,Famotidine
+PubChemCID:5717,Drug,PubChemCID,5717,zafirlukast
+PubChemCID:5719,Drug,PubChemCID,5719,zaleplon
+PubChemCID:572,Drug,PubChemCID,572,fosmidomycin
+PubChemCID:5724,Drug,PubChemCID,5724,FR 74366
+PubChemCID:5732,Drug,PubChemCID,5732,zolpidem
+PubChemCID:5734,Drug,PubChemCID,5734,zonisamide
+PubChemCID:5735,Drug,PubChemCID,5735,zopiclone
+PubChemCID:57363,Drug,PubChemCID,57363,Finasteride
+PubChemCID:5742832,Drug,PubChemCID,5742832,Aztreonam
+PubChemCID:5743,Drug,PubChemCID,5743,Dexamethasone
+PubChemCID:5746,Drug,PubChemCID,5746,Mitomycin
+PubChemCID:57469,Drug,PubChemCID,57469,imiquimod
+PubChemCID:5749,Drug,PubChemCID,5749,Oxyphenonium
+PubChemCID:5754,Drug,PubChemCID,5754,Hydrocortisone
+PubChemCID:5755,Drug,PubChemCID,5755,Prednisolone
+PubChemCID:5756,Drug,PubChemCID,5756,Estriol
+PubChemCID:5757,Drug,PubChemCID,5757,Estradiol
+PubChemCID:5760,Drug,PubChemCID,5760,Coke
+PubChemCID:57697,Drug,PubChemCID,57697,pemirolast
+PubChemCID:5770,Drug,PubChemCID,5770,Reserpine
+PubChemCID:5775,Drug,PubChemCID,5775,Phentolamine
+PubChemCID:5780,Drug,PubChemCID,5780,Sorbitol
+PubChemCID:5785,Drug,PubChemCID,5785,CID 5785
+PubChemCID:5790,Drug,PubChemCID,5790,Floxuridine
+PubChemCID:5813717,Drug,PubChemCID,5813717,apaziquone
+PubChemCID:58145,Drug,PubChemCID,58145,"N-(2-chloro-6-methylergoline-8-yl)-2,2-dimethylpropanamide"
+PubChemCID:5816,Drug,PubChemCID,5816,Epinephrine
+PubChemCID:5818,Drug,PubChemCID,5818,Histamine
+PubChemCID:5819,Drug,PubChemCID,5819,Thyroxine
+PubChemCID:5826,Drug,PubChemCID,5826,Dextroamphetamine
+PubChemCID:5831,Drug,PubChemCID,5831,Carbachol
+PubChemCID:5833,Drug,PubChemCID,5833,Spironolactone
+PubChemCID:5839,Drug,PubChemCID,5839,Aldosterone
+PubChemCID:5850,Drug,PubChemCID,5850,Pentolinium Tartrate
+PubChemCID:5852,Drug,PubChemCID,5852,Penicillamine
+PubChemCID:586,Drug,PubChemCID,586,Creatine
+PubChemCID:5865,Drug,PubChemCID,5865,Prednisone
+PubChemCID:5870,Drug,PubChemCID,5870,Estrone
+PubChemCID:5875,Drug,PubChemCID,5875,Paramethasone
+PubChemCID:5878,Drug,PubChemCID,5878,Oxandrolone
+PubChemCID:5904,Drug,PubChemCID,5904,Penicillin G
+PubChemCID:5906,Drug,PubChemCID,5906,Metaraminol
+PubChemCID:5910,Drug,PubChemCID,5910,Pilocarpine
+PubChemCID:5912039,Drug,PubChemCID,5912039,fordine
+PubChemCID:5920,Drug,PubChemCID,5920,Triiodothyronine
+PubChemCID:59227,Drug,PubChemCID,59227,N 0437
+PubChemCID:592735,Drug,PubChemCID,592735,Ergoloid Mesylates
+PubChemCID:5936,Drug,PubChemCID,5936,Isoflurophate
+PubChemCID:5950,Drug,PubChemCID,5950,Alanine
+PubChemCID:5956,Drug,PubChemCID,5956,Felypressin
+PubChemCID:5957,Drug,PubChemCID,5957,Adenosine Triphosphate
+PubChemCID:5965,Drug,PubChemCID,5965,demecarium
+PubChemCID:59768,Drug,PubChemCID,59768,esmolol
+PubChemCID:5978,Drug,PubChemCID,5978,Vincristine
+PubChemCID:5983,Drug,PubChemCID,5983,Physostigmine
+PubChemCID:5991,Drug,PubChemCID,5991,Ethinyl Estradiol
+PubChemCID:5994,Drug,PubChemCID,5994,Progesterone
+PubChemCID:6000,Drug,PubChemCID,6000,Tubocurarine
+PubChemCID:60026,Drug,PubChemCID,60026,nateglinide
+PubChemCID:6005,Drug,PubChemCID,6005,Apomorphine
+PubChemCID:6010,Drug,PubChemCID,6010,Methyltestosterone
+PubChemCID:6013,Drug,PubChemCID,6013,Testosterone
+PubChemCID:60149,Drug,PubChemCID,60149,sertindole
+PubChemCID:60164,Drug,PubChemCID,60164,adapalene
+PubChemCID:60169,Drug,PubChemCID,60169,doxacurium
+PubChemCID:6018,Drug,PubChemCID,6018,Tetrabenazine
+PubChemCID:60198,Drug,PubChemCID,60198,exemestane
+PubChemCID:6032,Drug,PubChemCID,6032,Kanamycin
+PubChemCID:60342,Drug,PubChemCID,60342,pamidronate
+PubChemCID:6037,Drug,PubChemCID,6037,Folic Acid
+PubChemCID:6041,Drug,PubChemCID,6041,Phenylephrine
+PubChemCID:60464,Drug,PubChemCID,60464,sparfloxacin
+PubChemCID:6047,Drug,PubChemCID,6047,Levodopa
+PubChemCID:60490,Drug,PubChemCID,60490,zileuton
+PubChemCID:60511,Drug,PubChemCID,60511,remacemide
+PubChemCID:6058,Drug,PubChemCID,6058,Cysteamine
+PubChemCID:60594,Drug,PubChemCID,60594,enalkiren
+PubChemCID:60606,Drug,PubChemCID,60606,clopidogrel
+PubChemCID:60613,Drug,PubChemCID,60613,cidofovir
+PubChemCID:60648,Drug,PubChemCID,60648,tiagabine
+PubChemCID:60654,Drug,PubChemCID,60654,dolasetron
+PubChemCID:60663,Drug,PubChemCID,60663,Mibefradil
+PubChemCID:60700,Drug,PubChemCID,60700,Topotecan
+PubChemCID:60726,Drug,PubChemCID,60726,bromfenac
+PubChemCID:60750,Drug,PubChemCID,60750,gemcitabine
+PubChemCID:60753,Drug,PubChemCID,60753,ibutilide
+PubChemCID:60773,Drug,PubChemCID,60773,valacyclovir
+PubChemCID:60785,Drug,PubChemCID,60785,fananserin
+PubChemCID:60786,Drug,PubChemCID,60786,lobucavir
+PubChemCID:60787,Drug,PubChemCID,60787,Saquinavir
+PubChemCID:60789,Drug,PubChemCID,60789,arbutamine
+PubChemCID:60795,Drug,PubChemCID,60795,aripiprazole
+PubChemCID:60815,Drug,PubChemCID,60815,remifentanil
+PubChemCID:60817,Drug,PubChemCID,60817,peldesine
+PubChemCID:6082,Drug,PubChemCID,6082,Methoxamine
+PubChemCID:60823,Drug,PubChemCID,60823,atorvastatin
+PubChemCID:60825,Drug,PubChemCID,60825,Lamivudine
+PubChemCID:60835,Drug,PubChemCID,60835,duloxetine
+PubChemCID:60838,Drug,PubChemCID,60838,irinotecan
+PubChemCID:60843,Drug,PubChemCID,60843,pemetrexed
+PubChemCID:60846,Drug,PubChemCID,60846,valsartan
+PubChemCID:60852,Drug,PubChemCID,60852,ibandronic acid
+PubChemCID:60854,Drug,PubChemCID,60854,ziprasidone
+PubChemCID:60855,Drug,PubChemCID,60855,Zanamivir
+PubChemCID:60857,Drug,PubChemCID,60857,zolmitriptan
+PubChemCID:60860,Drug,PubChemCID,60860,3-Iodobenzylguanidine
+PubChemCID:60871,Drug,PubChemCID,60871,adefovir dipivoxil
+PubChemCID:60877,Drug,PubChemCID,60877,emtricitabine
+PubChemCID:60919,Drug,PubChemCID,60919,tasosartan
+PubChemCID:60921,Drug,PubChemCID,60921,saprisartan potassium
+PubChemCID:60923,Drug,PubChemCID,60923,MK 0591
+PubChemCID:60947,Drug,PubChemCID,60947,tirofiban
+PubChemCID:60953,Drug,PubChemCID,60953,capecitabine
+PubChemCID:60961,Drug,PubChemCID,60961,Adenosine
+PubChemCID:6098,Drug,PubChemCID,6098,Cloxacillin
+PubChemCID:6099,Drug,PubChemCID,6099,Methylene Blue
+PubChemCID:6116,Drug,PubChemCID,6116,calcium acetate
+PubChemCID:6126,Drug,PubChemCID,6126,diphemanil methylsulfate
+PubChemCID:6167,Drug,PubChemCID,6167,Colchicine
+PubChemCID:6172,Drug,PubChemCID,6172,Gallamine Triethiodide
+PubChemCID:6178111,Drug,PubChemCID,6178111,Proguanil
+PubChemCID:6196,Drug,PubChemCID,6196,Oxacillin
+PubChemCID:6211,Drug,PubChemCID,6211,barbituric acid
+PubChemCID:6215,Drug,PubChemCID,6215,Fluocinolone Acetonide
+PubChemCID:6221,Drug,PubChemCID,6221,cholecalciferol
+PubChemCID:6230,Drug,PubChemCID,6230,Norethindrone
+PubChemCID:6234,Drug,PubChemCID,6234,Cycloserine
+PubChemCID:6249,Drug,PubChemCID,6249,Ampicillin
+PubChemCID:6251,Drug,PubChemCID,6251,Mannitol
+PubChemCID:6253,Drug,PubChemCID,6253,Cytarabine
+PubChemCID:6256,Drug,PubChemCID,6256,Trifluridine
+PubChemCID:62886,Drug,PubChemCID,62886,cisatracurium
+PubChemCID:6291,Drug,PubChemCID,6291,Mestranol
+PubChemCID:62959,Drug,PubChemCID,62959,trovafloxacin
+PubChemCID:63006,Drug,PubChemCID,63006,Budesonide
+PubChemCID:6305,Drug,PubChemCID,6305,Tryptophan
+PubChemCID:6307,Drug,PubChemCID,6307,quinethazone
+PubChemCID:6323490,Drug,PubChemCID,6323490,Rifabutin
+PubChemCID:6323497,Drug,PubChemCID,6323497,rifapentine
+PubChemCID:6333901,Drug,PubChemCID,6333901,Auranofin
+PubChemCID:6335412,Drug,PubChemCID,6335412,balsalazide
+PubChemCID:636374,Drug,PubChemCID,636374,alclometasone dipropionate
+PubChemCID:636380,Drug,PubChemCID,636380,fondaparinux
+PubChemCID:64139,Drug,PubChemCID,64139,efavirenz
+PubChemCID:64143,Drug,PubChemCID,64143,Nelfinavir
+PubChemCID:64147,Drug,PubChemCID,64147,valganciclovir
+PubChemCID:6419898,Drug,PubChemCID,6419898,Spiramycin
+PubChemCID:6419965,Drug,PubChemCID,6419965,Morantel
+PubChemCID:6420006,Drug,PubChemCID,6420006,Dihydroergotoxine
+PubChemCID:6433120,Drug,PubChemCID,6433120,Canfosfamide
+PubChemCID:6433735,Drug,PubChemCID,6433735,Calcifediol
+PubChemCID:6434572,Drug,PubChemCID,6434572,carboprost tromethamine
+PubChemCID:6435415,Drug,PubChemCID,6435415,Cilastatin
+PubChemCID:6435893,Drug,PubChemCID,6435893,Cyclosporine
+PubChemCID:6436030,Drug,PubChemCID,6436030,Sirolimus
+PubChemCID:6436135,Drug,PubChemCID,6436135,cinalukast
+PubChemCID:6436173,Drug,PubChemCID,6436173,rifaximin
+PubChemCID:6436247,Drug,PubChemCID,6436247,herbimycin
+PubChemCID:6437380,Drug,PubChemCID,6437380,lumefantrine
+PubChemCID:6438730,Drug,PubChemCID,6438730,SR 31742A
+PubChemCID:6439491,Drug,PubChemCID,6439491,talsaclidine fumarate
+PubChemCID:6439929,Drug,PubChemCID,6439929,"pregna-4,17-diene-3,16-dione"
+PubChemCID:6440763,Drug,PubChemCID,6440763,aplindore fumarate
+PubChemCID:6442177,Drug,PubChemCID,6442177,everolimus
+PubChemCID:644241,Drug,PubChemCID,644241,Nilotinib
+PubChemCID:6443959,Drug,PubChemCID,6443959,iloprost phenacyl ester
+PubChemCID:6444692,Drug,PubChemCID,6444692,Mubritinib
+PubChemCID:6445226,Drug,PubChemCID,6445226,dabigatran etexilate
+PubChemCID:6446,Drug,PubChemCID,6446,Fluoxymesterone
+PubChemCID:6450551,Drug,PubChemCID,6450551,axitinib
+PubChemCID:6451164,Drug,PubChemCID,6451164,Rilpivirine
+PubChemCID:6456013,Drug,PubChemCID,6456013,BMS068645
+PubChemCID:6456014,Drug,PubChemCID,6456014,belotecan
+PubChemCID:64627,Drug,PubChemCID,64627,"1,3-dipropyl-8-(3-noradamantyl)xanthine"
+PubChemCID:6464,Drug,PubChemCID,6464,allylpropymal
+PubChemCID:6473,Drug,PubChemCID,6473,butobarbital
+PubChemCID:6473739,Drug,PubChemCID,6473739,bryostatin 1
+PubChemCID:6476,Drug,PubChemCID,6476,methsuximide
+PubChemCID:6478034,Drug,PubChemCID,6478034,BMS 433771
+PubChemCID:65015,Drug,PubChemCID,65015,JM 3100
+PubChemCID:65016,Drug,PubChemCID,65016,amprenavir
+PubChemCID:65027,Drug,PubChemCID,65027,CID 65027
+PubChemCID:65028,Drug,PubChemCID,65028,Oseltamivir
+PubChemCID:6505803,Drug,PubChemCID,6505803,tanespimycin
+PubChemCID:6506051,Drug,PubChemCID,6506051,AC1O6SNF
+PubChemCID:65143,Drug,PubChemCID,65143,Angiotensin II
+PubChemCID:65157,Drug,PubChemCID,65157,testosterone undecanoate
+PubChemCID:6540478,Drug,PubChemCID,6540478,norgestimate
+PubChemCID:65628,Drug,PubChemCID,65628,bendamustine
+PubChemCID:656583,Drug,PubChemCID,656583,trilostane
+PubChemCID:656652,Drug,PubChemCID,656652,cholinophyllin
+PubChemCID:656665,Drug,PubChemCID,656665,tropisetron
+PubChemCID:656719,Drug,PubChemCID,656719,lubiprostone
+PubChemCID:657298,Drug,PubChemCID,657298,Propylthiouracil
+PubChemCID:657309,Drug,PubChemCID,657309,Ipratropium
+PubChemCID:65833,Drug,PubChemCID,65833,milnacipran
+PubChemCID:65856,Drug,PubChemCID,65856,reboxetine
+PubChemCID:65866,Drug,PubChemCID,65866,lercanidipine
+PubChemCID:65889,Drug,PubChemCID,65889,WEB 2086
+PubChemCID:65906,Drug,PubChemCID,65906,mizolastine
+PubChemCID:65937,Drug,PubChemCID,65937,dexloxiglumide
+PubChemCID:65958,Drug,PubChemCID,65958,balofloxacin
+PubChemCID:65981,Drug,PubChemCID,65981,repaglinide
+PubChemCID:65997,Drug,PubChemCID,65997,lerisetron
+PubChemCID:65999,Drug,PubChemCID,65999,telmisartan
+PubChemCID:66007,Drug,PubChemCID,66007,Trihexyphenidyl
+PubChemCID:6604009,Drug,PubChemCID,6604009,SB 222200
+PubChemCID:6604595,Drug,PubChemCID,6604595,Domperidone
+PubChemCID:66265,Drug,PubChemCID,66265,Dexfenfluramine
+PubChemCID:66414,Drug,PubChemCID,66414,2-methoxyestradiol
+PubChemCID:6646,Drug,PubChemCID,6646,homatropine methylbromide
+PubChemCID:6647,Drug,PubChemCID,6647,"(1r,5r)-8,8-dimethyl-3-[(2-propylpentanoyl)oxy]-8-azoniabicyclo[3.2.1]octane bromide"
+PubChemCID:666418,Drug,PubChemCID,666418,Prothionamide
+PubChemCID:667467,Drug,PubChemCID,667467,Chlorprothixene
+PubChemCID:667476,Drug,PubChemCID,667476,Dienestrol
+PubChemCID:667477,Drug,PubChemCID,667477,Doxepin
+PubChemCID:667490,Drug,PubChemCID,667490,6-Mercaptopurine
+PubChemCID:667550,Drug,PubChemCID,667550,(S)-(+)-Ketoprofen
+PubChemCID:6691,Drug,PubChemCID,6691,CID 6691
+PubChemCID:6726,Drug,PubChemCID,6726,Cyclizine
+PubChemCID:6729,Drug,PubChemCID,6729,buclizine
+PubChemCID:67356,Drug,PubChemCID,67356,Fluphenazine
+PubChemCID:6741,Drug,PubChemCID,6741,Methylprednisolone
+PubChemCID:681,Drug,PubChemCID,681,Dopamine
+PubChemCID:6832,Drug,PubChemCID,6832,Benztropine
+PubChemCID:6834,Drug,PubChemCID,6834,Brompheniramine
+PubChemCID:6857599,Drug,PubChemCID,6857599,oxaliplatin
+PubChemCID:68602,Drug,PubChemCID,68602,Medetomidine
+PubChemCID:68617,Drug,PubChemCID,68617,Sertraline
+PubChemCID:6869,Drug,PubChemCID,6869,Penicillin V
+PubChemCID:68740,Drug,PubChemCID,68740,zoledronic acid
+PubChemCID:68791,Drug,PubChemCID,68791,"4-imino-1,3-diazabicyclo(3.1.0)hexan-2-one"
+PubChemCID:68827,Drug,PubChemCID,68827,artemisinine
+PubChemCID:6883,Drug,PubChemCID,6883,Isosorbide Dinitrate
+PubChemCID:68844,Drug,PubChemCID,68844,brinzolamide
+PubChemCID:688561,Drug,PubChemCID,688561,Procaterol
+PubChemCID:68861,Drug,PubChemCID,68861,dienogest
+PubChemCID:68873,Drug,PubChemCID,68873,drospirenone
+PubChemCID:68911,Drug,PubChemCID,68911,artemether
+PubChemCID:6916249,Drug,PubChemCID,6916249,Butorphanol
+PubChemCID:6918107,Drug,PubChemCID,6918107,cilansetron
+PubChemCID:6918156,Drug,PubChemCID,6918156,CHEMBL269016
+PubChemCID:6918248,Drug,PubChemCID,6918248,flibanserin
+PubChemCID:6918251,Drug,PubChemCID,6918251,ofatumumab
+PubChemCID:6918260,Drug,PubChemCID,6918260,larotaxel
+PubChemCID:6918295,Drug,PubChemCID,6918295,vinflunine
+PubChemCID:6918296,Drug,PubChemCID,6918296,dutasteride
+PubChemCID:6918314,Drug,PubChemCID,6918314,vilazodone
+PubChemCID:6918336,Drug,PubChemCID,6918336,Bay 12-9566
+PubChemCID:6918412,Drug,PubChemCID,6918412,IDN 5109
+PubChemCID:6918430,Drug,PubChemCID,6918430,ceftobiprole
+PubChemCID:6918456,Drug,PubChemCID,6918456,prasugrel
+PubChemCID:6918462,Drug,PubChemCID,6918462,retapamulin
+PubChemCID:6918474,Drug,PubChemCID,6918474,S-2-O-carbamoyl-1-o-chlorophenyl-ethanol
+PubChemCID:6918486,Drug,PubChemCID,6918486,voclosporin
+PubChemCID:6918493,Drug,PubChemCID,6918493,ambrisentan
+PubChemCID:6918523,Drug,PubChemCID,6918523,udenafil
+PubChemCID:6918525,Drug,PubChemCID,6918525,pardoprunox
+PubChemCID:6918537,Drug,PubChemCID,6918537,vildagliptin
+PubChemCID:6918554,Drug,PubChemCID,6918554,indacaterol
+PubChemCID:6918584,Drug,PubChemCID,6918584,Sugammadex
+PubChemCID:6918587,Drug,PubChemCID,6918587,bifeprunox
+PubChemCID:6918602,Drug,PubChemCID,6918602,relacatib
+PubChemCID:6918664,Drug,PubChemCID,6918664,386750-22-7
+PubChemCID:6918678,Drug,PubChemCID,6918678,varenicline
+PubChemCID:6918837,Drug,PubChemCID,6918837,panobinostat
+PubChemCID:69711,Drug,PubChemCID,69711,5-fluoroorotic acid
+PubChemCID:6992084,Drug,PubChemCID,6992084,D-Allopyranose
+PubChemCID:7000965,Drug,PubChemCID,7000965,AC1OCU0L
+PubChemCID:702,Drug,PubChemCID,702,Ethanol
+PubChemCID:7028,Drug,PubChemCID,7028,Pseudoephedrine
+PubChemCID:7029,Drug,PubChemCID,7029,Diethylpropion
+PubChemCID:71077,Drug,PubChemCID,71077,D-serine
+PubChemCID:71158,Drug,PubChemCID,71158,acamprosate
+PubChemCID:71300636,Drug,PubChemCID,71300636,pasireotide
+PubChemCID:71301,Drug,PubChemCID,71301,nebivolol
+PubChemCID:71329,Drug,PubChemCID,71329,dofetilide
+PubChemCID:71349,Drug,PubChemCID,71349,lanreotide
+PubChemCID:71351,Drug,PubChemCID,71351,ocaperidone
+PubChemCID:71360,Drug,PubChemCID,71360,iloperidone
+PubChemCID:71364,Drug,PubChemCID,71364,icatibant
+PubChemCID:71384,Drug,PubChemCID,71384,Dexrazoxane
+PubChemCID:71388,Drug,PubChemCID,71388,tyloxapol
+PubChemCID:71398,Drug,PubChemCID,71398,Masoprocol
+PubChemCID:71414,Drug,PubChemCID,71414,diflorasone
+PubChemCID:71456,Drug,PubChemCID,71456,xanomeline
+PubChemCID:71616,Drug,PubChemCID,71616,voriconazole
+PubChemCID:71715,Drug,PubChemCID,71715,Carbetocinum [INN-Latin]
+PubChemCID:71771,Drug,PubChemCID,71771,aceclofenac
+PubChemCID:72081,Drug,PubChemCID,72081,terlipressin
+PubChemCID:72281,Drug,PubChemCID,72281,hesperetin
+PubChemCID:72332,Drug,PubChemCID,72332,homoharringtonine
+PubChemCID:73115,Drug,PubChemCID,73115,Clevudine
+PubChemCID:73303,Drug,PubChemCID,73303,doripenem
+PubChemCID:74989,Drug,PubChemCID,74989,Atovaquone
+PubChemCID:753,Drug,PubChemCID,753,Glycerol
+PubChemCID:7638,Drug,PubChemCID,7638,monobenzone
+PubChemCID:7699,Drug,PubChemCID,7699,benzonatate
+PubChemCID:772,Drug,PubChemCID,772,Heparin
+PubChemCID:77991,Drug,PubChemCID,77991,rivastigmine
+PubChemCID:77992,Drug,PubChemCID,77992,frovatriptan
+PubChemCID:77993,Drug,PubChemCID,77993,eletriptan
+PubChemCID:77999,Drug,PubChemCID,77999,rosiglitazone
+PubChemCID:785,Drug,PubChemCID,785,hydroquinone
+PubChemCID:82146,Drug,PubChemCID,82146,bexarotene
+PubChemCID:82148,Drug,PubChemCID,82148,S 20098
+PubChemCID:82153,Drug,PubChemCID,82153,flunisolide
+PubChemCID:8223,Drug,PubChemCID,8223,Ergotamine
+PubChemCID:8226,Drug,PubChemCID,8226,Methylergonovine
+PubChemCID:8249,Drug,PubChemCID,8249,Phenformin
+PubChemCID:8271,Drug,PubChemCID,8271,Mephobarbital
+PubChemCID:8275,Drug,PubChemCID,8275,talbutal
+PubChemCID:8280,Drug,PubChemCID,8280,paramethadione
+PubChemCID:8378,Drug,PubChemCID,8378,Framycetin
+PubChemCID:83898,Drug,PubChemCID,83898,cevimeline
+PubChemCID:84029,Drug,PubChemCID,84029,Clarithromycin
+PubChemCID:84571,Drug,PubChemCID,84571,Lactose
+PubChemCID:8549,Drug,PubChemCID,8549,Quinine
+PubChemCID:8550,Drug,PubChemCID,8550,deserpidine
+PubChemCID:8612,Drug,PubChemCID,8612,chloroprocaine
+PubChemCID:888,Drug,PubChemCID,888,magnesium ion
+PubChemCID:8944,Drug,PubChemCID,8944,anileridine
+PubChemCID:896,Drug,PubChemCID,896,Melatonin
+PubChemCID:8969,Drug,PubChemCID,8969,Yohimbine
+PubChemCID:8982,Drug,PubChemCID,8982,Nafcillin
+PubChemCID:9034,Drug,PubChemCID,9034,Methohexital
+PubChemCID:9046,Drug,PubChemCID,9046,Quinestrol
+PubChemCID:9047,Drug,PubChemCID,9047,Sulfalene
+PubChemCID:9051,Drug,PubChemCID,9051,Dydrogesterone
+PubChemCID:9052,Drug,PubChemCID,9052,CID 9052
+PubChemCID:908828,Drug,PubChemCID,908828,AC1LIPDP
+PubChemCID:91270,Drug,PubChemCID,91270,moexipril
+PubChemCID:91443,Drug,PubChemCID,91443,"5,6,7,8-tetrahydrofolic acid"
+PubChemCID:91610,Drug,PubChemCID,91610,gliquidone
+PubChemCID:91649,Drug,PubChemCID,91649,hydroxyflutamide
+PubChemCID:92253,Drug,PubChemCID,92253,levobupivacaine
+PubChemCID:9270,Drug,PubChemCID,9270,Ethynodiol Diacetate
+PubChemCID:92727,Drug,PubChemCID,92727,Lopinavir
+PubChemCID:9294,Drug,PubChemCID,9294,Ephedrine
+PubChemCID:9296,Drug,PubChemCID,9296,treosulfan
+PubChemCID:936,Drug,PubChemCID,936,Niacinamide
+PubChemCID:938,Drug,PubChemCID,938,Niacin
+PubChemCID:941361,Drug,PubChemCID,941361,Flunarizine
+PubChemCID:941651,Drug,PubChemCID,941651,Thiothixene
+PubChemCID:942,Drug,PubChemCID,942,Nicotine
+PubChemCID:9433,Drug,PubChemCID,9433,Aminophylline
+PubChemCID:9434,Drug,PubChemCID,9434,hexafluorenium
+PubChemCID:9444,Drug,PubChemCID,9444,Azacitidine
+PubChemCID:948,Drug,PubChemCID,948,Nitrous Oxide
+PubChemCID:9552079,Drug,PubChemCID,9552079,Chlorhexidine
+PubChemCID:9554198,Drug,PubChemCID,9554198,brasofensine
+PubChemCID:9565,Drug,PubChemCID,9565,glymidine
+PubChemCID:9571004,Drug,PubChemCID,9571004,azimilide
+PubChemCID:9571037,Drug,PubChemCID,9571037,chlorproguanil
+PubChemCID:9571080,Drug,PubChemCID,9571080,cefozopran
+PubChemCID:9571836,Drug,PubChemCID,9571836,3-aminopyridine-2-carboxaldehyde thiosemicarbazone
+PubChemCID:9574101,Drug,PubChemCID,9574101,ximelagatran
+PubChemCID:9576912,Drug,PubChemCID,9576912,binodenoson
+PubChemCID:9577221,Drug,PubChemCID,9577221,asoprisnil
+PubChemCID:9604655,Drug,PubChemCID,9604655,amelubant
+PubChemCID:9642,Drug,PubChemCID,9642,Fluocinonide
+PubChemCID:967,Drug,PubChemCID,967,Orotic Acid
+PubChemCID:9681,Drug,PubChemCID,9681,Methysergide
+PubChemCID:9690123,Drug,PubChemCID,9690123,revatropate
+PubChemCID:969472,Drug,PubChemCID,969472,eszopiclone
+PubChemCID:9782,Drug,PubChemCID,9782,Betamethasone
+PubChemCID:9795278,Drug,PubChemCID,9795278,PNU-282987
+PubChemCID:9796068,Drug,PubChemCID,9796068,4-iodo-3-nitrobenzamide
+PubChemCID:9808844,Drug,PubChemCID,9808844,telatinib
+PubChemCID:9811353,Drug,PubChemCID,9811353,bimosiamose
+PubChemCID:9811611,Drug,PubChemCID,9811611,252003-65-9
+PubChemCID:9815560,Drug,PubChemCID,9815560,Streptokinase
+PubChemCID:9816017,Drug,PubChemCID,9816017,BRL-55473
+PubChemCID:9816447,Drug,PubChemCID,9816447,dianicline
+PubChemCID:9820766,Drug,PubChemCID,9820766,CHEMBL422942
+PubChemCID:9825285,Drug,PubChemCID,9825285,azilsartan
+PubChemCID:9826528,Drug,PubChemCID,9826528,PD 0325901
+PubChemCID:9829523,Drug,PubChemCID,9829523,4'-N-benzoylstaurosporine
+PubChemCID:9834591,Drug,PubChemCID,9834591,"4-aminho-2-thiabicyclo(3.1.0)hexane-4,6-dicarboxylic acid"
+PubChemCID:9837243,Drug,PubChemCID,9837243,2-(2-oxo-4-propylpyrrolidin-1-yl)butanamide
+PubChemCID:9838022,Drug,PubChemCID,9838022,tapentadol
+PubChemCID:9848253,Drug,PubChemCID,9848253,Parogrelil hydrochloride
+PubChemCID:9852573,Drug,PubChemCID,9852573,17-(dimethylaminoethylamino)-17-demethoxygeldanamycin
+PubChemCID:9854012,Drug,PubChemCID,9854012,cangrelor
+PubChemCID:9854073,Drug,PubChemCID,9854073,cabazitaxel
+PubChemCID:9865528,Drug,PubChemCID,9865528,mirabegron
+PubChemCID:9868491,Drug,PubChemCID,9868491,tafluprost
+PubChemCID:9869929,Drug,PubChemCID,9869929,avanafil
+PubChemCID:9871419,Drug,PubChemCID,9871419,Ticagrelor
+PubChemCID:9871420,Drug,PubChemCID,9871420,remogliflozin etabonate
+PubChemCID:9874248,Drug,PubChemCID,9874248,Lapaquistat acetate
+PubChemCID:9875401,Drug,PubChemCID,9875401,rivaroxaban
+PubChemCID:9878,Drug,PubChemCID,9878,Fluorometholone
+PubChemCID:9882981,Drug,PubChemCID,9882981,(-)-Gallocatechin
+PubChemCID:9887712,Drug,PubChemCID,9887712,Dapagliflozin
+PubChemCID:9888590,Drug,PubChemCID,9888590,HMN-214
+PubChemCID:9895468,Drug,PubChemCID,9895468,Nelivaptan
+PubChemCID:9908,Drug,PubChemCID,9908,CID 9908
+PubChemCID:9912992,Drug,PubChemCID,9912992,Avosentan
+PubChemCID:9924495,Drug,PubChemCID,9924495,perampanel
+PubChemCID:9933475,Drug,PubChemCID,9933475,cediranib
+PubChemCID:9935681,Drug,PubChemCID,9935681,Firategrast
+PubChemCID:9939609,Drug,PubChemCID,9939609,darapladib
+PubChemCID:9942725,Drug,PubChemCID,9942725,Seletracetam
+PubChemCID:9952884,Drug,PubChemCID,9952884,vosaroxin
+PubChemCID:9952916,Drug,PubChemCID,9952916,cetilistat
+PubChemCID:9955977,Drug,PubChemCID,9955977,levocetirizine
+PubChemCID:11291,Drug,PubChemCID,11291,phenindamine
+PubChemCID:14792,Drug,PubChemCID,14792,Magnesium Oxide
+PubChemCID:15330,Drug,PubChemCID,15330,Levopropoxyphene
+PubChemCID:15951529,Drug,PubChemCID,15951529,MDV 3100
+PubChemCID:164739,Drug,PubChemCID,164739,Nordefrin
+PubChemCID:16722836,Drug,PubChemCID,16722836,TG101348
+PubChemCID:3292,Drug,PubChemCID,3292,ethotoin
+PubChemCID:3647,Drug,PubChemCID,3647,Hydroflumethiazide
+PubChemCID:44151801,Drug,PubChemCID,44151801,Firmagon
+PubChemCID:446284,Drug,PubChemCID,446284,Eicosapentaenoic Acid
+PubChemCID:450503,Drug,PubChemCID,450503,Fluorodeoxyglucose F18
+PubChemCID:5320,Drug,PubChemCID,5320,Sulfacetamide
+PubChemCID:54726191,Drug,PubChemCID,54726191,dolutegravir
+PubChemCID:670,Drug,PubChemCID,670,Dihydroxyacetone
+PubChemCID:6918558,Drug,PubChemCID,6918558,fesoterodine
+PubChemCID:9028,Drug,PubChemCID,9028,CID 9028
+PubChemCID:11154925,Drug,PubChemCID,11154925,brivanib
+PubChemCID:119212,Drug,PubChemCID,119212,benzylpenicilloyl G
+PubChemCID:12620,Drug,PubChemCID,12620,docosanol
+PubChemCID:145742,Drug,PubChemCID,145742,Proline
+PubChemCID:148121,Drug,PubChemCID,148121,10-propargyl-10-deazaaminopterin
+PubChemCID:157922,Drug,PubChemCID,157922,delta-aminolevulinic acid methyl ester
+PubChemCID:158798,Drug,PubChemCID,158798,Antazoline
+PubChemCID:159603,Drug,PubChemCID,159603,resiquimod
+PubChemCID:16129620,Drug,PubChemCID,16129620,Sermorelin
+PubChemCID:16129665,Drug,PubChemCID,16129665,Secretin
+PubChemCID:17275,Drug,PubChemCID,17275,Antazoline
+PubChemCID:172997,Drug,PubChemCID,172997,lixivaptan
+PubChemCID:178024,Drug,PubChemCID,178024,ibutamoren mesylate
+PubChemCID:213043,Drug,PubChemCID,213043,iclaprim
+PubChemCID:216466,Drug,PubChemCID,216466,BG 9928
+PubChemCID:224004,Drug,PubChemCID,224004,dromostanolone propionate
+PubChemCID:2350,Drug,PubChemCID,2350,TAU-284DS
+PubChemCID:23663985,Drug,PubChemCID,23663985,sivelestat sodium hydrate
+PubChemCID:2378,Drug,PubChemCID,2378,bifonazole
+PubChemCID:24776445,Drug,PubChemCID,24776445,HhAntag691
+PubChemCID:247839,Drug,PubChemCID,247839,medrysone
+PubChemCID:2484,Drug,PubChemCID,2484,butenafine
+PubChemCID:25126798,Drug,PubChemCID,25126798,INCB018424
+PubChemCID:287180,Drug,PubChemCID,287180,rosoxacin
+PubChemCID:3001386,Drug,PubChemCID,3001386,thiocarlide
+PubChemCID:3083542,Drug,PubChemCID,3083542,ajulemic acid
+PubChemCID:3086400,Drug,PubChemCID,3086400,quinagolide
+PubChemCID:3086682,Drug,PubChemCID,3086682,MEN 11420
+PubChemCID:3198,Drug,PubChemCID,3198,Econazole
+PubChemCID:33776,Drug,PubChemCID,33776,tirapazamine
+PubChemCID:3739,Drug,PubChemCID,3739,Iodipamide
+PubChemCID:39859,Drug,PubChemCID,39859,Albuterol
+PubChemCID:408334,Drug,PubChemCID,408334,Magnacort
+PubChemCID:4099,Drug,PubChemCID,4099,metharbital
+PubChemCID:44134622,Drug,PubChemCID,44134622,FT-0688988
+PubChemCID:441383,Drug,PubChemCID,441383,terconazole
+PubChemCID:447865,Drug,PubChemCID,447865,desoxyepothilone B
+PubChemCID:4581,Drug,PubChemCID,4581,Octopamine
+PubChemCID:46936190,Drug,PubChemCID,46936190,cellobiose
+PubChemCID:46936572,Drug,PubChemCID,46936572,SureCN28195
+PubChemCID:47641,Drug,PubChemCID,47641,naftifine
+PubChemCID:48175,Drug,PubChemCID,48175,halobetasol
+PubChemCID:5222465,Drug,PubChemCID,5222465,Butyric Acid
+PubChemCID:5282493,Drug,PubChemCID,5282493,clocortolone pivalate
+PubChemCID:5284451,Drug,PubChemCID,5284451,Pyrilamine
+PubChemCID:5333,Drug,PubChemCID,5333,sulfanilamide
+PubChemCID:5351,Drug,PubChemCID,5351,sulfoxone
+PubChemCID:5361463,Drug,PubChemCID,5361463,oxiconazole
+PubChemCID:5361917,Drug,PubChemCID,5361917,methylnaltrexone
+PubChemCID:5362391,Drug,PubChemCID,5362391,ridogrel
+PubChemCID:5482,Drug,PubChemCID,5482,tioconazole
+PubChemCID:5745207,Drug,PubChemCID,5745207,Ralfinamide
+PubChemCID:6057,Drug,PubChemCID,6057,Tyrosine
+PubChemCID:6083,Drug,PubChemCID,6083,Adenosine Monophosphate
+PubChemCID:6140,Drug,PubChemCID,6140,Phenylalanine
+PubChemCID:6239,Drug,PubChemCID,6239,Quinacrine
+PubChemCID:62819,Drug,PubChemCID,62819,Urofollitropin
+PubChemCID:6439232,Drug,PubChemCID,6439232,TMK 688
+PubChemCID:65781,Drug,PubChemCID,65781,ecabet
+PubChemCID:65820,Drug,PubChemCID,65820,carebastine
+PubChemCID:65863,Drug,PubChemCID,65863,sertaconazole
+PubChemCID:6918204,Drug,PubChemCID,6918204,gadobenic acid
+PubChemCID:750,Drug,PubChemCID,750,Glycine
+PubChemCID:7741,Drug,PubChemCID,7741,Betazole
+PubChemCID:892,Drug,PubChemCID,892,Inositol
+PubChemCID:9571107,Drug,PubChemCID,9571107,gemifloxacin
+PubChemCID:9883933,Drug,PubChemCID,9883933,Gabapentin enacarbil
+PubChemCID:9915926,Drug,PubChemCID,9915926,eltrombopag
+GeneID:100,Protein,GeneID,100,ADA
+GeneID:1000,Protein,GeneID,1000,CDH2
+GeneID:10013,Protein,GeneID,10013,HDAC6
+GeneID:10019,Protein,GeneID,10019,SH2B3
+GeneID:1003,Protein,GeneID,1003,CDH5
+GeneID:10062,Protein,GeneID,10062,NR1H3
+GeneID:10063,Protein,GeneID,10063,COX17
+GeneID:1017,Protein,GeneID,1017,CDK2
+GeneID:1019,Protein,GeneID,1019,CDK4
+GeneID:1020,Protein,GeneID,1020,CDK5
+GeneID:10203,Protein,GeneID,10203,CALCRL
+GeneID:1021,Protein,GeneID,1021,CDK6
+GeneID:1022,Protein,GeneID,1022,CDK7
+GeneID:10223,Protein,GeneID,10223,GPA33
+GeneID:1024,Protein,GeneID,1024,CDK8
+GeneID:10249,Protein,GeneID,10249,GLYAT
+GeneID:1025,Protein,GeneID,1025,CDK9
+GeneID:10267,Protein,GeneID,10267,RAMP1
+GeneID:10268,Protein,GeneID,10268,RAMP3
+GeneID:10280,Protein,GeneID,10280,SIGMAR1
+GeneID:1029,Protein,GeneID,1029,CDKN2A
+GeneID:1031,Protein,GeneID,1031,CDKN2C
+GeneID:10327,Protein,GeneID,10327,AKR1A1
+GeneID:10376,Protein,GeneID,10376,TUBA1B
+GeneID:10381,Protein,GeneID,10381,TUBB3
+GeneID:10382,Protein,GeneID,10382,TUBB4A
+GeneID:10383,Protein,GeneID,10383,TUBB4B
+GeneID:10423,Protein,GeneID,10423,CDIPT
+GeneID:1043,Protein,GeneID,1043,CD52
+GeneID:1048,Protein,GeneID,1048,CEACAM5
+GeneID:10481,Protein,GeneID,10481,HOXB13
+GeneID:10497,Protein,GeneID,10497,UNC13B
+GeneID:10499,Protein,GeneID,10499,NCOA2
+GeneID:1051,Protein,GeneID,1051,CEBPB
+GeneID:10555,Protein,GeneID,10555,AGPAT2
+GeneID:10558,Protein,GeneID,10558,SPTLC1
+GeneID:1062,Protein,GeneID,1062,CENPE
+GeneID:10628,Protein,GeneID,10628,TXNIP
+GeneID:1066,Protein,GeneID,1066,CES1
+GeneID:10663,Protein,GeneID,10663,CXCR6
+GeneID:10673,Protein,GeneID,10673,TNFSF13B
+GeneID:107,Protein,GeneID,107,ADCY1
+GeneID:1071,Protein,GeneID,1071,CETP
+GeneID:10746,Protein,GeneID,10746,MAP3K2
+GeneID:1075,Protein,GeneID,1075,CTSC
+GeneID:108,Protein,GeneID,108,ADCY2
+GeneID:1080,Protein,GeneID,1080,CFTR
+GeneID:1081,Protein,GeneID,1081,CGA
+GeneID:1082,Protein,GeneID,1082,CGB
+GeneID:10841,Protein,GeneID,10841,FTCD
+GeneID:10846,Protein,GeneID,10846,PDE10A
+GeneID:10855,Protein,GeneID,10855,HPSE
+GeneID:10901,Protein,GeneID,10901,DHRS4
+GeneID:10911,Protein,GeneID,10911,UTS2
+GeneID:10914,Protein,GeneID,10914,PAPOLA
+GeneID:10987,Protein,GeneID,10987,COPS5
+GeneID:10988,Protein,GeneID,10988,METAP2
+GeneID:1105,Protein,GeneID,1105,CHD1
+GeneID:1111,Protein,GeneID,1111,CHEK1
+GeneID:11157,Protein,GeneID,11157,LSM6
+GeneID:11165,Protein,GeneID,11165,NUDT3
+GeneID:1119,Protein,GeneID,1119,CHKA
+GeneID:11200,Protein,GeneID,11200,CHEK2
+GeneID:11212,Protein,GeneID,11212,PROSC
+GeneID:112398,Protein,GeneID,112398,EGLN2
+GeneID:112399,Protein,GeneID,112399,EGLN3
+GeneID:11251,Protein,GeneID,11251,PTGDR2
+GeneID:112724,Protein,GeneID,112724,RDH13
+GeneID:1128,Protein,GeneID,1128,CHRM1
+GeneID:1129,Protein,GeneID,1129,CHRM2
+GeneID:1131,Protein,GeneID,1131,CHRM3
+GeneID:1132,Protein,GeneID,1132,CHRM4
+GeneID:1133,Protein,GeneID,1133,CHRM5
+GeneID:1134,Protein,GeneID,1134,CHRNA1
+GeneID:1135,Protein,GeneID,1135,CHRNA2
+GeneID:1136,Protein,GeneID,1136,CHRNA3
+GeneID:113675,Protein,GeneID,113675,SDSL
+GeneID:1137,Protein,GeneID,1137,CHRNA4
+GeneID:1138,Protein,GeneID,1138,CHRNA5
+GeneID:1139,Protein,GeneID,1139,CHRNA7
+GeneID:1140,Protein,GeneID,1140,CHRNB1
+GeneID:1141,Protein,GeneID,1141,CHRNB2
+GeneID:1143,Protein,GeneID,1143,CHRNB4
+GeneID:1144,Protein,GeneID,1144,CHRND
+GeneID:1147,Protein,GeneID,1147,CHUK
+GeneID:1152,Protein,GeneID,1152,CKB
+GeneID:115650,Protein,GeneID,115650,TNFRSF13C
+GeneID:1158,Protein,GeneID,1158,CKM
+GeneID:1159,Protein,GeneID,1159,CKMT1B
+GeneID:1160,Protein,GeneID,1160,CKMT2
+GeneID:116443,Protein,GeneID,116443,GRIN3A
+GeneID:1181,Protein,GeneID,1181,CLCN2
+GeneID:1191,Protein,GeneID,1191,CLU
+GeneID:1215,Protein,GeneID,1215,CMA1
+GeneID:1230,Protein,GeneID,1230,CCR1
+GeneID:1232,Protein,GeneID,1232,CCR3
+GeneID:1233,Protein,GeneID,1233,CCR4
+GeneID:1234,Protein,GeneID,1234,CCR5
+GeneID:124,Protein,GeneID,124,ADH1A
+GeneID:124056,Protein,GeneID,124056,NOXO1
+GeneID:1241,Protein,GeneID,1241,LTB4R
+GeneID:1244,Protein,GeneID,1244,ABCC2
+GeneID:125,Protein,GeneID,125,ADH1B
+GeneID:126,Protein,GeneID,126,ADH1C
+GeneID:1267,Protein,GeneID,1267,CNP
+GeneID:1268,Protein,GeneID,1268,CNR1
+GeneID:1269,Protein,GeneID,1269,CNR2
+GeneID:1270,Protein,GeneID,1270,CNTF
+GeneID:1271,Protein,GeneID,1271,CNTFR
+GeneID:1312,Protein,GeneID,1312,COMT
+GeneID:132,Protein,GeneID,132,ADK
+GeneID:133,Protein,GeneID,133,ADM
+GeneID:134,Protein,GeneID,134,ADORA1
+GeneID:135,Protein,GeneID,135,ADORA2A
+GeneID:136,Protein,GeneID,136,ADORA2B
+GeneID:1361,Protein,GeneID,1361,CPB2
+GeneID:1363,Protein,GeneID,1363,CPE
+GeneID:1364,Protein,GeneID,1364,CLDN4
+GeneID:1373,Protein,GeneID,1373,CPS1
+GeneID:1374,Protein,GeneID,1374,CPT1A
+GeneID:1376,Protein,GeneID,1376,CPT2
+GeneID:1378,Protein,GeneID,1378,CR1
+GeneID:1384,Protein,GeneID,1384,CRAT
+GeneID:1385,Protein,GeneID,1385,CREB1
+GeneID:1392,Protein,GeneID,1392,CRH
+GeneID:1394,Protein,GeneID,1394,CRHR1
+GeneID:1395,Protein,GeneID,1395,CRHR2
+GeneID:140,Protein,GeneID,140,ADORA3
+GeneID:1401,Protein,GeneID,1401,CRP
+GeneID:1414,Protein,GeneID,1414,CRYBB1
+GeneID:142,Protein,GeneID,142,PARP1
+GeneID:1431,Protein,GeneID,1431,CS
+GeneID:1432,Protein,GeneID,1432,MAPK14
+GeneID:1435,Protein,GeneID,1435,CSF1
+GeneID:1436,Protein,GeneID,1436,CSF1R
+GeneID:1437,Protein,GeneID,1437,CSF2
+GeneID:1438,Protein,GeneID,1438,CSF2RA
+GeneID:1440,Protein,GeneID,1440,CSF3
+GeneID:1441,Protein,GeneID,1441,CSF3R
+GeneID:145226,Protein,GeneID,145226,RDH12
+GeneID:146,Protein,GeneID,146,ADRA1D
+GeneID:1468,Protein,GeneID,1468,SLC25A10
+GeneID:147,Protein,GeneID,147,ADRA1B
+GeneID:148,Protein,GeneID,148,ADRA1A
+GeneID:1490,Protein,GeneID,1490,CTGF
+GeneID:1491,Protein,GeneID,1491,CTH
+GeneID:1493,Protein,GeneID,1493,CTLA4
+GeneID:1499,Protein,GeneID,1499,CTNNB1
+GeneID:150,Protein,GeneID,150,ADRA2A
+GeneID:1503,Protein,GeneID,1503,CTPS1
+GeneID:1509,Protein,GeneID,1509,CTSD
+GeneID:151,Protein,GeneID,151,ADRA2B
+GeneID:1511,Protein,GeneID,1511,CTSG
+GeneID:1513,Protein,GeneID,1513,CTSK
+GeneID:1514,Protein,GeneID,1514,CTSL
+GeneID:152,Protein,GeneID,152,ADRA2C
+GeneID:1520,Protein,GeneID,1520,CTSS
+GeneID:153,Protein,GeneID,153,ADRB1
+GeneID:1536,Protein,GeneID,1536,CYBB
+GeneID:154,Protein,GeneID,154,ADRB2
+GeneID:1545,Protein,GeneID,1545,CYP1B1
+GeneID:155,Protein,GeneID,155,ADRB3
+GeneID:156,Protein,GeneID,156,ADRBK1
+GeneID:1565,Protein,GeneID,1565,CYP2D6
+GeneID:1576,Protein,GeneID,1576,CYP3A4
+GeneID:1577,Protein,GeneID,1577,CYP3A5
+GeneID:1583,Protein,GeneID,1583,CYP11A1
+GeneID:1584,Protein,GeneID,1584,CYP11B1
+GeneID:1586,Protein,GeneID,1586,CYP17A1
+GeneID:1588,Protein,GeneID,1588,CYP19A1
+GeneID:1594,Protein,GeneID,1594,CYP27B1
+GeneID:1595,Protein,GeneID,1595,CYP51A1
+GeneID:16,Protein,GeneID,16,AARS
+GeneID:1605,Protein,GeneID,1605,DAG1
+GeneID:1606,Protein,GeneID,1606,DGKA
+GeneID:1621,Protein,GeneID,1621,DBH
+GeneID:1633,Protein,GeneID,1633,DCK
+GeneID:1636,Protein,GeneID,1636,ACE
+GeneID:1638,Protein,GeneID,1638,DCT
+GeneID:1644,Protein,GeneID,1644,DDC
+GeneID:1645,Protein,GeneID,1645,AKR1C1
+GeneID:1666,Protein,GeneID,1666,DECR1
+GeneID:166785,Protein,GeneID,166785,MMAA
+GeneID:1676,Protein,GeneID,1676,DFFA
+GeneID:1677,Protein,GeneID,1677,DFFB
+GeneID:1719,Protein,GeneID,1719,DHFR
+GeneID:1723,Protein,GeneID,1723,DHODH
+GeneID:1725,Protein,GeneID,1725,DHPS
+GeneID:1728,Protein,GeneID,1728,NQO1
+GeneID:1733,Protein,GeneID,1733,DIO1
+GeneID:1738,Protein,GeneID,1738,DLD
+GeneID:1742,Protein,GeneID,1742,DLG4
+GeneID:177,Protein,GeneID,177,AGER
+GeneID:1786,Protein,GeneID,1786,DNMT1
+GeneID:1787,Protein,GeneID,1787,TRDMT1
+GeneID:1789,Protein,GeneID,1789,DNMT3B
+GeneID:18,Protein,GeneID,18,ABAT
+GeneID:1800,Protein,GeneID,1800,DPEP1
+GeneID:1803,Protein,GeneID,1803,DPP4
+GeneID:1806,Protein,GeneID,1806,DPYD
+GeneID:181,Protein,GeneID,181,AGRP
+GeneID:1812,Protein,GeneID,1812,DRD1
+GeneID:1813,Protein,GeneID,1813,DRD2
+GeneID:1814,Protein,GeneID,1814,DRD3
+GeneID:1815,Protein,GeneID,1815,DRD4
+GeneID:1816,Protein,GeneID,1816,DRD5
+GeneID:1843,Protein,GeneID,1843,DUSP1
+GeneID:185,Protein,GeneID,185,AGTR1
+GeneID:1854,Protein,GeneID,1854,DUT
+GeneID:186,Protein,GeneID,186,AGTR2
+GeneID:1889,Protein,GeneID,1889,ECE1
+GeneID:189,Protein,GeneID,189,AGXT
+GeneID:1890,Protein,GeneID,1890,TYMP
+GeneID:19,Protein,GeneID,19,ABCA1
+GeneID:190,Protein,GeneID,190,NR0B1
+GeneID:1901,Protein,GeneID,1901,S1PR1
+GeneID:1902,Protein,GeneID,1902,LPAR1
+GeneID:1906,Protein,GeneID,1906,EDN1
+GeneID:1909,Protein,GeneID,1909,EDNRA
+GeneID:1910,Protein,GeneID,1910,EDNRB
+GeneID:1956,Protein,GeneID,1956,EGFR
+GeneID:196,Protein,GeneID,196,AHR
+GeneID:1962,Protein,GeneID,1962,EHHADH
+GeneID:1969,Protein,GeneID,1969,EPHA2
+GeneID:197,Protein,GeneID,197,AHSG
+GeneID:1977,Protein,GeneID,1977,EIF4E
+GeneID:1979,Protein,GeneID,1979,EIF4EBP2
+GeneID:1991,Protein,GeneID,1991,ELANE
+GeneID:2,Protein,GeneID,2,A2M
+GeneID:2004,Protein,GeneID,2004,ELK3
+GeneID:2006,Protein,GeneID,2006,ELN
+GeneID:2022,Protein,GeneID,2022,ENG
+GeneID:2028,Protein,GeneID,2028,ENPEP
+GeneID:2029,Protein,GeneID,2029,ENSA
+GeneID:2030,Protein,GeneID,2030,SLC29A1
+GeneID:2034,Protein,GeneID,2034,EPAS1
+GeneID:2048,Protein,GeneID,2048,EPHB2
+GeneID:2050,Protein,GeneID,2050,EPHB4
+GeneID:2053,Protein,GeneID,2053,EPHX2
+GeneID:2057,Protein,GeneID,2057,EPOR
+GeneID:2064,Protein,GeneID,2064,ERBB2
+GeneID:2065,Protein,GeneID,2065,ERBB3
+GeneID:2066,Protein,GeneID,2066,ERBB4
+GeneID:207,Protein,GeneID,207,AKT1
+GeneID:2077,Protein,GeneID,2077,ERF
+GeneID:2098,Protein,GeneID,2098,ESD
+GeneID:2099,Protein,GeneID,2099,ESR1
+GeneID:210,Protein,GeneID,210,ALAD
+GeneID:2100,Protein,GeneID,2100,ESR2
+GeneID:2101,Protein,GeneID,2101,ESRRA
+GeneID:211,Protein,GeneID,211,ALAS1
+GeneID:2113,Protein,GeneID,2113,ETS1
+GeneID:212,Protein,GeneID,212,ALAS2
+GeneID:213,Protein,GeneID,213,ALB
+GeneID:2147,Protein,GeneID,2147,F2
+GeneID:2149,Protein,GeneID,2149,F2R
+GeneID:2150,Protein,GeneID,2150,F2RL1
+GeneID:2151,Protein,GeneID,2151,F2RL2
+GeneID:2152,Protein,GeneID,2152,F3
+GeneID:2153,Protein,GeneID,2153,F5
+GeneID:2155,Protein,GeneID,2155,F7
+GeneID:2157,Protein,GeneID,2157,F8
+GeneID:2158,Protein,GeneID,2158,F9
+GeneID:2159,Protein,GeneID,2159,F10
+GeneID:216,Protein,GeneID,216,ALDH1A1
+GeneID:2166,Protein,GeneID,2166,FAAH
+GeneID:2167,Protein,GeneID,2167,FABP4
+GeneID:2169,Protein,GeneID,2169,FABP2
+GeneID:217,Protein,GeneID,217,ALDH2
+GeneID:2171,Protein,GeneID,2171,FABP5
+GeneID:2181,Protein,GeneID,2181,ACSL3
+GeneID:2182,Protein,GeneID,2182,ACSL4
+GeneID:2185,Protein,GeneID,2185,PTK2B
+GeneID:2188,Protein,GeneID,2188,FANCF
+GeneID:2191,Protein,GeneID,2191,FAP
+GeneID:2194,Protein,GeneID,2194,FASN
+GeneID:220,Protein,GeneID,220,ALDH1A3
+GeneID:2203,Protein,GeneID,2203,FBP1
+GeneID:2204,Protein,GeneID,2204,FCAR
+GeneID:2205,Protein,GeneID,2205,FCER1A
+GeneID:2207,Protein,GeneID,2207,FCER1G
+GeneID:2209,Protein,GeneID,2209,FCGR1A
+GeneID:2212,Protein,GeneID,2212,FCGR2A
+GeneID:2217,Protein,GeneID,2217,FCGRT
+GeneID:2222,Protein,GeneID,2222,FDFT1
+GeneID:2224,Protein,GeneID,2224,FDPS
+GeneID:2235,Protein,GeneID,2235,FECH
+GeneID:2246,Protein,GeneID,2246,FGF1
+GeneID:2247,Protein,GeneID,2247,FGF2
+GeneID:2253,Protein,GeneID,2253,FGF8
+GeneID:2260,Protein,GeneID,2260,FGFR1
+GeneID:2261,Protein,GeneID,2261,FGFR3
+GeneID:2263,Protein,GeneID,2263,FGFR2
+GeneID:2264,Protein,GeneID,2264,FGFR4
+GeneID:2272,Protein,GeneID,2272,FHIT
+GeneID:2277,Protein,GeneID,2277,FIGF
+GeneID:2280,Protein,GeneID,2280,FKBP1A
+GeneID:22937,Protein,GeneID,22937,SCAP
+GeneID:22943,Protein,GeneID,22943,DKK1
+GeneID:22978,Protein,GeneID,22978,NT5C2
+GeneID:23042,Protein,GeneID,23042,PDXDC1
+GeneID:2308,Protein,GeneID,2308,FOXO1
+GeneID:231,Protein,GeneID,231,AKR1B1
+GeneID:2321,Protein,GeneID,2321,FLT1
+GeneID:2322,Protein,GeneID,2322,FLT3
+GeneID:23236,Protein,GeneID,23236,PLCB1
+GeneID:2324,Protein,GeneID,2324,FLT4
+GeneID:2335,Protein,GeneID,2335,FN1
+GeneID:2339,Protein,GeneID,2339,FNTA
+GeneID:23408,Protein,GeneID,23408,SIRT5
+GeneID:23411,Protein,GeneID,23411,SIRT1
+GeneID:2342,Protein,GeneID,2342,FNTB
+GeneID:2346,Protein,GeneID,2346,FOLH1
+GeneID:23464,Protein,GeneID,23464,GCAT
+GeneID:23475,Protein,GeneID,23475,QPRT
+GeneID:23495,Protein,GeneID,23495,TNFRSF13B
+GeneID:2352,Protein,GeneID,2352,FOLR3
+GeneID:2353,Protein,GeneID,2353,FOS
+GeneID:2356,Protein,GeneID,2356,FPGS
+GeneID:2357,Protein,GeneID,2357,FPR1
+GeneID:2358,Protein,GeneID,2358,FPR2
+GeneID:23621,Protein,GeneID,23621,BACE1
+GeneID:23649,Protein,GeneID,23649,POLA2
+GeneID:239,Protein,GeneID,239,ALOX12
+GeneID:240,Protein,GeneID,240,ALOX5
+GeneID:241,Protein,GeneID,241,ALOX5AP
+GeneID:24145,Protein,GeneID,24145,PANX1
+GeneID:247,Protein,GeneID,247,ALOX15B
+GeneID:2475,Protein,GeneID,2475,MTOR
+GeneID:249,Protein,GeneID,249,ALPL
+GeneID:2492,Protein,GeneID,2492,FSHR
+GeneID:2495,Protein,GeneID,2495,FTH1
+GeneID:25,Protein,GeneID,25,ABL1
+GeneID:251,Protein,GeneID,251,ALPPL2
+GeneID:2512,Protein,GeneID,2512,FTL
+GeneID:2534,Protein,GeneID,2534,FYN
+GeneID:2539,Protein,GeneID,2539,G6PD
+GeneID:2542,Protein,GeneID,2542,SLC37A4
+GeneID:2548,Protein,GeneID,2548,GAA
+GeneID:2550,Protein,GeneID,2550,GABBR1
+GeneID:2554,Protein,GeneID,2554,GABRA1
+GeneID:2555,Protein,GeneID,2555,GABRA2
+GeneID:2556,Protein,GeneID,2556,GABRA3
+GeneID:2557,Protein,GeneID,2557,GABRA4
+GeneID:255738,Protein,GeneID,255738,PCSK9
+GeneID:2558,Protein,GeneID,2558,GABRA5
+GeneID:2559,Protein,GeneID,2559,GABRA6
+GeneID:2560,Protein,GeneID,2560,GABRB1
+GeneID:2561,Protein,GeneID,2561,GABRB2
+GeneID:2562,Protein,GeneID,2562,GABRB3
+GeneID:2563,Protein,GeneID,2563,GABRD
+GeneID:2565,Protein,GeneID,2565,GABRG1
+GeneID:2566,Protein,GeneID,2566,GABRG2
+GeneID:2567,Protein,GeneID,2567,GABRG3
+GeneID:2569,Protein,GeneID,2569,GABRR1
+GeneID:2570,Protein,GeneID,2570,GABRR2
+GeneID:2571,Protein,GeneID,2571,GAD1
+GeneID:2572,Protein,GeneID,2572,GAD2
+GeneID:25824,Protein,GeneID,25824,PRDX5
+GeneID:2587,Protein,GeneID,2587,GALR1
+GeneID:2593,Protein,GeneID,2593,GAMT
+GeneID:25974,Protein,GeneID,25974,MMACHC
+GeneID:26,Protein,GeneID,26,AOC1
+GeneID:2617,Protein,GeneID,2617,GARS
+GeneID:2618,Protein,GeneID,2618,GART
+GeneID:262,Protein,GeneID,262,AMD1
+GeneID:2625,Protein,GeneID,2625,GATA3
+GeneID:2626,Protein,GeneID,2626,GATA4
+GeneID:2628,Protein,GeneID,2628,GATM
+GeneID:2629,Protein,GeneID,2629,GBA
+GeneID:2642,Protein,GeneID,2642,GCGR
+GeneID:2643,Protein,GeneID,2643,GCH1
+GeneID:2645,Protein,GeneID,2645,GCK
+GeneID:2653,Protein,GeneID,2653,GCSH
+GeneID:2660,Protein,GeneID,2660,MSTN
+GeneID:2677,Protein,GeneID,2677,GGCX
+GeneID:2678,Protein,GeneID,2678,GGT1
+GeneID:2688,Protein,GeneID,2688,GH1
+GeneID:2690,Protein,GeneID,2690,GHR
+GeneID:2692,Protein,GeneID,2692,GHRHR
+GeneID:2693,Protein,GeneID,2693,GHSR
+GeneID:2695,Protein,GeneID,2695,GIP
+GeneID:2697,Protein,GeneID,2697,GJA1
+GeneID:27,Protein,GeneID,27,ABL2
+GeneID:2717,Protein,GeneID,2717,GLA
+GeneID:27232,Protein,GeneID,27232,GNMT
+GeneID:27257,Protein,GeneID,27257,LSM1
+GeneID:2730,Protein,GeneID,2730,GCLM
+GeneID:27306,Protein,GeneID,27306,HPGDS
+GeneID:2731,Protein,GeneID,2731,GLDC
+GeneID:2739,Protein,GeneID,2739,GLO1
+GeneID:2740,Protein,GeneID,2740,GLP1R
+GeneID:2741,Protein,GeneID,2741,GLRA1
+GeneID:2742,Protein,GeneID,2742,GLRA2
+GeneID:2743,Protein,GeneID,2743,GLRB
+GeneID:2745,Protein,GeneID,2745,GLRX
+GeneID:2776,Protein,GeneID,2776,GNAQ
+GeneID:2788,Protein,GeneID,2788,GNG7
+GeneID:279,Protein,GeneID,279,AMY2A
+GeneID:2798,Protein,GeneID,2798,GNRHR
+GeneID:280,Protein,GeneID,280,AMY2B
+GeneID:2805,Protein,GeneID,2805,GOT1
+GeneID:2806,Protein,GeneID,2806,GOT2
+GeneID:2815,Protein,GeneID,2815,GP9
+GeneID:2819,Protein,GeneID,2819,GPD1
+GeneID:283,Protein,GeneID,283,ANG
+GeneID:2833,Protein,GeneID,2833,CXCR3
+GeneID:2837,Protein,GeneID,2837,UTS2R
+GeneID:284,Protein,GeneID,284,ANGPT1
+GeneID:2847,Protein,GeneID,2847,MCHR1
+GeneID:285,Protein,GeneID,285,ANGPT2
+GeneID:2862,Protein,GeneID,2862,MLNR
+GeneID:2875,Protein,GeneID,2875,GPT
+GeneID:2876,Protein,GeneID,2876,GPX1
+GeneID:2877,Protein,GeneID,2877,GPX2
+GeneID:2878,Protein,GeneID,2878,GPX3
+GeneID:2879,Protein,GeneID,2879,GPX4
+GeneID:2882,Protein,GeneID,2882,GPX7
+GeneID:2890,Protein,GeneID,2890,GRIA1
+GeneID:2891,Protein,GeneID,2891,GRIA2
+GeneID:2892,Protein,GeneID,2892,GRIA3
+GeneID:2896,Protein,GeneID,2896,GRN
+GeneID:28960,Protein,GeneID,28960,DCPS
+GeneID:2897,Protein,GeneID,2897,GRIK1
+GeneID:2898,Protein,GeneID,2898,GRIK2
+GeneID:290,Protein,GeneID,290,ANPEP
+GeneID:2902,Protein,GeneID,2902,GRIN1
+GeneID:2903,Protein,GeneID,2903,GRIN2A
+GeneID:2904,Protein,GeneID,2904,GRIN2B
+GeneID:2905,Protein,GeneID,2905,GRIN2C
+GeneID:2906,Protein,GeneID,2906,GRIN2D
+GeneID:2908,Protein,GeneID,2908,NR3C1
+GeneID:291,Protein,GeneID,291,SLC25A4
+GeneID:2911,Protein,GeneID,2911,GRM1
+GeneID:2912,Protein,GeneID,2912,GRM2
+GeneID:2913,Protein,GeneID,2913,GRM3
+GeneID:2914,Protein,GeneID,2914,GRM4
+GeneID:2915,Protein,GeneID,2915,GRM5
+GeneID:2917,Protein,GeneID,2917,GRM7
+GeneID:2918,Protein,GeneID,2918,GRM8
+GeneID:2919,Protein,GeneID,2919,CXCL1
+GeneID:292,Protein,GeneID,292,SLC25A5
+GeneID:2920,Protein,GeneID,2920,CXCL2
+GeneID:293,Protein,GeneID,293,SLC25A6
+GeneID:2932,Protein,GeneID,2932,GSK3B
+GeneID:2936,Protein,GeneID,2936,GSR
+GeneID:2937,Protein,GeneID,2937,GSS
+GeneID:2938,Protein,GeneID,2938,GSTA1
+GeneID:2940,Protein,GeneID,2940,GSTA3
+GeneID:2941,Protein,GeneID,2941,GSTA4
+GeneID:2944,Protein,GeneID,2944,GSTM1
+GeneID:2946,Protein,GeneID,2946,GSTM2
+GeneID:2947,Protein,GeneID,2947,GSTM3
+GeneID:2948,Protein,GeneID,2948,GSTM4
+GeneID:2949,Protein,GeneID,2949,GSTM5
+GeneID:2950,Protein,GeneID,2950,GSTP1
+GeneID:2952,Protein,GeneID,2952,GSTT1
+GeneID:2954,Protein,GeneID,2954,GSTZ1
+GeneID:2977,Protein,GeneID,2977,GUCY1A2
+GeneID:2984,Protein,GeneID,2984,GUCY2C
+GeneID:29851,Protein,GeneID,29851,ICOS
+GeneID:29968,Protein,GeneID,29968,PSAT1
+GeneID:30009,Protein,GeneID,30009,TBX21
+GeneID:301,Protein,GeneID,301,ANXA1
+GeneID:3029,Protein,GeneID,3029,HAGH
+GeneID:3039,Protein,GeneID,3039,HBA1
+GeneID:3040,Protein,GeneID,3040,HBA2
+GeneID:3043,Protein,GeneID,3043,HBB
+GeneID:3053,Protein,GeneID,3053,SERPIND1
+GeneID:3060,Protein,GeneID,3060,HCRT
+GeneID:3062,Protein,GeneID,3062,HCRTR2
+GeneID:3065,Protein,GeneID,3065,HDAC1
+GeneID:3066,Protein,GeneID,3066,HDAC2
+GeneID:3068,Protein,GeneID,3068,HDGF
+GeneID:3082,Protein,GeneID,3082,HGF
+GeneID:30835,Protein,GeneID,30835,CD209
+GeneID:3084,Protein,GeneID,3084,NRG1
+GeneID:3091,Protein,GeneID,3091,HIF1A
+GeneID:31,Protein,GeneID,31,ACACA
+GeneID:3146,Protein,GeneID,3146,HMGB1
+GeneID:3156,Protein,GeneID,3156,HMGCR
+GeneID:3158,Protein,GeneID,3158,HMGCS2
+GeneID:316,Protein,GeneID,316,AOX1
+GeneID:3161,Protein,GeneID,3161,HMMR
+GeneID:3162,Protein,GeneID,3162,HMOX1
+GeneID:3172,Protein,GeneID,3172,HNF4A
+GeneID:3176,Protein,GeneID,3176,HNMT
+GeneID:32,Protein,GeneID,32,ACACB
+GeneID:3204,Protein,GeneID,3204,HOXA7
+GeneID:325,Protein,GeneID,325,APCS
+GeneID:3251,Protein,GeneID,3251,HPRT1
+GeneID:3269,Protein,GeneID,3269,HRH1
+GeneID:327,Protein,GeneID,327,APEH
+GeneID:3274,Protein,GeneID,3274,HRH2
+GeneID:328,Protein,GeneID,328,APEX1
+GeneID:3290,Protein,GeneID,3290,HSD11B1
+GeneID:3291,Protein,GeneID,3291,HSD11B2
+GeneID:3292,Protein,GeneID,3292,HSD17B1
+GeneID:3295,Protein,GeneID,3295,HSD17B4
+GeneID:331,Protein,GeneID,331,XIAP
+GeneID:3312,Protein,GeneID,3312,HSPA8
+GeneID:3315,Protein,GeneID,3315,HSPB1
+GeneID:332,Protein,GeneID,332,BIRC5
+GeneID:3320,Protein,GeneID,3320,HSP90AA1
+GeneID:3329,Protein,GeneID,3329,HSPD1
+GeneID:3350,Protein,GeneID,3350,HTR1A
+GeneID:3351,Protein,GeneID,3351,HTR1B
+GeneID:3352,Protein,GeneID,3352,HTR1D
+GeneID:3354,Protein,GeneID,3354,HTR1E
+GeneID:3355,Protein,GeneID,3355,HTR1F
+GeneID:3356,Protein,GeneID,3356,HTR2A
+GeneID:3357,Protein,GeneID,3357,HTR2B
+GeneID:3358,Protein,GeneID,3358,HTR2C
+GeneID:336,Protein,GeneID,336,APOA2
+GeneID:3360,Protein,GeneID,3360,HTR4
+GeneID:3362,Protein,GeneID,3362,HTR6
+GeneID:3363,Protein,GeneID,3363,HTR7
+GeneID:3371,Protein,GeneID,3371,TNC
+GeneID:3375,Protein,GeneID,3375,IAPP
+GeneID:3376,Protein,GeneID,3376,IARS
+GeneID:338,Protein,GeneID,338,APOB
+GeneID:3382,Protein,GeneID,3382,ICA1
+GeneID:3383,Protein,GeneID,3383,ICAM1
+GeneID:3416,Protein,GeneID,3416,IDE
+GeneID:345,Protein,GeneID,345,APOC3
+GeneID:3454,Protein,GeneID,3454,IFNAR1
+GeneID:3455,Protein,GeneID,3455,IFNAR2
+GeneID:3458,Protein,GeneID,3458,IFNG
+GeneID:3459,Protein,GeneID,3459,IFNGR1
+GeneID:3460,Protein,GeneID,3460,IFNGR2
+GeneID:348,Protein,GeneID,348,APOE
+GeneID:3480,Protein,GeneID,3480,IGF1R
+GeneID:3481,Protein,GeneID,3481,IGF2
+GeneID:3484,Protein,GeneID,3484,IGFBP1
+GeneID:3489,Protein,GeneID,3489,IGFBP6
+GeneID:3490,Protein,GeneID,3490,IGFBP7
+GeneID:350,Protein,GeneID,350,APOH
+GeneID:351,Protein,GeneID,351,APP
+GeneID:353,Protein,GeneID,353,APRT
+GeneID:354,Protein,GeneID,354,KLK3
+GeneID:3551,Protein,GeneID,3551,IKBKB
+GeneID:3553,Protein,GeneID,3553,IL1B
+GeneID:3554,Protein,GeneID,3554,IL1R1
+GeneID:3559,Protein,GeneID,3559,IL2RA
+GeneID:3560,Protein,GeneID,3560,IL2RB
+GeneID:3563,Protein,GeneID,3563,IL3RA
+GeneID:3565,Protein,GeneID,3565,IL4
+GeneID:3566,Protein,GeneID,3566,IL4R
+GeneID:3567,Protein,GeneID,3567,IL5
+GeneID:3569,Protein,GeneID,3569,IL6
+GeneID:3570,Protein,GeneID,3570,IL6R
+GeneID:3572,Protein,GeneID,3572,IL6ST
+GeneID:3575,Protein,GeneID,3575,IL7R
+GeneID:3576,Protein,GeneID,3576,IL8
+GeneID:3577,Protein,GeneID,3577,CXCR1
+GeneID:3578,Protein,GeneID,3578,IL9
+GeneID:3579,Protein,GeneID,3579,CXCR2
+GeneID:358,Protein,GeneID,358,AQP1
+GeneID:3586,Protein,GeneID,3586,IL10
+GeneID:3589,Protein,GeneID,3589,IL11
+GeneID:3592,Protein,GeneID,3592,IL12A
+GeneID:3596,Protein,GeneID,3596,IL13
+GeneID:3597,Protein,GeneID,3597,IL13RA1
+GeneID:36,Protein,GeneID,36,ACADSB
+GeneID:3600,Protein,GeneID,3600,IL15
+GeneID:3605,Protein,GeneID,3605,IL17A
+GeneID:3606,Protein,GeneID,3606,IL18
+GeneID:3611,Protein,GeneID,3611,ILK
+GeneID:3612,Protein,GeneID,3612,IMPA1
+GeneID:3613,Protein,GeneID,3613,IMPA2
+GeneID:3614,Protein,GeneID,3614,IMPDH1
+GeneID:3615,Protein,GeneID,3615,IMPDH2
+GeneID:3620,Protein,GeneID,3620,IDO1
+GeneID:3627,Protein,GeneID,3627,CXCL10
+GeneID:3628,Protein,GeneID,3628,INPP1
+GeneID:3643,Protein,GeneID,3643,INSR
+GeneID:3655,Protein,GeneID,3655,ITGA6
+GeneID:3661,Protein,GeneID,3661,IRF3
+GeneID:3667,Protein,GeneID,3667,IRS1
+GeneID:367,Protein,GeneID,367,AR
+GeneID:3673,Protein,GeneID,3673,ITGA2
+GeneID:3674,Protein,GeneID,3674,ITGA2B
+GeneID:3676,Protein,GeneID,3676,ITGA4
+GeneID:3678,Protein,GeneID,3678,ITGA5
+GeneID:3683,Protein,GeneID,3683,ITGAL
+GeneID:3684,Protein,GeneID,3684,ITGAM
+GeneID:3685,Protein,GeneID,3685,ITGAV
+GeneID:3688,Protein,GeneID,3688,ITGB1
+GeneID:3689,Protein,GeneID,3689,ITGB2
+GeneID:3690,Protein,GeneID,3690,ITGB3
+GeneID:3695,Protein,GeneID,3695,ITGB7
+GeneID:3702,Protein,GeneID,3702,ITK
+GeneID:3704,Protein,GeneID,3704,ITPA
+GeneID:3708,Protein,GeneID,3708,ITPR1
+GeneID:3709,Protein,GeneID,3709,ITPR2
+GeneID:3710,Protein,GeneID,3710,ITPR3
+GeneID:3716,Protein,GeneID,3716,JAK1
+GeneID:3717,Protein,GeneID,3717,JAK2
+GeneID:3718,Protein,GeneID,3718,JAK3
+GeneID:3725,Protein,GeneID,3725,JUN
+GeneID:373156,Protein,GeneID,373156,GSTK1
+GeneID:3736,Protein,GeneID,3736,KCNA1
+GeneID:3738,Protein,GeneID,3738,KCNA3
+GeneID:3741,Protein,GeneID,3741,KCNA5
+GeneID:3745,Protein,GeneID,3745,KCNB1
+GeneID:375,Protein,GeneID,375,ARF1
+GeneID:3751,Protein,GeneID,3751,KCND2
+GeneID:3752,Protein,GeneID,3752,KCND3
+GeneID:3753,Protein,GeneID,3753,KCNE1
+GeneID:3757,Protein,GeneID,3757,KCNH2
+GeneID:3758,Protein,GeneID,3758,KCNJ1
+GeneID:3762,Protein,GeneID,3762,KCNJ5
+GeneID:3764,Protein,GeneID,3764,KCNJ8
+GeneID:3766,Protein,GeneID,3766,KCNJ10
+GeneID:3767,Protein,GeneID,3767,KCNJ11
+GeneID:3768,Protein,GeneID,3768,KCNJ12
+GeneID:3775,Protein,GeneID,3775,KCNK1
+GeneID:3778,Protein,GeneID,3778,KCNMA1
+GeneID:3779,Protein,GeneID,3779,KCNMB1
+GeneID:3780,Protein,GeneID,3780,KCNN1
+GeneID:3781,Protein,GeneID,3781,KCNN2
+GeneID:3782,Protein,GeneID,3782,KCNN3
+GeneID:3783,Protein,GeneID,3783,KCNN4
+GeneID:3784,Protein,GeneID,3784,KCNQ1
+GeneID:3785,Protein,GeneID,3785,KCNQ2
+GeneID:3786,Protein,GeneID,3786,KCNQ3
+GeneID:3791,Protein,GeneID,3791,KDR
+GeneID:38,Protein,GeneID,38,ACAT1
+GeneID:3815,Protein,GeneID,3815,KIT
+GeneID:3817,Protein,GeneID,3817,KLK2
+GeneID:3818,Protein,GeneID,3818,KLKB1
+GeneID:3827,Protein,GeneID,3827,KNG1
+GeneID:3832,Protein,GeneID,3832,KIF11
+GeneID:384,Protein,GeneID,384,ARG2
+GeneID:3855,Protein,GeneID,3855,KRT7
+GeneID:3914,Protein,GeneID,3914,LAMB3
+GeneID:3925,Protein,GeneID,3925,STMN1
+GeneID:3932,Protein,GeneID,3932,LCK
+GeneID:3939,Protein,GeneID,3939,LDHA
+GeneID:3949,Protein,GeneID,3949,LDLR
+GeneID:3952,Protein,GeneID,3952,LEP
+GeneID:3953,Protein,GeneID,3953,LEPR
+GeneID:3958,Protein,GeneID,3958,LGALS3
+GeneID:3973,Protein,GeneID,3973,LHCGR
+GeneID:3976,Protein,GeneID,3976,LIF
+GeneID:3978,Protein,GeneID,3978,LIG1
+GeneID:3980,Protein,GeneID,3980,LIG3
+GeneID:3991,Protein,GeneID,3991,LIPE
+GeneID:3992,Protein,GeneID,3992,FADS1
+GeneID:40,Protein,GeneID,40,ASIC2
+GeneID:4005,Protein,GeneID,4005,LMO2
+GeneID:4015,Protein,GeneID,4015,LOX
+GeneID:4023,Protein,GeneID,4023,LPL
+GeneID:4035,Protein,GeneID,4035,LRP1
+GeneID:4036,Protein,GeneID,4036,LRP2
+GeneID:4047,Protein,GeneID,4047,LSS
+GeneID:4048,Protein,GeneID,4048,LTA4H
+GeneID:4049,Protein,GeneID,4049,LTA
+GeneID:4050,Protein,GeneID,4050,LTB
+GeneID:4056,Protein,GeneID,4056,LTC4S
+GeneID:4057,Protein,GeneID,4057,LTF
+GeneID:4069,Protein,GeneID,4069,LYZ
+GeneID:4072,Protein,GeneID,4072,EPCAM
+GeneID:4074,Protein,GeneID,4074,M6PR
+GeneID:41,Protein,GeneID,41,ASIC1
+GeneID:4102,Protein,GeneID,4102,MAGEA3
+GeneID:4103,Protein,GeneID,4103,MAGEA4
+GeneID:4128,Protein,GeneID,4128,MAOA
+GeneID:4129,Protein,GeneID,4129,MAOB
+GeneID:4130,Protein,GeneID,4130,MAP1A
+GeneID:4133,Protein,GeneID,4133,MAP2
+GeneID:4134,Protein,GeneID,4134,MAP4
+GeneID:4137,Protein,GeneID,4137,MAPT
+GeneID:4140,Protein,GeneID,4140,MARK3
+GeneID:4143,Protein,GeneID,4143,MAT1A
+GeneID:4144,Protein,GeneID,4144,MAT2A
+GeneID:4157,Protein,GeneID,4157,MC1R
+GeneID:4158,Protein,GeneID,4158,MC2R
+GeneID:4159,Protein,GeneID,4159,MC3R
+GeneID:4160,Protein,GeneID,4160,MC4R
+GeneID:4162,Protein,GeneID,4162,MCAM
+GeneID:4170,Protein,GeneID,4170,MCL1
+GeneID:4191,Protein,GeneID,4191,MDH2
+GeneID:4192,Protein,GeneID,4192,MDK
+GeneID:4193,Protein,GeneID,4193,MDM2
+GeneID:4214,Protein,GeneID,4214,MAP3K1
+GeneID:4215,Protein,GeneID,4215,MAP3K3
+GeneID:4216,Protein,GeneID,4216,MAP3K4
+GeneID:4233,Protein,GeneID,4233,MET
+GeneID:4240,Protein,GeneID,4240,MFGE8
+GeneID:4250,Protein,GeneID,4250,SCGB2A2
+GeneID:4255,Protein,GeneID,4255,MGMT
+GeneID:4257,Protein,GeneID,4257,MGST1
+GeneID:4258,Protein,GeneID,4258,MGST2
+GeneID:4259,Protein,GeneID,4259,MGST3
+GeneID:4282,Protein,GeneID,4282,MIF
+GeneID:4293,Protein,GeneID,4293,MAP3K9
+GeneID:4294,Protein,GeneID,4294,MAP3K10
+GeneID:43,Protein,GeneID,43,ACHE
+GeneID:4306,Protein,GeneID,4306,NR3C2
+GeneID:4311,Protein,GeneID,4311,MME
+GeneID:4312,Protein,GeneID,4312,MMP1
+GeneID:4313,Protein,GeneID,4313,MMP2
+GeneID:4314,Protein,GeneID,4314,MMP3
+GeneID:4316,Protein,GeneID,4316,MMP7
+GeneID:4317,Protein,GeneID,4317,MMP8
+GeneID:4318,Protein,GeneID,4318,MMP9
+GeneID:4320,Protein,GeneID,4320,MMP11
+GeneID:4321,Protein,GeneID,4321,MMP12
+GeneID:4322,Protein,GeneID,4322,MMP13
+GeneID:4323,Protein,GeneID,4323,MMP14
+GeneID:4340,Protein,GeneID,4340,MOG
+GeneID:4351,Protein,GeneID,4351,MPI
+GeneID:4352,Protein,GeneID,4352,MPL
+GeneID:4353,Protein,GeneID,4353,MPO
+GeneID:4363,Protein,GeneID,4363,ABCC1
+GeneID:4436,Protein,GeneID,4436,MSH2
+GeneID:444,Protein,GeneID,444,ASPH
+GeneID:4481,Protein,GeneID,4481,MSR1
+GeneID:4507,Protein,GeneID,4507,MTAP
+GeneID:4519,Protein,GeneID,4519,CYTB
+GeneID:4524,Protein,GeneID,4524,MTHFR
+GeneID:4535,Protein,GeneID,4535,ND1
+GeneID:4536,Protein,GeneID,4536,ND2
+GeneID:4537,Protein,GeneID,4537,ND3
+GeneID:4543,Protein,GeneID,4543,MTNR1A
+GeneID:4544,Protein,GeneID,4544,MTNR1B
+GeneID:4547,Protein,GeneID,4547,MTTP
+GeneID:4548,Protein,GeneID,4548,MTR
+GeneID:4552,Protein,GeneID,4552,MTRR
+GeneID:4582,Protein,GeneID,4582,MUC1
+GeneID:4594,Protein,GeneID,4594,MUT
+GeneID:4597,Protein,GeneID,4597,MVD
+GeneID:4602,Protein,GeneID,4602,MYB
+GeneID:4609,Protein,GeneID,4609,MYC
+GeneID:4613,Protein,GeneID,4613,MYCN
+GeneID:4615,Protein,GeneID,4615,MYD88
+GeneID:462,Protein,GeneID,462,SERPINC1
+GeneID:4638,Protein,GeneID,4638,MYLK
+GeneID:4668,Protein,GeneID,4668,NAGA
+GeneID:4669,Protein,GeneID,4669,NAGLU
+GeneID:4680,Protein,GeneID,4680,CEACAM6
+GeneID:4691,Protein,GeneID,4691,NCL
+GeneID:47,Protein,GeneID,47,ACLY
+GeneID:471,Protein,GeneID,471,ATIC
+GeneID:4718,Protein,GeneID,4718,NDUFC2
+GeneID:4758,Protein,GeneID,4758,NEU1
+GeneID:476,Protein,GeneID,476,ATP1A1
+GeneID:477,Protein,GeneID,477,ATP1A2
+GeneID:4790,Protein,GeneID,4790,NFKB1
+GeneID:4791,Protein,GeneID,4791,NFKB2
+GeneID:4804,Protein,GeneID,4804,NGFR
+GeneID:4835,Protein,GeneID,4835,NQO2
+GeneID:4837,Protein,GeneID,4837,NNMT
+GeneID:4842,Protein,GeneID,4842,NOS1
+GeneID:4843,Protein,GeneID,4843,NOS2
+GeneID:4846,Protein,GeneID,4846,NOS3
+GeneID:4852,Protein,GeneID,4852,NPY
+GeneID:4856,Protein,GeneID,4856,NOV
+GeneID:4860,Protein,GeneID,4860,PNP
+GeneID:4879,Protein,GeneID,4879,NPPB
+GeneID:488,Protein,GeneID,488,ATP2A2
+GeneID:4881,Protein,GeneID,4881,NPR1
+GeneID:4882,Protein,GeneID,4882,NPR2
+GeneID:4886,Protein,GeneID,4886,NPY1R
+GeneID:4887,Protein,GeneID,4887,NPY2R
+GeneID:4889,Protein,GeneID,4889,NPY5R
+GeneID:4907,Protein,GeneID,4907,NT5E
+GeneID:4908,Protein,GeneID,4908,NTF3
+GeneID:4914,Protein,GeneID,4914,NTRK1
+GeneID:4915,Protein,GeneID,4915,NTRK2
+GeneID:4923,Protein,GeneID,4923,NTSR1
+GeneID:4929,Protein,GeneID,4929,NR4A2
+GeneID:4942,Protein,GeneID,4942,OAT
+GeneID:495,Protein,GeneID,495,ATP4A
+GeneID:4953,Protein,GeneID,4953,ODC1
+GeneID:4967,Protein,GeneID,4967,OGDH
+GeneID:4982,Protein,GeneID,4982,TNFRSF11B
+GeneID:4983,Protein,GeneID,4983,OPHN1
+GeneID:4985,Protein,GeneID,4985,OPRD1
+GeneID:4986,Protein,GeneID,4986,OPRK1
+GeneID:4987,Protein,GeneID,4987,OPRL1
+GeneID:4988,Protein,GeneID,4988,OPRM1
+GeneID:5008,Protein,GeneID,5008,OSM
+GeneID:5019,Protein,GeneID,5019,OXCT1
+GeneID:5020,Protein,GeneID,5020,OXT
+GeneID:5021,Protein,GeneID,5021,OXTR
+GeneID:5024,Protein,GeneID,5024,P2RX3
+GeneID:5025,Protein,GeneID,5025,P2RX4
+GeneID:5027,Protein,GeneID,5027,P2RX7
+GeneID:5028,Protein,GeneID,5028,P2RY1
+GeneID:5029,Protein,GeneID,5029,P2RY2
+GeneID:5033,Protein,GeneID,5033,P4HA1
+GeneID:5047,Protein,GeneID,5047,PAEP
+GeneID:50484,Protein,GeneID,50484,RRM2B
+GeneID:5053,Protein,GeneID,5053,PAH
+GeneID:5054,Protein,GeneID,5054,SERPINE1
+GeneID:5066,Protein,GeneID,5066,PAM
+GeneID:5079,Protein,GeneID,5079,PAX5
+GeneID:51053,Protein,GeneID,51053,GMNN
+GeneID:51060,Protein,GeneID,51060,TXNDC12
+GeneID:51083,Protein,GeneID,51083,GAL
+GeneID:51109,Protein,GeneID,51109,RDH11
+GeneID:5111,Protein,GeneID,5111,PCNA
+GeneID:51135,Protein,GeneID,51135,IRAK4
+GeneID:51175,Protein,GeneID,51175,TUBE1
+GeneID:5122,Protein,GeneID,5122,PCSK1
+GeneID:51228,Protein,GeneID,51228,GLTP
+GeneID:5126,Protein,GeneID,5126,PCSK2
+GeneID:51268,Protein,GeneID,51268,PIPOX
+GeneID:51284,Protein,GeneID,51284,TLR7
+GeneID:513,Protein,GeneID,513,ATP5D
+GeneID:5136,Protein,GeneID,5136,PDE1A
+GeneID:5138,Protein,GeneID,5138,PDE2A
+GeneID:5139,Protein,GeneID,5139,PDE3A
+GeneID:5141,Protein,GeneID,5141,PDE4A
+GeneID:5142,Protein,GeneID,5142,PDE4B
+GeneID:5143,Protein,GeneID,5143,PDE4C
+GeneID:5144,Protein,GeneID,5144,PDE4D
+GeneID:5148,Protein,GeneID,5148,PDE6G
+GeneID:51493,Protein,GeneID,51493,RTCB
+GeneID:5151,Protein,GeneID,5151,PDE8A
+GeneID:5153,Protein,GeneID,5153,PDE1B
+GeneID:5154,Protein,GeneID,5154,PDGFA
+GeneID:51540,Protein,GeneID,51540,SCLY
+GeneID:5155,Protein,GeneID,5155,PDGFB
+GeneID:5156,Protein,GeneID,5156,PDGFRA
+GeneID:51561,Protein,GeneID,51561,IL23A
+GeneID:5159,Protein,GeneID,5159,PDGFRB
+GeneID:5167,Protein,GeneID,5167,ENPP1
+GeneID:5170,Protein,GeneID,5170,PDPK1
+GeneID:51738,Protein,GeneID,51738,GHRL
+GeneID:5175,Protein,GeneID,5175,PECAM1
+GeneID:5176,Protein,GeneID,5176,SERPINF1
+GeneID:5226,Protein,GeneID,5226,PGD
+GeneID:5228,Protein,GeneID,5228,PGF
+GeneID:523,Protein,GeneID,523,ATP6V1A
+GeneID:5241,Protein,GeneID,5241,PGR
+GeneID:5243,Protein,GeneID,5243,ABCB1
+GeneID:5244,Protein,GeneID,5244,ABCB4
+GeneID:5264,Protein,GeneID,5264,PHYH
+GeneID:5265,Protein,GeneID,5265,SERPINA1
+GeneID:5268,Protein,GeneID,5268,SERPINB5
+GeneID:5286,Protein,GeneID,5286,PIK3C2A
+GeneID:5294,Protein,GeneID,5294,PIK3CG
+GeneID:5295,Protein,GeneID,5295,PIK3R1
+GeneID:5296,Protein,GeneID,5296,PIK3R2
+GeneID:5300,Protein,GeneID,5300,PIN1
+GeneID:5319,Protein,GeneID,5319,PLA2G1B
+GeneID:5320,Protein,GeneID,5320,PLA2G2A
+GeneID:5321,Protein,GeneID,5321,PLA2G4A
+GeneID:5327,Protein,GeneID,5327,PLAT
+GeneID:5328,Protein,GeneID,5328,PLAU
+GeneID:5329,Protein,GeneID,5329,PLAUR
+GeneID:5334,Protein,GeneID,5334,PLCL1
+GeneID:5337,Protein,GeneID,5337,PLD1
+GeneID:5340,Protein,GeneID,5340,PLG
+GeneID:5346,Protein,GeneID,5346,PLIN1
+GeneID:5347,Protein,GeneID,5347,PLK1
+GeneID:5351,Protein,GeneID,5351,PLOD1
+GeneID:5352,Protein,GeneID,5352,PLOD2
+GeneID:5360,Protein,GeneID,5360,PLTP
+GeneID:53637,Protein,GeneID,53637,S1PR5
+GeneID:5406,Protein,GeneID,5406,PNLIP
+GeneID:54106,Protein,GeneID,54106,TLR9
+GeneID:54107,Protein,GeneID,54107,POLE3
+GeneID:54205,Protein,GeneID,54205,CYCS
+GeneID:5422,Protein,GeneID,5422,POLA1
+GeneID:5423,Protein,GeneID,5423,POLB
+GeneID:5426,Protein,GeneID,5426,POLE
+GeneID:5427,Protein,GeneID,5427,POLE2
+GeneID:5443,Protein,GeneID,5443,POMC
+GeneID:5444,Protein,GeneID,5444,PON1
+GeneID:54541,Protein,GeneID,54541,DDIT4
+GeneID:54583,Protein,GeneID,54583,EGLN1
+GeneID:5465,Protein,GeneID,5465,PPARA
+GeneID:5467,Protein,GeneID,5467,PPARD
+GeneID:5468,Protein,GeneID,5468,PPARG
+GeneID:54681,Protein,GeneID,54681,P4HTM
+GeneID:5478,Protein,GeneID,5478,PPIA
+GeneID:5479,Protein,GeneID,5479,PPIB
+GeneID:5501,Protein,GeneID,5501,PPP1CC
+GeneID:551,Protein,GeneID,551,AVP
+GeneID:5515,Protein,GeneID,5515,PPP2CA
+GeneID:5516,Protein,GeneID,5516,PPP2CB
+GeneID:552,Protein,GeneID,552,AVPR1A
+GeneID:55217,Protein,GeneID,55217,TMLHE
+GeneID:55239,Protein,GeneID,55239,OGFOD1
+GeneID:5525,Protein,GeneID,5525,PPP2R5A
+GeneID:553,Protein,GeneID,553,AVPR1B
+GeneID:55304,Protein,GeneID,55304,SPTLC3
+GeneID:5535,Protein,GeneID,5535,PPP3R2
+GeneID:554,Protein,GeneID,554,AVPR2
+GeneID:5540,Protein,GeneID,5540,NPY4R
+GeneID:55503,Protein,GeneID,55503,TRPV6
+GeneID:5564,Protein,GeneID,5564,PRKAB1
+GeneID:5573,Protein,GeneID,5573,PRKAR1A
+GeneID:5577,Protein,GeneID,5577,PRKAR2B
+GeneID:5578,Protein,GeneID,5578,PRKCA
+GeneID:5579,Protein,GeneID,5579,PRKCB
+GeneID:5580,Protein,GeneID,5580,PRKCD
+GeneID:5581,Protein,GeneID,5581,PRKCE
+GeneID:5582,Protein,GeneID,5582,PRKCG
+GeneID:5588,Protein,GeneID,5588,PRKCQ
+GeneID:5590,Protein,GeneID,5590,PRKCZ
+GeneID:5594,Protein,GeneID,5594,MAPK1
+GeneID:5595,Protein,GeneID,5595,MAPK3
+GeneID:5599,Protein,GeneID,5599,MAPK8
+GeneID:5600,Protein,GeneID,5600,MAPK11
+GeneID:5601,Protein,GeneID,5601,MAPK9
+GeneID:5604,Protein,GeneID,5604,MAP2K1
+GeneID:5605,Protein,GeneID,5605,MAP2K2
+GeneID:5607,Protein,GeneID,5607,MAP2K5
+GeneID:5609,Protein,GeneID,5609,MAP2K7
+GeneID:5617,Protein,GeneID,5617,PRL
+GeneID:5618,Protein,GeneID,5618,PRLR
+GeneID:5621,Protein,GeneID,5621,PRNP
+GeneID:5624,Protein,GeneID,5624,PROC
+GeneID:56479,Protein,GeneID,56479,KCNQ5
+GeneID:5650,Protein,GeneID,5650,KLK7
+GeneID:5653,Protein,GeneID,5653,KLK6
+GeneID:56616,Protein,GeneID,56616,DIABLO
+GeneID:5663,Protein,GeneID,5663,PSEN1
+GeneID:5664,Protein,GeneID,5664,PSEN2
+GeneID:56655,Protein,GeneID,56655,POLE4
+GeneID:5689,Protein,GeneID,5689,PSMB1
+GeneID:5690,Protein,GeneID,5690,PSMB2
+GeneID:5693,Protein,GeneID,5693,PSMB5
+GeneID:5696,Protein,GeneID,5696,PSMB8
+GeneID:5697,Protein,GeneID,5697,PYY
+GeneID:5698,Protein,GeneID,5698,PSMB9
+GeneID:5699,Protein,GeneID,5699,PSMB10
+GeneID:570,Protein,GeneID,570,BAAT
+GeneID:57026,Protein,GeneID,57026,PDXP
+GeneID:5707,Protein,GeneID,5707,PSMD1
+GeneID:5708,Protein,GeneID,5708,PSMD2
+GeneID:5724,Protein,GeneID,5724,PTAFR
+GeneID:5729,Protein,GeneID,5729,PTGDR
+GeneID:5731,Protein,GeneID,5731,PTGER1
+GeneID:5732,Protein,GeneID,5732,PTGER2
+GeneID:5733,Protein,GeneID,5733,PTGER3
+GeneID:5734,Protein,GeneID,5734,PTGER4
+GeneID:5737,Protein,GeneID,5737,PTGFR
+GeneID:5739,Protein,GeneID,5739,PTGIR
+GeneID:5740,Protein,GeneID,5740,PTGIS
+GeneID:5742,Protein,GeneID,5742,PTGS1
+GeneID:5743,Protein,GeneID,5743,PTGS2
+GeneID:5745,Protein,GeneID,5745,PTH1R
+GeneID:5746,Protein,GeneID,5746,PTH2R
+GeneID:57505,Protein,GeneID,57505,AARS2
+GeneID:5753,Protein,GeneID,5753,PTK6
+GeneID:57628,Protein,GeneID,57628,DPP10
+GeneID:5764,Protein,GeneID,5764,PTN
+GeneID:5770,Protein,GeneID,5770,PTPN1
+GeneID:5775,Protein,GeneID,5775,PTPN4
+GeneID:5777,Protein,GeneID,5777,PTPN6
+GeneID:5781,Protein,GeneID,5781,PTPN11
+GeneID:5788,Protein,GeneID,5788,PTPRC
+GeneID:5791,Protein,GeneID,5791,PTPRE
+GeneID:58,Protein,GeneID,58,ACTA1
+GeneID:5802,Protein,GeneID,5802,PTPRS
+GeneID:5803,Protein,GeneID,5803,PTPRZ1
+GeneID:58190,Protein,GeneID,58190,CTDSP1
+GeneID:5834,Protein,GeneID,5834,PYGB
+GeneID:5836,Protein,GeneID,5836,PYGL
+GeneID:5837,Protein,GeneID,5837,PYGM
+GeneID:586,Protein,GeneID,586,BCAT1
+GeneID:587,Protein,GeneID,587,BCAT2
+GeneID:5888,Protein,GeneID,5888,RAD51
+GeneID:5894,Protein,GeneID,5894,RAF1
+GeneID:590,Protein,GeneID,590,BCHE
+GeneID:5914,Protein,GeneID,5914,RARA
+GeneID:5915,Protein,GeneID,5915,RARB
+GeneID:5916,Protein,GeneID,5916,RARG
+GeneID:5925,Protein,GeneID,5925,RB1
+GeneID:59272,Protein,GeneID,59272,ACE2
+GeneID:5947,Protein,GeneID,5947,RBP1
+GeneID:595,Protein,GeneID,595,CCND1
+GeneID:5957,Protein,GeneID,5957,RCVRN
+GeneID:5959,Protein,GeneID,5959,RDH5
+GeneID:596,Protein,GeneID,596,BCL2
+GeneID:5966,Protein,GeneID,5966,REL
+GeneID:5970,Protein,GeneID,5970,RELA
+GeneID:5972,Protein,GeneID,5972,REN
+GeneID:5973,Protein,GeneID,5973,RENBP
+GeneID:5979,Protein,GeneID,5979,RET
+GeneID:598,Protein,GeneID,598,BCL2L1
+GeneID:599,Protein,GeneID,599,BCL2L2
+GeneID:6010,Protein,GeneID,6010,RHO
+GeneID:6017,Protein,GeneID,6017,RLBP1
+GeneID:6035,Protein,GeneID,6035,RNASE1
+GeneID:608,Protein,GeneID,608,TNFRSF17
+GeneID:6093,Protein,GeneID,6093,ROCK1
+GeneID:6122,Protein,GeneID,6122,RPL3
+GeneID:6198,Protein,GeneID,6198,RPS6KB1
+GeneID:6206,Protein,GeneID,6206,RPS12
+GeneID:623,Protein,GeneID,623,BDKRB1
+GeneID:624,Protein,GeneID,624,BDKRB2
+GeneID:6240,Protein,GeneID,6240,RRM1
+GeneID:6241,Protein,GeneID,6241,RRM2
+GeneID:6256,Protein,GeneID,6256,RXRA
+GeneID:6257,Protein,GeneID,6257,RXRB
+GeneID:6258,Protein,GeneID,6258,RXRG
+GeneID:6261,Protein,GeneID,6261,RYR1
+GeneID:6262,Protein,GeneID,6262,RYR2
+GeneID:6263,Protein,GeneID,6263,RYR3
+GeneID:6271,Protein,GeneID,6271,S100A1
+GeneID:6273,Protein,GeneID,6273,S100A2
+GeneID:6279,Protein,GeneID,6279,S100A8
+GeneID:6280,Protein,GeneID,6280,S100A9
+GeneID:6283,Protein,GeneID,6283,S100A12
+GeneID:6284,Protein,GeneID,6284,S100A13
+GeneID:6285,Protein,GeneID,6285,S100B
+GeneID:6300,Protein,GeneID,6300,MAPK12
+GeneID:6319,Protein,GeneID,6319,SCD
+GeneID:632,Protein,GeneID,632,BGLAP
+GeneID:6323,Protein,GeneID,6323,SCN1A
+GeneID:6324,Protein,GeneID,6324,SCN1B
+GeneID:6326,Protein,GeneID,6326,SCN2A
+GeneID:6328,Protein,GeneID,6328,SCN3A
+GeneID:6329,Protein,GeneID,6329,SCN4A
+GeneID:6331,Protein,GeneID,6331,SCN5A
+GeneID:6336,Protein,GeneID,6336,SCN10A
+GeneID:6337,Protein,GeneID,6337,SCNN1A
+GeneID:6338,Protein,GeneID,6338,SCNN1B
+GeneID:6339,Protein,GeneID,6339,SCNN1D
+GeneID:6340,Protein,GeneID,6340,SCNN1G
+GeneID:6344,Protein,GeneID,6344,SCTR
+GeneID:6347,Protein,GeneID,6347,CCL2
+GeneID:6348,Protein,GeneID,6348,CCL3
+GeneID:635,Protein,GeneID,635,BHMT
+GeneID:6376,Protein,GeneID,6376,CX3CL1
+GeneID:63826,Protein,GeneID,63826,SRR
+GeneID:6387,Protein,GeneID,6387,CXCL12
+GeneID:6389,Protein,GeneID,6389,SDHA
+GeneID:6390,Protein,GeneID,6390,SDHB
+GeneID:6391,Protein,GeneID,6391,SDHC
+GeneID:6401,Protein,GeneID,6401,SELE
+GeneID:6402,Protein,GeneID,6402,SELL
+GeneID:6403,Protein,GeneID,6403,SELP
+GeneID:64064,Protein,GeneID,64064,OXCT2
+GeneID:64175,Protein,GeneID,64175,LEPRE1
+GeneID:643,Protein,GeneID,643,CXCR5
+GeneID:64324,Protein,GeneID,64324,NSD1
+GeneID:644,Protein,GeneID,644,BLVRA
+GeneID:6446,Protein,GeneID,6446,SGK1
+GeneID:645,Protein,GeneID,645,BLVRB
+GeneID:6470,Protein,GeneID,6470,SHMT1
+GeneID:6472,Protein,GeneID,6472,SHMT2
+GeneID:6502,Protein,GeneID,6502,SKP2
+GeneID:65078,Protein,GeneID,65078,RTN4R
+GeneID:6509,Protein,GeneID,6509,SLC1A4
+GeneID:6513,Protein,GeneID,6513,SLC2A1
+GeneID:6517,Protein,GeneID,6517,SLC2A4
+GeneID:6528,Protein,GeneID,6528,SLC5A5
+GeneID:6529,Protein,GeneID,6529,SLC6A1
+GeneID:6530,Protein,GeneID,6530,SLC6A2
+GeneID:6531,Protein,GeneID,6531,SLC6A3
+GeneID:6532,Protein,GeneID,6532,SLC6A4
+GeneID:653361,Protein,GeneID,653361,NCF1
+GeneID:6535,Protein,GeneID,6535,SLC6A8
+GeneID:6536,Protein,GeneID,6536,SLC6A9
+GeneID:6541,Protein,GeneID,6541,SLC7A1
+GeneID:6546,Protein,GeneID,6546,SLC8A1
+GeneID:6548,Protein,GeneID,6548,SLC9A1
+GeneID:6555,Protein,GeneID,6555,SLC10A2
+GeneID:6557,Protein,GeneID,6557,SLC12A1
+GeneID:6558,Protein,GeneID,6558,SLC12A2
+GeneID:6559,Protein,GeneID,6559,SLC12A3
+GeneID:6560,Protein,GeneID,6560,SLC12A4
+GeneID:6566,Protein,GeneID,6566,SLC16A1
+GeneID:6571,Protein,GeneID,6571,SLC18A2
+GeneID:6583,Protein,GeneID,6583,SLC22A4
+GeneID:6584,Protein,GeneID,6584,SLC22A5
+GeneID:6608,Protein,GeneID,6608,SMO
+GeneID:6609,Protein,GeneID,6609,SMPD1
+GeneID:6610,Protein,GeneID,6610,SMPD2
+GeneID:6616,Protein,GeneID,6616,SNAP25
+GeneID:6623,Protein,GeneID,6623,SNCG
+GeneID:6624,Protein,GeneID,6624,FSCN1
+GeneID:6646,Protein,GeneID,6646,SOAT1
+GeneID:6647,Protein,GeneID,6647,SOD1
+GeneID:6652,Protein,GeneID,6652,SORD
+GeneID:6693,Protein,GeneID,6693,SPN
+GeneID:6696,Protein,GeneID,6696,SPP1
+GeneID:6713,Protein,GeneID,6713,SQLE
+GeneID:6714,Protein,GeneID,6714,SRC
+GeneID:673,Protein,GeneID,673,BRAF
+GeneID:675,Protein,GeneID,675,BRCA2
+GeneID:6750,Protein,GeneID,6750,SST
+GeneID:6751,Protein,GeneID,6751,SSTR1
+GeneID:6752,Protein,GeneID,6752,SSTR2
+GeneID:6753,Protein,GeneID,6753,SSTR3
+GeneID:6755,Protein,GeneID,6755,SSTR5
+GeneID:6768,Protein,GeneID,6768,ST14
+GeneID:6772,Protein,GeneID,6772,STAT1
+GeneID:6774,Protein,GeneID,6774,STAT3
+GeneID:6777,Protein,GeneID,6777,STAT5B
+GeneID:6785,Protein,GeneID,6785,ELOVL4
+GeneID:6790,Protein,GeneID,6790,AURKA
+GeneID:6795,Protein,GeneID,6795,AURKC
+GeneID:683,Protein,GeneID,683,BST1
+GeneID:6833,Protein,GeneID,6833,ABCC8
+GeneID:6843,Protein,GeneID,6843,VAMP1
+GeneID:6844,Protein,GeneID,6844,VAMP2
+GeneID:6850,Protein,GeneID,6850,SYK
+GeneID:6865,Protein,GeneID,6865,TACR2
+GeneID:6868,Protein,GeneID,6868,ADAM17
+GeneID:6869,Protein,GeneID,6869,TACR1
+GeneID:6870,Protein,GeneID,6870,TACR3
+GeneID:6900,Protein,GeneID,6900,CNTN2
+GeneID:6915,Protein,GeneID,6915,TBXA2R
+GeneID:6916,Protein,GeneID,6916,TBXAS1
+GeneID:6927,Protein,GeneID,6927,HNF1A
+GeneID:695,Protein,GeneID,695,BTK
+GeneID:6997,Protein,GeneID,6997,TDGF1
+GeneID:7009,Protein,GeneID,7009,TMBIM6
+GeneID:7010,Protein,GeneID,7010,TEK
+GeneID:7011,Protein,GeneID,7011,TEP1
+GeneID:7015,Protein,GeneID,7015,TERT
+GeneID:7037,Protein,GeneID,7037,TFRC
+GeneID:7039,Protein,GeneID,7039,TGFA
+GeneID:7040,Protein,GeneID,7040,TGFB1
+GeneID:7042,Protein,GeneID,7042,TGFB2
+GeneID:7046,Protein,GeneID,7046,TGFBR1
+GeneID:7048,Protein,GeneID,7048,TGFBR2
+GeneID:7052,Protein,GeneID,7052,TGM2
+GeneID:7054,Protein,GeneID,7054,TH
+GeneID:7056,Protein,GeneID,7056,THBD
+GeneID:706,Protein,GeneID,706,TSPO
+GeneID:7067,Protein,GeneID,7067,THRA
+GeneID:7068,Protein,GeneID,7068,THRB
+GeneID:7086,Protein,GeneID,7086,TKT
+GeneID:7098,Protein,GeneID,7098,TLR3
+GeneID:7099,Protein,GeneID,7099,TLR4
+GeneID:7102,Protein,GeneID,7102,TSPAN7
+GeneID:7113,Protein,GeneID,7113,TMPRSS2
+GeneID:7124,Protein,GeneID,7124,TNF
+GeneID:7125,Protein,GeneID,7125,TNNC2
+GeneID:7133,Protein,GeneID,7133,TNFRSF1B
+GeneID:7134,Protein,GeneID,7134,TNNC1
+GeneID:7150,Protein,GeneID,7150,TOP1
+GeneID:7153,Protein,GeneID,7153,TOP2A
+GeneID:7155,Protein,GeneID,7155,TOP2B
+GeneID:7157,Protein,GeneID,7157,TP53
+GeneID:716,Protein,GeneID,716,C1S
+GeneID:7162,Protein,GeneID,7162,TPBG
+GeneID:7166,Protein,GeneID,7166,TPH1
+GeneID:7173,Protein,GeneID,7173,TPO
+GeneID:7174,Protein,GeneID,7174,TPP2
+GeneID:718,Protein,GeneID,718,C3
+GeneID:7184,Protein,GeneID,7184,HSP90B1
+GeneID:7201,Protein,GeneID,7201,TRHR
+GeneID:727,Protein,GeneID,727,C5
+GeneID:7272,Protein,GeneID,7272,TTK
+GeneID:7276,Protein,GeneID,7276,TTR
+GeneID:7277,Protein,GeneID,7277,TUBA4A
+GeneID:7283,Protein,GeneID,7283,TUBG1
+GeneID:729230,Protein,GeneID,729230,CCR2
+GeneID:7293,Protein,GeneID,7293,TNFRSF4
+GeneID:7295,Protein,GeneID,7295,TXN
+GeneID:7296,Protein,GeneID,7296,TXNRD1
+GeneID:7298,Protein,GeneID,7298,TYMS
+GeneID:7299,Protein,GeneID,7299,TYR
+GeneID:7345,Protein,GeneID,7345,UCHL1
+GeneID:7350,Protein,GeneID,7350,UCP1
+GeneID:7351,Protein,GeneID,7351,UCP2
+GeneID:7352,Protein,GeneID,7352,UCP3
+GeneID:7357,Protein,GeneID,7357,UGCG
+GeneID:7371,Protein,GeneID,7371,UCK2
+GeneID:7376,Protein,GeneID,7376,NR1H2
+GeneID:7412,Protein,GeneID,7412,VCAM1
+GeneID:7417,Protein,GeneID,7417,VDAC2
+GeneID:7419,Protein,GeneID,7419,VDAC3
+GeneID:7421,Protein,GeneID,7421,VDR
+GeneID:7422,Protein,GeneID,7422,VEGFA
+GeneID:7423,Protein,GeneID,7423,VEGFB
+GeneID:7433,Protein,GeneID,7433,VIPR1
+GeneID:7442,Protein,GeneID,7442,TRPV1
+GeneID:7450,Protein,GeneID,7450,VWF
+GeneID:7465,Protein,GeneID,7465,WEE1
+GeneID:7490,Protein,GeneID,7490,WT1
+GeneID:7507,Protein,GeneID,7507,XPA
+GeneID:7525,Protein,GeneID,7525,YES1
+GeneID:759,Protein,GeneID,759,CA1
+GeneID:760,Protein,GeneID,760,CA2
+GeneID:761,Protein,GeneID,761,CA3
+GeneID:762,Protein,GeneID,762,CA4
+GeneID:763,Protein,GeneID,763,CA5A
+GeneID:765,Protein,GeneID,765,CA6
+GeneID:767,Protein,GeneID,767,CA8
+GeneID:768,Protein,GeneID,768,CA9
+GeneID:770,Protein,GeneID,770,CA11
+GeneID:7705,Protein,GeneID,7705,ZNF146
+GeneID:771,Protein,GeneID,771,CA12
+GeneID:773,Protein,GeneID,773,CACNA1A
+GeneID:774,Protein,GeneID,774,CACNA1B
+GeneID:775,Protein,GeneID,775,CACNA1C
+GeneID:7753,Protein,GeneID,7753,ZNF202
+GeneID:776,Protein,GeneID,776,CACNA1D
+GeneID:777,Protein,GeneID,777,CACNA1E
+GeneID:778,Protein,GeneID,778,CACNA1F
+GeneID:779,Protein,GeneID,779,CACNA1S
+GeneID:780,Protein,GeneID,780,DDR1
+GeneID:781,Protein,GeneID,781,CACNA2D1
+GeneID:782,Protein,GeneID,782,CACNB1
+GeneID:783,Protein,GeneID,783,CACNB2
+GeneID:784,Protein,GeneID,784,CACNB3
+GeneID:7846,Protein,GeneID,7846,TUBA1A
+GeneID:785,Protein,GeneID,785,CACNB4
+GeneID:7852,Protein,GeneID,7852,CXCR4
+GeneID:788,Protein,GeneID,788,SLC25A20
+GeneID:790,Protein,GeneID,790,CAD
+GeneID:79001,Protein,GeneID,79001,VKORC1
+GeneID:79054,Protein,GeneID,79054,TRPM8
+GeneID:7915,Protein,GeneID,7915,ALDH5A1
+GeneID:796,Protein,GeneID,796,CALCA
+GeneID:799,Protein,GeneID,799,CALCR
+GeneID:801,Protein,GeneID,801,CALM1
+GeneID:8031,Protein,GeneID,8031,NCOA4
+GeneID:8061,Protein,GeneID,8061,FOSL1
+GeneID:81027,Protein,GeneID,81027,TUBB1
+GeneID:811,Protein,GeneID,811,CALR
+GeneID:8115,Protein,GeneID,8115,TCL1A
+GeneID:81607,Protein,GeneID,81607,PVRL4
+GeneID:8174,Protein,GeneID,8174,MADCAM1
+GeneID:818,Protein,GeneID,818,CAMK2G
+GeneID:819,Protein,GeneID,819,CAMLG
+GeneID:8202,Protein,GeneID,8202,NCOA3
+GeneID:8284,Protein,GeneID,8284,KDM5D
+GeneID:834,Protein,GeneID,834,CASP1
+GeneID:836,Protein,GeneID,836,CASP3
+GeneID:8398,Protein,GeneID,8398,PLA2G6
+GeneID:842,Protein,GeneID,842,CASP9
+GeneID:8424,Protein,GeneID,8424,BBOX1
+GeneID:8431,Protein,GeneID,8431,NR0B2
+GeneID:846,Protein,GeneID,846,CASR
+GeneID:84634,Protein,GeneID,84634,KISS1R
+GeneID:84790,Protein,GeneID,84790,TUBA1C
+GeneID:84876,Protein,GeneID,84876,ORAI1
+GeneID:85007,Protein,GeneID,85007,PHYKPL
+GeneID:8503,Protein,GeneID,8503,PIK3R3
+GeneID:8566,Protein,GeneID,8566,PDXK
+GeneID:857,Protein,GeneID,857,CAV1
+GeneID:8581,Protein,GeneID,8581,LY6D
+GeneID:8600,Protein,GeneID,8600,TNFSF11
+GeneID:8639,Protein,GeneID,8639,AOC3
+GeneID:8644,Protein,GeneID,8644,AKR1C3
+GeneID:8647,Protein,GeneID,8647,ABCB11
+GeneID:8648,Protein,GeneID,8648,NCOA1
+GeneID:8654,Protein,GeneID,8654,PDE5A
+GeneID:866,Protein,GeneID,866,SERPINA6
+GeneID:8694,Protein,GeneID,8694,DGAT1
+GeneID:8720,Protein,GeneID,8720,MBTPS1
+GeneID:875,Protein,GeneID,875,CBS
+GeneID:8795,Protein,GeneID,8795,TNFRSF10B
+GeneID:8797,Protein,GeneID,8797,TNFRSF10A
+GeneID:8801,Protein,GeneID,8801,SUCLG2
+GeneID:8802,Protein,GeneID,8802,SUCLG1
+GeneID:8803,Protein,GeneID,8803,SUCLA2
+GeneID:8811,Protein,GeneID,8811,GALR2
+GeneID:8829,Protein,GeneID,8829,NRP1
+GeneID:883,Protein,GeneID,883,CCBL1
+GeneID:8833,Protein,GeneID,8833,GMPS
+GeneID:8836,Protein,GeneID,8836,GGH
+GeneID:8837,Protein,GeneID,8837,CFLAR
+GeneID:8841,Protein,GeneID,8841,HDAC3
+GeneID:885,Protein,GeneID,885,CCK
+GeneID:8854,Protein,GeneID,8854,ALDH1A2
+GeneID:8856,Protein,GeneID,8856,NR1I2
+GeneID:886,Protein,GeneID,886,CCKAR
+GeneID:887,Protein,GeneID,887,CCKBR
+GeneID:8877,Protein,GeneID,8877,SPHK1
+GeneID:8879,Protein,GeneID,8879,SGPL1
+GeneID:891,Protein,GeneID,891,CCNB1
+GeneID:8912,Protein,GeneID,8912,CACNA1H
+GeneID:8913,Protein,GeneID,8913,CACNA1G
+GeneID:8942,Protein,GeneID,8942,KYNU
+GeneID:8972,Protein,GeneID,8972,MGAM
+GeneID:8974,Protein,GeneID,8974,P4HA2
+GeneID:8985,Protein,GeneID,8985,PLOD3
+GeneID:9039,Protein,GeneID,9039,UBA3
+GeneID:9052,Protein,GeneID,9052,GPRC5A
+GeneID:9054,Protein,GeneID,9054,NFS1
+GeneID:9061,Protein,GeneID,9061,PAPSS1
+GeneID:909,Protein,GeneID,909,CD1A
+GeneID:9099,Protein,GeneID,9099,USP2
+GeneID:9132,Protein,GeneID,9132,KCNQ4
+GeneID:914,Protein,GeneID,914,CD2
+GeneID:9146,Protein,GeneID,9146,HGS
+GeneID:9152,Protein,GeneID,9152,SLC6A5
+GeneID:916,Protein,GeneID,916,CD3E
+GeneID:920,Protein,GeneID,920,CD4
+GeneID:9212,Protein,GeneID,9212,AURKB
+GeneID:9227,Protein,GeneID,9227,LRAT
+GeneID:930,Protein,GeneID,930,CD19
+GeneID:931,Protein,GeneID,931,MS4A1
+GeneID:9311,Protein,GeneID,9311,ASIC3
+GeneID:933,Protein,GeneID,933,CD22
+GeneID:9356,Protein,GeneID,9356,SLC22A6
+GeneID:9370,Protein,GeneID,9370,ADIPOQ
+GeneID:94,Protein,GeneID,94,ACVRL1
+GeneID:940,Protein,GeneID,940,CD28
+GeneID:941,Protein,GeneID,941,CD80
+GeneID:94121,Protein,GeneID,94121,SYTL4
+GeneID:9415,Protein,GeneID,9415,FADS2
+GeneID:942,Protein,GeneID,942,CD86
+GeneID:943,Protein,GeneID,943,TNFRSF8
+GeneID:9446,Protein,GeneID,9446,GSTO1
+GeneID:945,Protein,GeneID,945,CD33
+GeneID:949,Protein,GeneID,949,SCARB1
+GeneID:9507,Protein,GeneID,9507,ADAMTS4
+GeneID:9517,Protein,GeneID,9517,SPTLC2
+GeneID:9518,Protein,GeneID,9518,GDF15
+GeneID:9520,Protein,GeneID,9520,NPEPPS
+GeneID:9536,Protein,GeneID,9536,PTGES
+GeneID:9568,Protein,GeneID,9568,GABBR2
+GeneID:958,Protein,GeneID,958,CD40
+GeneID:959,Protein,GeneID,959,CD40LG
+GeneID:960,Protein,GeneID,960,CD44
+GeneID:961,Protein,GeneID,961,CD47
+GeneID:9616,Protein,GeneID,9616,RNF7
+GeneID:9641,Protein,GeneID,9641,IKBKE
+GeneID:970,Protein,GeneID,970,CD70
+GeneID:9734,Protein,GeneID,9734,HDAC9
+GeneID:9759,Protein,GeneID,9759,HDAC4
+GeneID:9817,Protein,GeneID,9817,KEAP1
+GeneID:983,Protein,GeneID,983,CDK1
+GeneID:993,Protein,GeneID,993,CDC25A
+GeneID:994,Protein,GeneID,994,CDC25B
+GeneID:995,Protein,GeneID,995,CDC25C
+GeneID:9955,Protein,GeneID,9955,HS3ST3A1
+GeneID:9962,Protein,GeneID,9962,SLC23A2
+GeneID:9970,Protein,GeneID,9970,NR1I3
+GeneID:9971,Protein,GeneID,9971,NR1H4
+GeneID:9982,Protein,GeneID,9982,FGFBP1
+GeneID:999,Protein,GeneID,999,CDH1
+GeneID:9990,Protein,GeneID,9990,SLC12A6
+GeneID:6392,Protein,GeneID,6392,SDHD
+GeneID:6335,Protein,GeneID,6335,SCN9A
+GeneID:3938,Protein,GeneID,3938,LCT
+GeneID:93659,Protein,GeneID,93659,CGB5
+GeneID:6715,Protein,GeneID,6715,SRD5A1
+GeneID:1375,Protein,GeneID,1375,CPT1B
+GeneID:3283,Protein,GeneID,3283,HSD3B1
+GeneID:50940,Protein,GeneID,50940,PDE11A
+GeneID:64805,Protein,GeneID,64805,P2RY12
+GeneID:10266,Protein,GeneID,10266,RAMP2
+GeneID:1592,Protein,GeneID,1592,CYP26A1
+GeneID:23563,Protein,GeneID,23563,CHST5
+GeneID:2939,Protein,GeneID,2939,GSTA2
+GeneID:3284,Protein,GeneID,3284,HSD3B2
+GeneID:59340,Protein,GeneID,59340,HRH4
+GeneID:6716,Protein,GeneID,6716,SRD5A2
+GeneID:8288,Protein,GeneID,8288,EPX
+GeneID:8622,Protein,GeneID,8622,PDE8B
+GeneID:51185,Protein,GeneID,51185,CRBN
+GeneID:56934,Protein,GeneID,56934,CA10
+GeneID:90134,Protein,GeneID,90134,KCNH7
+GeneID:79896,Protein,GeneID,79896,THNSL1
+GeneID:51752,Protein,GeneID,51752,ERAP1
+GeneID:8001,Protein,GeneID,8001,GLRA3
+GeneID:8484,Protein,GeneID,8484,GALR3
+GeneID:9177,Protein,GeneID,9177,HTR3B
+GeneID:9607,Protein,GeneID,9607,CARTPT
+GeneID:10060,Protein,GeneID,10060,ABCC9
+GeneID:101,Protein,GeneID,101,ADAM8
+GeneID:10536,Protein,GeneID,10536,LEPREL2
+GeneID:11255,Protein,GeneID,11255,HRH3
+GeneID:119391,Protein,GeneID,119391,GSTO2
+GeneID:146057,Protein,GeneID,146057,TTBK2
+GeneID:221357,Protein,GeneID,221357,GSTA5
+GeneID:246,Protein,GeneID,246,ALOX15
+GeneID:2925,Protein,GeneID,2925,GRPR
+GeneID:55214,Protein,GeneID,55214,LEPREL1
+GeneID:7498,Protein,GeneID,7498,XDH
+GeneID:7850,Protein,GeneID,7850,IL1R2
+GeneID:7941,Protein,GeneID,7941,PLA2G7
+GeneID:83464,Protein,GeneID,83464,APH1B
+GeneID:8513,Protein,GeneID,8513,LIPF
+GeneID:89832,Protein,GeneID,89832,CHRFAM7A
+GeneID:8989,Protein,GeneID,8989,TRPA1
+GeneID:6781,Protein,GeneID,6781,STC1
+GeneID:11280,Protein,GeneID,11280,SCN11A
+GeneID:9424,Protein,GeneID,9424,KCNK6
+GeneID:3359,Protein,GeneID,3359,HTR3A
+GeneID:786,Protein,GeneID,786,CACNG1
+GeneID:8911,Protein,GeneID,8911,CACNA1I
+GeneID:51311,Protein,GeneID,51311,TLR8
+GeneID:1146,Protein,GeneID,1146,CHRNG
+GeneID:10800,Protein,GeneID,10800,CYSLTR1
+GeneID:23430,Protein,GeneID,23430,TPSD1
+GeneID:3067,Protein,GeneID,3067,HDC
+GeneID:6037,Protein,GeneID,6037,RNASE3
+GeneID:80332,Protein,GeneID,80332,ADAM33
+GeneID:9002,Protein,GeneID,9002,F2RL3
+GeneID:9254,Protein,GeneID,9254,CACNA2D2
+GeneID:412,Protein,GeneID,412,STS
+GeneID:3061,Protein,GeneID,3061,HCRTR1
+GeneID:3361,Protein,GeneID,3361,HTR5A
+GeneID:438,Protein,GeneID,438,ASMT
+GeneID:100996758,Protein,GeneID,100996758,LOC100996758
+GeneID:101929889,Protein,GeneID,101929889,LOC101929889
+GeneID:101930400,Protein,GeneID,101930400,LOC101930400
+GeneID:5949,Protein,GeneID,5949,RBP3
+GeneID:64146,Protein,GeneID,64146,PDF
+GeneID:8722,Protein,GeneID,8722,CTSF
+GeneID:84539,Protein,GeneID,84539,MCHR2
+GeneID:284111,Protein,GeneID,284111,SLC13A5
+GeneID:339896,Protein,GeneID,339896,GADL1
+GeneID:3590,Protein,GeneID,3590,IL11RA
+GeneID:57818,Protein,GeneID,57818,G6PC2
+GeneID:128869,Protein,GeneID,128869,PIGU
+GeneID:266629,Protein,GeneID,266629,SEC14L3
+GeneID:27345,Protein,GeneID,27345,KCNMB4
+GeneID:64849,Protein,GeneID,64849,SLC13A3
+GeneID:9900,Protein,GeneID,9900,SV2A
+GeneID:5149,Protein,GeneID,5149,PDE6H
+GeneID:55799,Protein,GeneID,55799,CACNA2D3
+GeneID:10400,Protein,GeneID,10400,PEMT
+GeneID:51174,Protein,GeneID,51174,TUBD1
+GeneID:51727,Protein,GeneID,51727,CMPK1
+GeneID:6514,Protein,GeneID,6514,SLC2A2
+GeneID:6754,Protein,GeneID,6754,SSTR4
+GeneID:80736,Protein,GeneID,80736,SLC44A4
+GeneID:2564,Protein,GeneID,2564,GABRE
+GeneID:2568,Protein,GeneID,2568,GABRP
+GeneID:3776,Protein,GeneID,3776,KCNK2
+GeneID:203068,Protein,GeneID,203068,TUBB
+GeneID:2880,Protein,GeneID,2880,GPX5
+GeneID:51162,Protein,GeneID,51162,EGFL7
+GeneID:338442,Protein,GeneID,338442,HCAR2
+GeneID:8843,Protein,GeneID,8843,HCAR3
+GeneID:27115,Protein,GeneID,27115,PDE7B
+GeneID:51166,Protein,GeneID,51166,AADAT
+GeneID:5137,Protein,GeneID,5137,PDE1C
+GeneID:5150,Protein,GeneID,5150,PDE7A
+GeneID:55867,Protein,GeneID,55867,SLC22A11
+GeneID:56267,Protein,GeneID,56267,CCBL2
+GeneID:83998,Protein,GeneID,83998,REG4
+GeneID:84649,Protein,GeneID,84649,DGAT2
+GeneID:9487,Protein,GeneID,9487,PIGL
+GeneID:9718,Protein,GeneID,9718,ECE2
+GeneID:56413,Protein,GeneID,56413,LTB4R2
+GeneID:3249,Protein,GeneID,3249,HPN
+GeneID:9963,Protein,GeneID,9963,SLC23A1
+GeneID:2350,Protein,GeneID,2350,FOLR2
+GeneID:151306,Protein,GeneID,151306,GPBAR1
+GeneID:30814,Protein,GeneID,30814,PLA2G2E
+GeneID:51477,Protein,GeneID,51477,ISYNA1
+GeneID:55312,Protein,GeneID,55312,RFK
+GeneID:55879,Protein,GeneID,55879,GABRQ
+GeneID:55627,Protein,GeneID,55627,SMPD4
+GeneID:79581,Protein,GeneID,79581,SLC52A2
+GeneID:29881,Protein,GeneID,29881,NPC1L1
+GeneID:6523,Protein,GeneID,6523,SLC5A1
+GeneID:6524,Protein,GeneID,6524,SLC5A2
+GeneID:10993,Protein,GeneID,10993,SDS
+GeneID:139760,Protein,GeneID,139760,GPR119
+GeneID:2864,Protein,GeneID,2864,FFAR1
+GeneID:8869,Protein,GeneID,8869,ST3GAL5
+GeneID:10003,Protein,GeneID,10003,NAALAD2
+GeneID:140679,Protein,GeneID,140679,SLC32A1
+GeneID:23428,Protein,GeneID,23428,SLC7A8
+GeneID:57468,Protein,GeneID,57468,SLC12A5
+GeneID:27094,Protein,GeneID,27094,KCNMB3
+GeneID:51305,Protein,GeneID,51305,KCNK9
+GeneID:56670,Protein,GeneID,56670,SUCNR1
+GeneID:54884,Protein,GeneID,54884,RETSAT
+GeneID:10242,Protein,GeneID,10242,KCNMB2
+GeneID:285313,Protein,GeneID,285313,IGSF10
+GeneID:6718,Protein,GeneID,6718,AKR1D1
+GeneID:9058,Protein,GeneID,9058,SLC13A2
+GeneID:9376,Protein,GeneID,9376,SLC22A8
+GeneID:121642,Protein,GeneID,121642,ALKBH2
+GeneID:23632,Protein,GeneID,23632,CA14
+GeneID:51380,Protein,GeneID,51380,CSAD
+GeneID:8630,Protein,GeneID,8630,HSD17B6
+GeneID:23541,Protein,GeneID,23541,SEC14L2
+GeneID:23657,Protein,GeneID,23657,SLC7A11
+GeneID:64902,Protein,GeneID,64902,AGXT2
+GeneID:6898,Protein,GeneID,6898,TAT
+GeneID:680,Protein,GeneID,680,BRS3
+GeneID:8140,Protein,GeneID,8140,SLC7A5
+GeneID:94027,Protein,GeneID,94027,CGB7
+GeneID:94115,Protein,GeneID,94115,CGB8
+GeneID:79676,Protein,GeneID,79676,OGFOD2
+GeneID:11096,Protein,GeneID,11096,ADAMTS5
+GeneID:11202,Protein,GeneID,11202,KLK8
+GeneID:162514,Protein,GeneID,162514,TRPV3
+GeneID:360203,Protein,GeneID,360203,GLT6D1
+GeneID:261729,Protein,GeneID,261729,STEAP2
+GeneID:81285,Protein,GeneID,81285,OR51E2
+GeneID:55163,Protein,GeneID,55163,PNPO
+GeneID:5918,Protein,GeneID,5918,RARRES1
+GeneID:8973,Protein,GeneID,8973,CHRNA6
+GeneID:8838,Protein,GeneID,8838,WISP3
+GeneID:116444,Protein,GeneID,116444,GRIN3B
+GeneID:51091,Protein,GeneID,51091,SEPSECS
+GeneID:1145,Protein,GeneID,1145,CHRNE
+GeneID:27032,Protein,GeneID,27032,ATP2C1
+GeneID:50632,Protein,GeneID,50632,CALY
+GeneID:9407,Protein,GeneID,9407,TMPRSS11D
+GeneID:64122,Protein,GeneID,64122,FN3K
+GeneID:55800,Protein,GeneID,55800,SCN3B
+MeSH:D002405,Disease,MeSH,D002405,"Catheterization, Central Venous"
+MeSH:D059345,Disease,MeSH,D059345,Cerebral Small Vessel Diseases
+MeSH:D013587,Disease,MeSH,D013587,Syphilis
+MeSH:D013706,Disease,MeSH,D013706,Temporomandibular Joint Dysfunction Syndrome
+MeSH:D033581,Disease,MeSH,D033581,Stem Cell Transplantation
+MeSH:D011693,Disease,MeSH,D011693,Purpura
+MeSH:D011843,Disease,MeSH,D011843,Radiculopathy
+MeSH:D059411,Disease,MeSH,D059411,Lower Urinary Tract Symptoms
+MeSH:D006487,Disease,MeSH,D006487,Hemostasis
+MeSH:D008796,Disease,MeSH,D008796,Metrorrhagia
+MeSH:D056650,Disease,MeSH,D056650,Vulvodynia
+MeSH:D010599,Disease,MeSH,D010599,Pharmacokinetics
+MeSH:D046290,Disease,MeSH,D046290,"Liver Abscess, Pyogenic"
+MeSH:D059413,Disease,MeSH,D059413,Intraabdominal Infections
+MeSH:D001762,Disease,MeSH,D001762,Blepharitis
+MeSH:D014277,Disease,MeSH,D014277,Trigeminal Neuralgia
+MeSH:D014526,Disease,MeSH,D014526,Urethritis
+MeSH:D013716,Disease,MeSH,D013716,Tennis Elbow
+MeSH:D051298,Disease,MeSH,D051298,Post-Traumatic Headache
+MeSH:D001759,Disease,MeSH,D001759,Blastomycosis
+MeSH:D013211,Disease,MeSH,D013211,Staphylococcus aureus
+MeSH:D046628,Disease,MeSH,D046628,Sphincter of Oddi Dysfunction
+MeSH:D006726,Disease,MeSH,D006726,Hordeolum
+MeSH:D058387,Disease,MeSH,D058387,Candidemia
+MeSH:D010963,Disease,MeSH,D010963,Plasmodium falciparum
+MeSH:D000768,Disease,MeSH,D000768,"Anesthesia, General"
+MeSH:D002585,Disease,MeSH,D002585,Cesarean Section
+MeSH:D011292,Disease,MeSH,D011292,Premedication
+MeSH:D015878,Disease,MeSH,D015878,Mydriasis
+MeSH:D019148,Disease,MeSH,D019148,Neuromuscular Blockade
+MeSH:D060825,Disease,MeSH,D060825,Mild Cognitive Impairment
+MeSH:D000762,Disease,MeSH,D000762,Anesthesia Recovery Period
+MeSH:D019644,Disease,MeSH,D019644,"Arthroplasty, Replacement, Hip"
+MeSH:D019645,Disease,MeSH,D019645,"Arthroplasty, Replacement, Knee"
+MeSH:D001660,Disease,MeSH,D001660,Biliary Tract Diseases
+MeSH:D021501,Disease,MeSH,D021501,Flank Pain
+MeSH:D059350,Disease,MeSH,D059350,Chronic Pain
+MeSH:D059787,Disease,MeSH,D059787,Acute Pain
+MeSH:D005499,Disease,MeSH,D005499,Folliculitis
+MeSH:D013224,Disease,MeSH,D013224,Status Asthmaticus
+MeSH:D002771,Disease,MeSH,D002771,Cholera
+MeSH:D010032,Disease,MeSH,D010032,Otitis Externa
+MeSH:D009980,Disease,MeSH,D009980,Influenza A virus
+MeSH:D002062,Disease,MeSH,D002062,Bursitis
+MeSH:D059549,Disease,MeSH,D059549,Anterior Cruciate Ligament Reconstruction
+MeSH:D061865,Disease,MeSH,D061865,Hemorrhoidectomy
+MeSH:D011550,Disease,MeSH,D011550,Pseudomonas aeruginosa
+MeSH:D014184,Disease,MeSH,D014184,"Transplantation, Homologous"
+MeSH:D018273,Disease,MeSH,D018273,"Carcinoma, Islet Cell"
+MeSH:D007044,Disease,MeSH,D007044,Hysterectomy
+MeSH:D003113,Disease,MeSH,D003113,Colonoscopy
+MeSH:D056833,Disease,MeSH,D056833,Central Serous Chorioretinopathy
+MeSH:D057873,Disease,MeSH,D057873,Peri-Implantitis
+MeSH:D004347,Disease,MeSH,D004347,Drug Interactions
+MeSH:D015817,Disease,MeSH,D015817,Eye Infections
+MeSH:D009382,Disease,MeSH,D009382,"Neoplasms, Unknown Primary"
+MeSH:D006328,Disease,MeSH,D006328,Cardiac Catheterization
+MeSH:D009667,Disease,MeSH,D009667,"Nose Deformities, Acquired"
+MeSH:D022125,Disease,MeSH,D022125,Lacerations
+MeSH:D014068,Disease,MeSH,D014068,Tonsillectomy
+MeSH:D016058,Disease,MeSH,D016058,"Analgesia, Patient-Controlled"
+MeSH:D006805,Disease,MeSH,D006805,Human Experimentation
+MeSH:D009349,Disease,MeSH,D009349,Nematode Infections
+MeSH:D012520,Disease,MeSH,D012520,Sarcoptes scabiei
+MeSH:D000031,Disease,MeSH,D000031,"Abortion, Septic"
+MeSH:D000030,Disease,MeSH,D000030,"Abortion, Missed"
+MeSH:D007828,Disease,MeSH,D007828,Laryngoscopy
+MeSH:D019701,Disease,MeSH,D019701,"Hepatitis D, Chronic"
+MeSH:D003004,Disease,MeSH,D003004,Clonorchis sinensis
+MeSH:D013129,Disease,MeSH,D013129,Spinal Puncture
+MeSH:D012550,Disease,MeSH,D012550,Schistosoma mansoni
+MeSH:D012039,Disease,MeSH,D012039,Regional Blood Flow
+MeSH:D020070,Disease,MeSH,D020070,Cervical Ripening
+MeSH:D009091,Disease,MeSH,D009091,Mucormycosis
+MeSH:D055732,Disease,MeSH,D055732,Pulmonary Aspergillosis
+MeSH:D055624,Disease,MeSH,D055624,Methicillin-Resistant Staphylococcus aureus
+MeSH:D006084,Disease,MeSH,D006084,Graft Rejection
+MeSH:D007429,Disease,MeSH,D007429,Intraocular Pressure
+MeSH:D000028,Disease,MeSH,D000028,"Abortion, Induced"
+MeSH:D007169,Disease,MeSH,D007169,Impetigo
+MeSH:D014661,Disease,MeSH,D014661,Vasoconstriction
+MeSH:D015269,Disease,MeSH,D015269,Mycobacterium avium Complex
+MeSH:D004926,Disease,MeSH,D004926,Escherichia coli
+MeSH:D014189,Disease,MeSH,D014189,Transsexualism
+PubChemCID:66644,Drug,PubChemCID,66644,salicylhydroxamic acid
+PubChemCID:159594,Drug,PubChemCID,159594,A 127722
+PubChemCID:177358,Drug,PubChemCID,177358,amminedichloro(2-methylpyridine)platinum(II)
+PubChemCID:6441243,Drug,PubChemCID,6441243,prostaglandin B2
+PubChemCID:148202,Drug,PubChemCID,148202,cositecan
+PubChemCID:4604,Drug,PubChemCID,4604,Oxonic Acid
+PubChemCID:439488,Drug,PubChemCID,439488,Didp
+PubChemCID:5282192,Drug,PubChemCID,5282192,sorivudine
+PubChemCID:2148,Drug,PubChemCID,2148,p-Aminohippuric Acid
+PubChemCID:9690109,Drug,PubChemCID,9690109,armodafinil
+PubChemCID:501254,Drug,PubChemCID,501254,lisofylline
+PubChemCID:46936256,Drug,PubChemCID,46936256,10016-20-3
+PubChemCID:50515,Drug,PubChemCID,50515,amonafide
+GeneID:493869,Protein,GeneID,493869,GPX8
+GeneID:55034,Protein,GeneID,55034,MOCOS
+GeneID:134864,Protein,GeneID,134864,TAAR1
+GeneID:113451,Protein,GeneID,113451,ADC
+GeneID:84706,Protein,GeneID,84706,GPT2
+GeneID:9650807,Protein,GeneID,9650807,
+GeneID:55584,Protein,GeneID,55584,CHRNA9
+GeneID:57053,Protein,GeneID,57053,CHRNA10
+GeneID:206358,Protein,GeneID,206358,SLC36A1
+GeneID:9249,Protein,GeneID,9249,DHRS3
+GeneID:6570,Protein,GeneID,6570,SLC18A1
+GeneID:123096,Protein,GeneID,123096,SLC25A29
+GeneID:54677,Protein,GeneID,54677,CROT
+GeneID:200959,Protein,GeneID,200959,GABRR3
+GeneID:6561,Protein,GeneID,6561,SLC13A1
+GeneID:6327,Protein,GeneID,6327,SCN2B
+GeneID:6330,Protein,GeneID,6330,SCN4B
+GeneID:257202,Protein,GeneID,257202,GPX6
+GeneID:54963,Protein,GeneID,54963,UCKL1
+GeneID:9453,Protein,GeneID,9453,GGPS1
+GeneID:51022,Protein,GeneID,51022,GLRX2
+GeneID:92292,Protein,GeneID,92292,GLYATL1
+GeneID:4759,Protein,GeneID,4759,NEU2
+GeneID:284904,Protein,GeneID,284904,SEC14L4
+GeneID:259307,Protein,GeneID,259307,IL4I1
+GeneID:377677,Protein,GeneID,377677,CA13
+GeneID:145482,Protein,GeneID,145482,PTGR2
+GeneID:766,Protein,GeneID,766,CA7
+GeneID:57665,Protein,GeneID,57665,RDH14
+GeneID:1142,Protein,GeneID,1142,CHRNB3
+GeneID:50700,Protein,GeneID,50700,RDH8
+GeneID:6476,Protein,GeneID,6476,SI
+GeneID:11238,Protein,GeneID,11238,CA5B
+GeneID:221120,Protein,GeneID,221120,ALKBH3
+GeneID:81033,Protein,GeneID,81033,KCNH6
+GeneID:113457,Protein,GeneID,113457,TUBA3D
+GeneID:10723,Protein,GeneID,10723,SLC12A7
+GeneID:81551,Protein,GeneID,81551,STMN4
+GeneID:116447,Protein,GeneID,116447,TOP1MT
+GeneID:2841,Protein,GeneID,2841,GPR18
+GeneID:219970,Protein,GeneID,219970,GLYATL2
